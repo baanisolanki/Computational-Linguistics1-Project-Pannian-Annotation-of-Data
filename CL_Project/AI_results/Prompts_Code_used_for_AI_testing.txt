@@ -1,0 +1,112 @@
+﻿Tagset used:
+Karak tags-
+k1: Karta (subject/agent)
+k2: Karma (Direct Object/Theme)
+k3: Karana (instrument)
+k4:sampradana(recipient/beneficiary)
+k5:apadana(departure/source)
+k7: adhikarana(location/time/context)
+
+
+Standard POS tagging for no-karaka parts of speech-
+V:main verb(predicate)
+VAUX: auxiliary verb
+JJ: adjective 
+RB: adverb
+PSP: postpositions/case markers
+NN: General noun
+CC: Conjunction 
+RP: particle
+PUNC: punctuation 
+SYM: for numbers/symbols
+
+
+kaggle-gemma
+
+Zero shot
+Few shot
+Instructions based
+
+ChatGPT and gemini
+
+
+Zero shot
+I have attached a conll file <batch1> containing 50 sentences in English. Annotate this dataset in panninian grammar word relations, using <tagset> .
+Tagset used:
+Karak tags-
+k1: Karta (subject/agent)
+k2: Karma (Direct Object/Theme)
+k3: Karana (instrument)
+k4:sampradana(recipient/beneficiary)
+k5:apadana(departure/source)
+k7: adhikarana(location/time/context)
+
+
+Standard POS tagging for no-karaka parts of speech-
+V:main verb(predicate)
+VAUX: auxiliary verb
+JJ: adjective 
+RB: adverb
+PSP: postpositions/case markers
+NN: General noun
+CC: Conjunction 
+RP: particle
+PUNC: punctuation 
+SYM: for numbers/symbols
+create a new conll file where you Write the annotation for each token in each sentence after it. do this for all 50 sentences in the <batch1>
+
+
+
+
+Few shot
+I have attached a conll file <batch2> containing 50 sentences in English. Annotate this dataset in panninian grammar word relations, using <tagset> .
+Tagset used:
+Karak tags-
+k1: Karta (subject/agent)
+k2: Karma (Direct Object/Theme)
+k3: Karana (instrument)
+k4:sampradana(recipient/beneficiary)
+k5:apadana(departure/source)
+k7: adhikarana(location/time/context)
+
+
+Standard POS tagging for no-karaka parts of speech-
+V:main verb(predicate)
+VAUX: auxiliary verb
+JJ: adjective 
+RB: adverb
+PSP: postpositions/case markers
+NN: General noun
+CC: Conjunction 
+RP: particle
+PUNC: punctuation 
+SYM: for numbers/symbols
+create a new conll file where you Write the annotation for each token in each sentence after it. do this for all 50 sentences in the <batch2>. 
+File <trainingdataset> contains some pre-annotated sentences. Understand the patterns and complete annotation for <batch2>
+
+
+Instructions based
+I have attached a conll file <batch3> containing 50 sentences in English. Annotate this dataset in panninian grammar word relations, using <tagset> .
+Tagset used:
+Karak tags-
+k1: Karta (subject/agent)
+k2: Karma (Direct Object/Theme)
+k3: Karana (instrument)
+k4:sampradana(recipient/beneficiary)
+k5:apadana(departure/source)
+k7: adhikarana(location/time/context)
+
+
+Standard POS tagging for no-karaka parts of speech-
+V:main verb(predicate)
+VAUX: auxiliary verb
+JJ: adjective 
+RB: adverb
+PSP: postpositions/case markers
+NN: General noun
+CC: Conjunction 
+RP: particle
+PUNC: punctuation 
+SYM: for numbers/symbols
+create a new conll file where you Write the annotation for each token in each sentence after it. do this for all 50 sentences in the <batch3>
+Use the knowledge given in file <instructions> to understand how the tagset works and do the tagging.

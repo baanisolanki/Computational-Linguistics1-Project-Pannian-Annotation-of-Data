@@ -1,0 +1,557 @@
+# Reuters
+1   Corporate   JJ
+2   earnings    NN
+3   reports     k1
+4   exceeded    V
+5   analyst     NN
+6   expectations k2
+7   this        JJ
+8   quarter     k7
+9   .           PUNC
+
+# The Hindu
+1   Organic     JJ
+2   farming     k1
+3   is          V
+4   gaining     VAUX
+5   popularity  k2
+6   among       PSP
+7   young       JJ
+8   entrepreneurs k7
+9   .           PUNC
+
+# BBC News
+1   The         JJ
+2   international JJ
+3   film        NN
+4   festival    k1
+5   opened      V
+6   with        PSP
+7   a           JJ
+8   grand       JJ
+9   ceremony    k3
+10  .           PUNC
+
+# Reuters
+1   Trade       NN
+2   deficit     k1
+3   narrowed    V
+4   due         PSP
+5   to          PSP
+6   a           JJ
+7   rise        k5
+8   in          PSP
+9   exports     NN
+10  .           PUNC
+
+# The Hindu
+1   Traffic     NN
+2   rules       k1
+3   have        VAUX
+4   been        VAUX
+5   tightened   V
+6   to          PSP
+7   improve     V
+8   road        NN
+9   safety      k2
+10  .           PUNC
+
+# BBC News
+1   Astronomers k1
+2   observed    V
+3   a           JJ
+4   rare        JJ
+5   comet       k2
+6   passing     V
+7   near        PSP
+8   Earth       k7
+9   .           PUNC
+
+# Reuters
+1   Global      JJ
+2   logistics   NN
+3   firms       k1
+4   are         VAUX
+5   adopting    V
+6   green       JJ
+7   energy      NN
+8   solutions   k2
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   irrigation  NN
+3   project     k1
+4   will        VAUX
+5   benefit     V
+6   thousands   NN
+7   of          PSP
+8   farmers     k2
+9   .           PUNC
+
+# BBC News
+1   Mental      JJ
+2   health      NN
+3   awareness   k1
+4   is          VAUX
+5   increasing  V
+6   in          PSP
+7   the         JJ
+8   workplace   k7
+9   .           PUNC
+
+# Reuters
+1   Small       JJ
+2   businesses  k1
+3   are         VAUX
+4   receiving   V
+5   support     k2
+6   through     PSP
+7   government  NN
+8   grants      k3
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   state       NN
+3   library     k1
+4   offers      V
+5   free        JJ
+6   internet    NN
+7   access      k2
+8   to          PSP
+9   students    k4
+10  .           PUNC
+
+# BBC News
+1   Urban       JJ
+2   vertical    JJ
+3   gardens     k1
+4   are         VAUX
+5   helping     V
+6   reduce      V
+7   city        NN
+8   pollution   k2
+9   .           PUNC
+
+# Reuters
+1   The         JJ
+2   steel       NN
+3   industry    k1
+4   reported    V
+5   a           JJ
+6   surge       k2
+7   in          PSP
+8   global      JJ
+9   demand      NN
+10  .           PUNC
+
+# The Hindu
+1   Community   NN
+2   kitchens    k1
+3   provided    V
+4   meals       k2
+5   to          PSP
+6   those       NN
+7   in          PSP
+8   need        k7
+9   .           PUNC
+
+# BBC News
+1   Scientists  k1
+2   are         VAUX
+3   studying    V
+4   the         JJ
+5   effects     k2
+6   of          PSP
+7   microplastics NN
+8   on          PSP
+9   fish        k7
+10  .           PUNC
+
+# Reuters
+1   The         JJ
+2   semiconductor NN
+3   shortage    k1
+4   is          VAUX
+5   finally     RB
+6   beginning   V
+7   to          PSP
+8   ease        V
+9   .           PUNC
+
+# The Hindu
+1   Coastal     JJ
+2   erosion     k1
+3   is          VAUX
+4   threatening V
+5   several     JJ
+6   historic    JJ
+7   seaside     NN
+8   villages    k2
+9   .           PUNC
+
+# BBC News
+1   New         JJ
+2   educational JJ
+3   software    k1
+4   helps       V
+5   children    k2
+6   learn       V
+7   math        k2
+8   easily      RB
+9   .           PUNC
+
+# Reuters
+1   Consumer    NN
+2   confidence  k1
+3   hit         V
+4   a           JJ
+5   one-year    JJ
+6   high        k2
+7   this        JJ
+8   month       k7
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   national    JJ
+3   park        k1
+4   reopened    V
+5   after       PSP
+6   successful  JJ
+7   habitat     NN
+8   restoration k7
+9   .           PUNC
+
+# BBC News
+1   Modern      JJ
+2   art         NN
+3   galleries   k1
+4   are         VAUX
+5   focusing    V
+6   on          PSP
+7   interactive JJ
+8   installations k7
+9   .           PUNC
+
+# Reuters
+1   Debt        NN
+2   restructuring NN
+3   plans       k1
+4   were        VAUX
+5   approved    V
+6   by          PSP
+7   the         JJ
+8   creditors   k1
+9   .           PUNC
+
+# The Hindu
+1   Farmers     k1
+2   are         VAUX
+3   adopting    V
+4   smart       JJ
+5   sensors     k2
+6   for         PSP
+7   water       NN
+8   management  k7
+9   .           PUNC
+
+# BBC News
+1   Space       NN
+2   debris      k1
+3   is          V
+4   a           JJ
+5   growing     JJ
+6   concern     k2
+7   for         PSP
+8   satellite   NN
+9   safety      NN
+10  .           PUNC
+
+# Reuters
+1   The         JJ
+2   hospitality NN
+3   sector      k1
+4   is          VAUX
+5   seeing      V
+6   a           JJ
+7   rapid       JJ
+8   recovery    k2
+9   .           PUNC
+
+# The Hindu
+1   Local       JJ
+2   artisans    k1
+3   are         VAUX
+4   showcasing  V
+5   their       JJ
+6   work        k2
+7   at          PSP
+8   the         JJ
+9   fair        k7
+10  .           PUNC
+
+# BBC News
+1   Genomic     JJ
+2   research    k1
+3   is          VAUX
+4   providing   V
+5   insights    k2
+6   into        PSP
+7   rare        JJ
+8   diseases    k7
+9   .           PUNC
+
+# Reuters
+1   Commodity   NN
+2   prices      k1
+3   fluctuate   V
+4   due         PSP
+5   to          PSP
+6   changing    JJ
+7   global      JJ
+8   demand      k3
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   city        NN
+3   council     k1
+4   approved    V
+5   the         JJ
+6   new         JJ
+7   waste       NN
+8   management  NN
+9   plan        k2
+10  .           PUNC
+
+# BBC News
+1   Public      JJ
+2   libraries   k1
+3   are         VAUX
+4   evolving    V
+5   into        PSP
+6   modern      JJ
+7   community   NN
+8   hubs        k2
+9   .           PUNC
+
+# Reuters
+1   Foreign     JJ
+2   exchange    NN
+3   reserves    k1
+4   reached     V
+5   a           JJ
+6   comfortable JJ
+7   level       k2
+8   recently    k7
+9   .           PUNC
+
+# The Hindu
+1   Youth       NN
+2   volunteers  k1
+3   are         VAUX
+4   leading     V
+5   the         JJ
+6   urban       JJ
+7   cleanup     NN
+8   drive       k2
+9   .           PUNC
+
+# BBC News
+1   Advancements JJ
+2   in          PSP
+3   battery     NN
+4   technology  k1
+5   are         VAUX
+6   aiding      V
+7   electric    JJ
+8   vehicles    k2
+9   .           PUNC
+
+# Reuters
+1   The         JJ
+2   automotive  NN
+3   market      k1
+4   is          VAUX
+5   shifting    V
+6   toward      PSP
+7   sustainable JJ
+8   models      k7
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   heritage    NN
+3   walk        k1
+4   covers      V
+5   ten         SYM
+6   historical  JJ
+7   monuments   k2
+8   today       k7
+9   .           PUNC
+
+# BBC News
+1   High-speed  JJ
+2   trains      k1
+3   are         VAUX
+4   being       VAUX
+5   tested      V
+6   on          PSP
+7   new         JJ
+8   routes      k7
+9   .           PUNC
+
+# Reuters
+1   Tax         NN
+2   revenue     k1
+3   increased   V
+4   following   PSP
+5   the         JJ
+6   new         JJ
+7   policy      NN
+8   changes     k7
+9   .           PUNC
+
+# The Hindu
+1   Rural       JJ
+2   schools     k1
+3   received    V
+4   new         JJ
+5   computer    NN
+6   labs        k2
+7   this        JJ
+8   month       k7
+9   .           PUNC
+
+# BBC News
+1   Deep-sea    JJ
+2   exploration k1
+3   revealed    V
+4   amazing     JJ
+5   volcanic    JJ
+6   vent        NN
+7   ecosystems  k2
+8   .           PUNC
+
+# Reuters
+1   Retail      JJ
+2   inflation   k1
+3   dropped     V
+4   to          PSP
+5   a           JJ
+6   six-month   JJ
+7   low         k2
+8   recently    k7
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   food        NN
+3   festival    k1
+4   features    V
+5   cuisines    k2
+6   from        PSP
+7   various     JJ
+8   states      k5
+9   .           PUNC
+
+# BBC News
+1   Cybersecurity NN
+2   threats     k1
+3   are         VAUX
+4   becoming    V
+5   more        RB
+6   sophisticated JJ
+7   each        JJ
+8   year        k7
+9   .           PUNC
+
+# Reuters
+1   Commercial  JJ
+2   real        JJ
+3   estate      NN
+4   demand      k1
+5   is          VAUX
+6   picking     V
+7   up          RP
+8   slowly      RB
+9   .           PUNC
+
+# The Hindu
+1   Vocational  JJ
+2   training    NN
+3   centers     k1
+4   help        V
+5   youth       k2
+6   find        V
+7   better      JJ
+8   jobs        k2
+9   .           PUNC
+
+# BBC News
+1   Scientists  k1
+2   found       V
+3   a           JJ
+4   way         k2
+5   to          PSP
+6   recycle     V
+7   plastic     k2
+8   efficiently RB
+9   .           PUNC
+
+# Reuters
+1   Major       JJ
+2   banks       k1
+3   reported    V
+4   stable      JJ
+5   profits     k2
+6   for         PSP
+7   the         JJ
+8   half-year   k7
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   literary    JJ
+3   award       k1
+4   went        V
+5   to          PSP
+6   a           JJ
+7   debut       JJ
+8   novelist    k4
+9   .           PUNC
+
+# BBC News
+1   New         JJ
+2   telescopes  k1
+3   will        VAUX
+4   help        V
+5   us          k2
+6   understand  V
+7   black       JJ
+8   holes       k2
+9   .           PUNC
+
+# Reuters
+1   The         JJ
+2   construction NN
+3   sector      k1
+4   is          VAUX
+5   facing      V
+6   a           JJ
+7   labor       NN
+8   shortage    k2
+9   .           PUNC
+
+# The Hindu
+1   The         JJ
+2   flower      NN
+3   show        k1
+4   at          PSP
+5   the         JJ
+6   park        k7
+7   was         V
+8   beautiful   JJ
+9   .           PUNC

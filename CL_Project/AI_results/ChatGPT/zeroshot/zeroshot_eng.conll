@@ -1,0 +1,595 @@
+# Reuters
+# Corporate earnings reports exceeded analyst expectations this quarter.
+1	Corporate	NN	k1
+2	earnings	NN	k1
+3	reports	NN	k1
+4	exceeded	V	-
+5	analyst	NN	k2
+6	expectations	NN	k2
+7	this	NN	k2
+8	quarter	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Organic farming is gaining popularity among young entrepreneurs.
+1	Organic	NN	k1
+2	farming	V	-
+3	is	NN	k2
+4	gaining	NN	k2
+5	popularity	NN	k2
+6	among	PSP	k7
+7	young	NN	k2
+8	entrepreneurs	NN	k2
+9	.	NN	k2
+
+# BBC News
+# The international film festival opened with a grand ceremony.
+1	The	JJ	k1
+2	international	NN	k1
+3	film	NN	k1
+4	festival	NN	k1
+5	opened	V	-
+6	with	PSP	k7
+7	a	JJ	k2
+8	grand	NN	k2
+9	ceremony	NN	k2
+10	.	NN	k2
+
+# Reuters
+# Trade deficit narrowed due to a rise in exports.
+1	Trade	NN	k1
+2	deficit	NN	k1
+3	narrowed	V	-
+4	due	NN	k2
+5	to	PSP	k7
+6	a	JJ	k2
+7	rise	NN	k2
+8	in	PSP	k7
+9	exports	NN	k2
+10	.	NN	k2
+
+# The Hindu
+# Traffic rules have been tightened to improve road safety.
+1	Traffic	NN	k1
+2	rules	NN	k1
+3	have	V	-
+4	been	NN	k2
+5	tightened	NN	k2
+6	to	PSP	k7
+7	improve	NN	k2
+8	road	NN	k2
+9	safety	NN	k2
+10	.	NN	k2
+
+# BBC News
+# Astronomers observed a rare comet passing near Earth.
+1	Astronomers	NN	k1
+2	observed	V	-
+3	a	JJ	k2
+4	rare	NN	k2
+5	comet	NN	k2
+6	passing	NN	k2
+7	near	PSP	k7
+8	Earth	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Global logistics firms are adopting green energy solutions.
+1	Global	NN	k1
+2	logistics	NN	k1
+3	firms	NN	k1
+4	are	V	-
+5	adopting	NN	k2
+6	green	NN	k2
+7	energy	NN	k2
+8	solutions	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# The irrigation project will benefit thousands of farmers.
+1	The	JJ	k1
+2	irrigation	NN	k1
+3	project	NN	k1
+4	will	V	-
+5	benefit	NN	k2
+6	thousands	NN	k2
+7	of	NN	k2
+8	farmers	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Mental health awareness is increasing in the workplace.
+1	Mental	NN	k1
+2	health	NN	k1
+3	awareness	NN	k1
+4	is	V	-
+5	increasing	NN	k2
+6	in	PSP	k7
+7	the	JJ	k2
+8	workplace	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Small businesses are receiving support through government grants.
+1	Small	NN	k1
+2	businesses	NN	k1
+3	are	V	-
+4	receiving	NN	k2
+5	support	NN	k2
+6	through	PSP	k7
+7	government	NN	k2
+8	grants	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# The state library offers free internet access to students.
+1	The	JJ	-
+2	state	NN	-
+3	library	NN	-
+4	offers	NN	-
+5	free	NN	-
+6	internet	NN	-
+7	access	NN	-
+8	to	PSP	k7
+9	students	NN	-
+10	.	NN	-
+
+# BBC News
+# Urban vertical gardens are helping reduce city pollution.
+1	Urban	NN	k1
+2	vertical	NN	k1
+3	gardens	NN	k1
+4	are	V	-
+5	helping	NN	k2
+6	reduce	NN	k2
+7	city	NN	k2
+8	pollution	NN	k2
+9	.	NN	k2
+
+# Reuters
+# The steel industry reported a surge in global demand.
+1	The	JJ	k1
+2	steel	NN	k1
+3	industry	NN	k1
+3	reported	V	-
+4	a	JJ	k2
+5	surge	NN	k2
+6	in	PSP	k7
+7	global	NN	k2
+8	demand	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Community kitchens provided meals to those in need.
+1	Community	NN	k1
+2	kitchens	NN	k1
+3	provided	V	-
+4	meals	NN	k2
+5	to	PSP	k7
+6	those	NN	k2
+7	in	PSP	k7
+8	need	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Scientists are studying the effects of microplastics on fish.
+1	Scientists	NN	k1
+2	are	V	-
+3	studying	NN	k2
+4	the	JJ	k2
+5	effects	NN	k2
+6	of	NN	k2
+7	microplastics	NN	k2
+8	on	PSP	k7
+9	fish	NN	k2
+10	.	NN	k2
+
+# Reuters
+# The semiconductor shortage is finally beginning to ease.
+1	The	JJ	k1
+2	semiconductor	NN	k1
+3	shortage	NN	k1
+4	is	V	-
+5	finally	RB	k2
+6	beginning	NN	k2
+7	to	PSP	k7
+8	ease	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Coastal erosion is threatening several historic seaside villages.
+1	Coastal	NN	k1
+2	erosion	NN	k1
+3	is	V	-
+4	threatening	NN	k2
+5	several	NN	k2
+6	historic	NN	k2
+7	seaside	NN	k2
+8	villages	NN	k2
+9	.	NN	k2
+
+# BBC News
+# New educational software helps children learn math easily.
+1	New	NN	-
+2	educational	NN	-
+3	software	NN	-
+4	helps	NN	-
+5	children	NN	-
+6	learn	NN	-
+7	math	NN	-
+8	easily	RB	-
+9	.	NN	-
+
+# Reuters
+# Consumer confidence hit a one-year high this month.
+1	Consumer	NN	-
+2	confidence	NN	-
+3	hit	NN	-
+4	a	JJ	-
+5	one-year	NN	-
+6	high	NN	-
+7	this	NN	-
+8	month	NN	-
+9	.	NN	-
+
+# The Hindu
+# The national park reopened after successful habitat restoration.
+1	The	JJ	k1
+2	national	NN	k1
+3	park	NN	k1
+4	reopened	V	-
+5	after	NN	k2
+6	successful	NN	k2
+7	habitat	NN	k2
+8	restoration	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Modern art galleries are focusing on interactive installations.
+1	Modern	NN	k1
+2	art	NN	k1
+3	galleries	NN	k1
+4	are	V	-
+5	focusing	NN	k2
+6	on	PSP	k7
+7	interactive	NN	k2
+8	installations	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Debt restructuring plans were approved by the creditors.
+1	Debt	NN	k1
+2	restructuring	V	-
+3	plans	NN	k2
+4	were	NN	k2
+5	approved	NN	k2
+6	by	NN	k2
+7	the	JJ	k2
+8	creditors	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Farmers are adopting smart sensors for water management.
+1	Farmers	NN	k1
+2	are	V	-
+3	adopting	NN	k2
+4	smart	NN	k2
+5	sensors	NN	k2
+6	for	NN	k2
+7	water	NN	k2
+8	management	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Space debris is a growing concern for satellite safety.
+1	Space	NN	k1
+2	debris	NN	k1
+3	is	V	-
+4	a	JJ	k2
+5	growing	NN	k2
+6	concern	NN	k2
+7	for	NN	k2
+8	satellite	NN	k2
+9	safety	NN	k2
+10	.	NN	k2
+
+# Reuters
+# The hospitality sector is seeing a rapid recovery.
+1	The	JJ	k1
+2	hospitality	NN	k1
+3	sector	NN	k1
+4	is	V	-
+5	seeing	NN	k2
+6	a	JJ	k2
+7	rapid	NN	k2
+8	recovery	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Local artisans are showcasing their work at the fair.
+1	Local	NN	k1
+2	artisans	NN	k1
+3	are	V	-
+4	showcasing	NN	k2
+5	their	NN	k2
+6	work	NN	k2
+7	at	PSP	k7
+8	the	JJ	k2
+9	fair	NN	k2
+10	.	NN	k2
+
+# BBC News
+# Genomic research is providing insights into rare diseases.
+1	Genomic	NN	k1
+2	research	NN	k1
+3	is	V	-
+4	providing	NN	k2
+5	insights	NN	k2
+6	into	NN	k2
+7	rare	NN	k2
+8	diseases	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Commodity prices fluctuate due to changing global demand.
+1	Commodity	NN	k1
+2	prices	NN	k1
+3	fluctuate	NN	k1
+4	due	NN	k1
+5	to	PSP	k7
+6	changing	V	-
+7	global	NN	k2
+8	demand	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# The city council approved the new waste management plan.
+1	The	JJ	k1
+2	city	NN	k1
+3	council	NN	k1
+4	approved	V	-
+5	the	JJ	k2
+6	new	NN	k2
+7	waste	NN	k2
+8	management	NN	k2
+9	plan	NN	k2
+10	.	NN	k2
+
+# BBC News
+# Public libraries are evolving into modern community hubs.
+1	Public	NN	k1
+2	libraries	NN	k1
+3	are	V	-
+4	evolving	NN	k2
+5	into	NN	k2
+6	modern	NN	k2
+7	community	NN	k2
+8	hubs	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Foreign exchange reserves reached a comfortable level recently.
+1	Foreign	NN	k1
+2	exchange	NN	k1
+3	reserves	NN	k1
+4	reached	V	-
+5	a	JJ	k2
+6	comfortable	NN	k2
+7	level	NN	k2
+8	recently	RB	k2
+9	.	NN	k2
+
+# The Hindu
+# Youth volunteers are leading the urban cleanup drive.
+1	Youth	NN	k1
+2	volunteers	NN	k1
+3	are	V	-
+4	leading	NN	k2
+5	the	JJ	k2
+6	urban	NN	k2
+7	cleanup	NN	k2
+8	drive	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Advancements in battery technology are aiding electric vehicles.
+1	Advancements	NN	k1
+2	in	PSP	k7
+3	battery	NN	k1
+4	technology	NN	k1
+5	are	V	-
+6	aiding	NN	k2
+7	electric	NN	k2
+8	vehicles	NN	k2
+9	.	NN	k2
+
+# Reuters
+# The automotive market is shifting toward sustainable models.
+1	The	JJ	k1
+2	automotive	NN	k1
+3	market	NN	k1
+4	is	V	-
+5	shifting	NN	k2
+6	toward	NN	k2
+7	sustainable	NN	k2
+8	models	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# The heritage walk covers ten historical monuments today.
+1	The	JJ	-
+2	heritage	NN	-
+3	walk	NN	-
+4	covers	NN	-
+5	ten	NN	-
+6	historical	NN	-
+7	monuments	NN	-
+8	today	NN	-
+9	.	NN	-
+
+# BBC News
+# High-speed trains are being tested on new routes.
+1	High-speed	V	-
+2	trains	NN	k2
+3	are	NN	k2
+4	being	NN	k2
+5	tested	NN	k2
+6	on	PSP	k7
+7	new	NN	k2
+8	routes	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Tax revenue increased following the new policy changes.
+1	Tax	NN	k1
+2	revenue	NN	k1
+3	increased	V	-
+4	following	NN	k2
+5	the	JJ	k2
+6	new	NN	k2
+7	policy	NN	k2
+8	changes	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# Rural schools received new computer labs this month.
+1	Rural	NN	k1
+2	schools	NN	k1
+3	received	V	-
+4	new	NN	k2
+5	computer	NN	k2
+6	labs	NN	k2
+7	this	NN	k2
+8	month	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Deep-sea exploration revealed amazing volcanic vent ecosystems.
+1	Deep-sea	NN	k1
+2	exploration	NN	k1
+3	revealed	V	-
+4	amazing	NN	k2
+5	volcanic	NN	k2
+6	vent	NN	k2
+7	ecosystems	NN	k2
+8	.	NN	k2
+
+# Reuters
+# Retail inflation dropped to a six-month low recently.
+1	Retail	NN	k1
+2	inflation	NN	k1
+3	dropped	V	-
+4	to	PSP	k7
+5	a	JJ	k2
+6	six-month	NN	k2
+7	low	NN	k2
+8	recently	RB	k2
+9	.	NN	k2
+
+# The Hindu
+# The food festival features cuisines from various states.
+1	The	JJ	-
+2	food	NN	-
+3	festival	NN	-
+4	features	NN	-
+5	cuisines	NN	-
+6	from	PSP	k7
+7	various	NN	-
+8	states	NN	-
+9	.	NN	-
+
+# BBC News
+# Cybersecurity threats are becoming more sophisticated each year.
+1	Cybersecurity	NN	k1
+2	threats	NN	k1
+3	are	V	-
+4	becoming	NN	k2
+5	more	NN	k2
+6	sophisticated	NN	k2
+7	each	NN	k2
+8	year	NN	k2
+9	.	NN	k2
+
+# Reuters
+# Commercial real estate demand is picking up slowly.
+1	Commercial	NN	k1
+2	real	NN	k1
+3	estate	NN	k1
+4	demand	NN	k1
+5	is	V	-
+6	picking	NN	k2
+7	up	NN	k2
+8	slowly	RB	k2
+9	.	NN	k2
+
+# The Hindu
+# Vocational training centers help youth find better jobs.
+1	Vocational	NN	k1
+2	training	V	-
+3	centers	NN	k2
+4	help	NN	k2
+5	youth	NN	k2
+6	find	NN	k2
+7	better	NN	k2
+8	jobs	NN	k2
+9	.	NN	k2
+
+# BBC News
+# Scientists found a way to recycle plastic efficiently.
+1	Scientists	NN	-
+2	found	NN	-
+3	a	JJ	-
+4	way	NN	-
+5	to	PSP	k7
+6	recycle	NN	-
+7	plastic	NN	-
+8	efficiently	RB	-
+9	.	NN	-
+
+# Reuters
+# Major banks reported stable profits for the half-year.
+1	Major	NN	k1
+2	banks	NN	k1
+3	reported	V	-
+4	stable	NN	k2
+5	profits	NN	k2
+6	for	NN	k2
+7	the	JJ	k2
+8	half-year	NN	k2
+9	.	NN	k2
+
+# The Hindu
+# The literary award went to a debut novelist.
+1	The	JJ	-
+2	literary	NN	-
+3	award	NN	-
+4	went	NN	-
+5	to	PSP	k7
+6	a	JJ	-
+7	debut	NN	-
+8	novelist	NN	-
+9	.	NN	-
+
+# BBC News
+# New telescopes will help us understand black holes.
+1	New	NN	k1
+2	telescopes	NN	k1
+3	will	V	-
+4	help	NN	k2
+5	us	NN	k2
+6	understand	NN	k2
+7	black	NN	k2
+8	holes	NN	k2
+9	.	NN	k2
+
+# Reuters
+# The construction sector is facing a labor shortage.
+1	The	JJ	k1
+2	construction	NN	k1
+3	sector	NN	k1
+4	is	V	-
+5	facing	NN	k2
+6	a	JJ	k2
+7	labor	NN	k2
+8	shortage	NN	k2
+9	.	NN	k2
