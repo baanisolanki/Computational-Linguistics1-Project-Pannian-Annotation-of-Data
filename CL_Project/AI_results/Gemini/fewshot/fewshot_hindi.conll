@@ -1,0 +1,609 @@
+# Dainik Jagran
+# Bharat ne videshi nivesh ke naye raste khole hain.
+1   Bharat        k1      
+2   ne            PSP     
+3   videshi       JJ      
+4   nivesh        NN      
+5   ke            PSP     
+6   naye          JJ      
+7   raste         k2      
+8   khole         V       
+9   hain          VAUX    
+10  .             PUNC    
+
+# Navbharat Times
+# Digital bhugtan ab har chote shahar mein uplabdh hai.
+1   Digital       JJ      
+2   bhugtan       k1      
+3   ab            RB      
+4   har           JJ      
+5   chote         JJ      
+6   shahar        k7      
+7   mein          PSP     
+8   uplabdh       JJ      
+9   hai           V       
+10  .             PUNC    
+
+# Amar Ujala
+# Vigyanikon ne ek naye virus ki vaccine taiyar ki.
+1   Vigyanikon    k1      
+2   ne            PSP     
+3   ek            SYM     
+4   naye          JJ      
+5   virus         NN      
+6   ki            PSP     
+7   vaccine       k2      
+8   taiyar        JJ      
+9   ki            V       
+10  .             PUNC    
+
+# Dainik Jagran
+# Kendriya mantri ne naye ropeway ka udghatan kiya.
+1   Kendriya      JJ      
+2   mantri        k1      
+3   ne            PSP     
+4   naye          JJ      
+5   ropeway       NN      
+6   ka            PSP     
+7   udghatan      k2      
+8   kiya          V       
+9   .             PUNC    
+
+# Navbharat Times
+# Mahila t20 world cup mein Bharat ki shandaar jeet.
+1   Mahila        NN      
+2   t20           SYM     
+3   world         NN      
+4   cup           k7      
+5   mein          PSP     
+6   Bharat        NN      
+7   ki            PSP     
+8   shandaar      JJ      
+9   jeet          k1      
+10  .             PUNC    
+
+# Amar Ujala
+# Pradushan kam karne ke liye naye niyam banaye gaye.
+1   Pradushan     k2      
+2   kam           JJ      
+3   karne         V       
+4   ke            PSP     
+5   liye          PSP     
+6   naye          JJ      
+7   niyam         k1      
+8   banaye        V       
+9   gaye          VAUX    
+10  .             PUNC    
+
+# Dainik Jagran
+# Uttar Pradesh mein naye udyog lagane par zor diya.
+1   Uttar         NN      
+2   Pradesh       k7      
+3   mein          PSP     
+4   naye          JJ      
+5   udyog         k2      
+6   lagane        V       
+7   par           PSP     
+8   zor           k2      
+9   diya          V       
+10  .             PUNC    
+
+# Navbharat Times
+# Antariksh yatriyon ne naya spacewalk saphalta se poora kiya.
+1   Antariksh     NN      
+2   yatriyon      k1      
+3   ne            PSP     
+4   naya          JJ      
+5   spacewalk     k2      
+6   saphalta      k3      
+7   se            PSP     
+8   poora         JJ      
+9   kiya          V       
+10  .             PUNC    
+
+# Amar Ujala
+# Pahadi ilakon mein bhari barfbari se yatayat thap hai.
+1   Pahadi        JJ      
+2   ilakon        k7      
+3   mein          PSP     
+4   bhari         JJ      
+5   barfbari      k1      
+6   se            PSP     
+7   yatayat       k1      
+8   thap          JJ      
+9   hai           V       
+10  .             PUNC    
+
+# Dainik Jagran
+# Shiksha niti mein naye badlavon ka swagat kiya gaya.
+1   Shiksha       NN      
+2   niti          k7      
+3   mein          PSP     
+4   naye          JJ      
+5   badlavon      NN      
+6   ka            PSP     
+7   swagat        k2      
+8   kiya          V       
+9   gaya          VAUX    
+10  .             PUNC    
+
+# Navbharat Times
+# Sahar mein naye water plant ki sthapana hui.
+1   Sahar         k7      
+2   mein          PSP     
+3   naye          JJ      
+4   water         NN      
+5   plant         NN      
+6   ki            PSP     
+7   sthapana      k1      
+8   hui           V       
+9   .             PUNC    
+
+# Amar Ujala
+# Van vibhag ne jungle mein naye CCTV camera lagaye.
+1   Van           NN      
+2   vibhag        k1      
+3   ne            PSP     
+4   jungle        k7      
+5   mein          PSP     
+6   naye          JJ      
+7   CCTV          NN      
+8   camera        k2      
+9   lagaye        V       
+10  .             PUNC    
+
+# Dainik Jagran
+# Startup India se naye vyapariyon ko sahayata mili.
+1   Startup       NN      
+2   India         k5      
+3   se            PSP     
+4   naye          JJ      
+5   vyapariyon    k4      
+6   ko            PSP     
+7   sahayata      k1      
+8   mili          V       
+9   .             PUNC    
+
+# Navbharat Times
+# Indian Premier League ke naye season ka aagaz hua.
+1   Indian        NN      
+2   Premier       NN      
+3   League        NN      
+4   ke            PSP     
+5   naye          JJ      
+6   season        NN      
+7   ka            PSP     
+8   aagaz         k1      
+9   hua           V       
+10  .             PUNC    
+
+# Amar Ujala
+# Naye kanoon se cyber apraadh kam honge.
+1   Naye          JJ      
+2   kanoon        k3      
+3   se            PSP     
+4   cyber         NN      
+5   apraadh       k1      
+6   kam           JJ      
+7   honge         V       
+8   .             PUNC    
+
+# Dainik Jagran
+# Railway ne naye coach mein vishesh suvidhaye di hain.
+1   Railway       k1      
+2   ne            PSP     
+3   naye          JJ      
+4   coach         k7      
+5   mein          PSP     
+6   vishesh       JJ      
+7   suvidhaye     k2      
+8   di            V       
+9   hain          VAUX    
+10  .             PUNC    
+
+# Navbharat Times
+# Sanskritik mela mein naye kalakaro ne prastuti di.
+1   Sanskritik    JJ      
+2   mela          k7      
+3   mein          PSP     
+4   naye          JJ      
+5   kalakaro      k1      
+6   ne            PSP     
+7   prastuti      k2      
+8   di            V       
+9   .             PUNC    
+
+# Amar Ujala
+# Himalayan kshetron mein naye rahasya mile hain.
+1   Himalayan     JJ      
+2   kshetron      k7      
+3   mein          PSP     
+4   naye          JJ      
+5   rahasya       k1      
+6   mile          V       
+7   hain          VAUX    
+8   .             PUNC    
+
+# Dainik Jagran
+# PM Modi ne naye samjhauto par hastakshar kiye.
+1   PM            NN      
+2   Modi          k1      
+3   ne            PSP     
+4   naye          JJ      
+5   samjhauto     k7      
+6   par           PSP     
+7   hastakshar    k2      
+8   kiye          V       
+9   .             PUNC    
+
+# Navbharat Times
+# Sahar ke beechonbeech naya auditorium banaya gaya.
+1   Sahar         NN      
+2   ke            PSP     
+3   beechonbeech k7      
+4   naya          JJ      
+5   auditorium    k2      
+6   banaya        V       
+7   gaya          VAUX    
+8   .             PUNC    
+
+# Amar Ujala
+# Jal sanrakshan ke liye naya abhiyan shuru hua.
+1   Jal           NN      
+2   sanrakshan    k4      
+3   ke            PSP     
+4   liye          PSP     
+5   naya          JJ      
+6   abhiyan       k1      
+7   shuru         NN      
+8   hua           V       
+9   .             PUNC    
+
+# Dainik Jagran
+# Khel mantralaya ne naye stadium ke liye paise diye.
+1   Khel          NN      
+2   mantralaya    k1      
+3   ne            PSP     
+4   naye          JJ      
+5   stadium       k4      
+6   ke            PSP     
+7   liye          PSP     
+8   paise         k2      
+9   diye          V       
+10  .             PUNC    
+
+# Navbharat Times
+# Agle mahine naya smartphone market mein ayega.
+1   Agle          JJ      
+2   mahine        k7      
+3   naya          JJ      
+4   smartphone    k1      
+5   market        k7      
+6   mein          PSP     
+7   ayega         V       
+8   .             PUNC    
+
+# Amar Ujala
+# Paryatan ko badhava dene ke liye naye hotel khule.
+1   Paryatan      k4      
+2   ko            PSP     
+3   badhava       k2      
+4   dene          V       
+5   ke            PSP     
+6   liye          PSP     
+7   naye          JJ      
+8   hotel         k1      
+9   khule         V       
+10  .             PUNC    
+
+# Dainik Jagran
+# Kendriya sarkaar ne kisanon ke liye nayi policy banayi.
+1   Kendriya      JJ      
+2   sarkaar       k1      
+3   ne            PSP     
+4   kisanon       k4      
+5   ke            PSP     
+6   liye          PSP     
+7   nayi          JJ      
+8   policy        k2      
+9   banayi        V       
+10  .             PUNC    
+
+# Navbharat Times
+# Smart city project mein naya vikas hua hai.
+1   Smart         JJ      
+2   city          NN      
+3   project       k7      
+4   mein          PSP     
+5   naya          JJ      
+6   vikas         k1      
+7   hua           V       
+8   hai           VAUX    
+9   .             PUNC    
+
+# Amar Ujala
+# Kedarnath yatra ke liye naye registration shuru hue.
+1   Kedarnath     NN      
+2   yatra         k4      
+3   ke            PSP     
+4   liye          PSP     
+5   naye          JJ      
+6   registration  k1      
+7   shuru         NN      
+8   hue           V       
+9   .             PUNC    
+
+# Dainik Jagran
+# Vyapaarik kshetron mein naye niyam lagu kiye gaye.
+1   Vyapaarik     JJ      
+2   kshetron      k7      
+3   mein          PSP     
+4   naye          JJ      
+5   niyam         k2      
+6   lagu          JJ      
+7   kiye          V       
+8   gaye          VAUX    
+9   .             PUNC    
+
+# Navbharat Times
+# Technology ke upyog se kheti asaan ho gayi hai.
+1   Technology    k3      
+2   ke            PSP     
+3   upyog         NN      
+4   se            PSP     
+5   kheti         k1      
+6   asaan         JJ      
+7   ho            V       
+8   gayi          VAUX    
+9   hai           VAUX    
+10  .             PUNC    
+
+# Amar Ujala
+# Naye bridge se yatra ka samay kam ho gaya.
+1   Naye          JJ      
+2   bridge        k3      
+3   se            PSP     
+4   yatra         NN      
+5   ka            PSP     
+6   samay         k1      
+7   kam           JJ      
+8   ho            V       
+9   gaya          VAUX    
+10  .             PUNC    
+
+# Dainik Jagran
+# Shahar ke kude se bijli banane ka plant laga.
+1   Shahar        NN      
+2   ke            PSP     
+3   kude          k5      
+4   se            PSP     
+5   bijli         k2      
+6   banane        V       
+7   ka            PSP     
+8   plant         k1      
+9   laga          V       
+10  .             PUNC    
+
+# Navbharat Times
+# International film festival mein naye directors aye.
+1   International JJ      
+2   film          NN      
+3   festival      k7      
+4   mein          PSP     
+5   naye          JJ      
+6   directors     k1      
+7   aye           V       
+8   .             PUNC    
+
+# Amar Ujala
+# Naye budget mein shiksha par zor diya gaya.
+1   Naye          JJ      
+2   budget        k7      
+3   mein          PSP     
+4   shiksha       k7      
+5   par           PSP     
+6   zor           k2      
+7   diya          V       
+8   gaya          VAUX    
+9   .             PUNC    
+
+# Dainik Jagran
+# Bharat ne naya dosti samjhauta Bhutan se kiya.
+1   Bharat        k1      
+2   ne            PSP     
+3   naya          JJ      
+4   dosti         NN      
+5   samjhauta     k2      
+6   Bhutan        k3      
+7   se            PSP     
+8   kiya          V       
+9   .             PUNC    
+
+# Navbharat Times
+# Naye park mein bachon ke liye vishesh jhoole hain.
+1   Naye          JJ      
+2   park          k7      
+3   mein          PSP     
+4   bachon        k4      
+5   ke            PSP     
+6   liye          PSP     
+7   vishesh       JJ      
+8   jhoole        k1      
+9   hain          V       
+10  .             PUNC    
+
+# Amar Ujala
+# Historical sites ki suraksha ke liye naye niyam.
+1   Historical    JJ      
+2   sites         NN      
+3   ki            PSP     
+4   suraksha      k4      
+5   ke            PSP     
+6   liye          PSP     
+7   naye          JJ      
+8   niyam         k1      
+9   .             PUNC    
+
+# Dainik Jagran
+# Naye saal par logon ne naya sankalp liya.
+1   Naye          JJ      
+2   saal          k7      
+3   par           PSP     
+4   logon         k1      
+5   ne            PSP     
+6   naya          JJ      
+7   sankalp       k2      
+8   liya          V       
+9   .             PUNC    
+
+# Navbharat Times
+# Digital India se naye rozgaar ke raste khule.
+1   Digital       JJ      
+2   India         k3      
+3   se            PSP     
+4   naye          JJ      
+5   rozgaar       NN      
+6   ke            PSP     
+7   raste         k1      
+8   khule         V       
+9   .             PUNC    
+
+# Amar Ujala
+# Zoo mein naye tiger ko laya gaya hai.
+1   Zoo           k7      
+2   mein          PSP     
+3   naye          JJ      
+4   tiger         k2      
+5   ko            PSP     
+6   laya          V       
+7   gaya          VAUX    
+8   hai           VAUX    
+9   .             PUNC    
+
+# Dainik Jagran
+# ISRO ne naya rocket launch kiya hai.
+1   ISRO          k1      
+2   ne            PSP     
+3   naya          JJ      
+4   rocket        k2      
+5   launch        NN      
+6   kiya          V       
+7   hai           VAUX    
+8   .             PUNC    
+
+# Navbharat Times
+# Naya software computer ki raftaar ko badha dega.
+1   Naya          JJ      
+2   software      k1      
+3   computer      NN      
+4   ki            PSP     
+5   raftaar       k2      
+6   ko            PSP     
+7   badha         V       
+8   dega          VAUX    
+9   .             PUNC    
+
+# Amar Ujala
+# Gaon mein naye pani ke tank banaye gaye.
+1   Gaon          k7      
+2   mein          PSP     
+3   naye          JJ      
+4   pani          NN      
+5   ke            PSP     
+6   tank          k1      
+7   banaye        V       
+8   gaye          VAUX    
+9   .             PUNC    
+
+# Dainik Jagran
+# Cyber cell ne naye fraud ka pardafaash kiya.
+1   Cyber         NN      
+2   cell          k1      
+3   ne            PSP     
+4   naye          JJ      
+5   fraud         NN      
+6   ka            PSP     
+7   pardafaash   k2      
+8   kiya          V       
+9   .             PUNC    
+
+# Navbharat Times
+# International market mein naye product ki mang badhi.
+1   International JJ      
+2   market        k7      
+3   mein          PSP     
+4   naye          JJ      
+5   product       NN      
+6   ki            PSP     
+7   mang          k1      
+8   badhi         V       
+9   .             PUNC    
+
+# Amar Ujala
+# Naye saal par shahar mein kadi suraksha hogi.
+1   Naye          JJ      
+2   saal          k7      
+3   par           PSP     
+4   shahar        k7      
+5   mein          PSP     
+6   kadi          JJ      
+7   suraksha      k1      
+8   hogi          V       
+9   .             PUNC    
+
+# Dainik Jagran
+# Indian space agency ne naya record banaya hai.
+1   Indian        JJ      
+2   space         NN      
+3   agency        k1      
+4   ne            PSP     
+5   naya          JJ      
+6   record        k2      
+7   banaya        V       
+8   hai           VAUX    
+9   .             PUNC    
+
+# Navbharat Times
+# High court ne naye hospital par faisla sunaya.
+1   High          JJ      
+2   court         k1      
+3   ne            PSP     
+4   naye          JJ      
+5   hospital      k7      
+6   par           PSP     
+7   faisla        k2      
+8   sunaya        V       
+9   .             PUNC    
+
+# Amar Ujala
+# Mount Everest par naye raste ki khoj hui.
+1   Mount         NN      
+2   Everest       k7      
+3   par           PSP     
+4   naye          JJ      
+5   raste         NN      
+6   ki            PSP     
+7   khoj          k1      
+8   hui           V       
+9   .             PUNC    
+
+# Dainik Jagran
+# Naye sansad mein pehli baithak hui.
+1   Naye          JJ      
+2   sansad        k7      
+3   mein          PSP     
+4   pehli         JJ      
+5   baithak       k1      
+6   hui           V       
+7   .             PUNC    
+
+# Navbharat Times
+# Railway ne naya special software launch kiya.
+1   Railway       k1      
+2   ne            PSP     
+3   naya          JJ      
+4   special       JJ      
+5   software      k2      
+6   launch        NN      
+7   kiya          V       
+8   .             PUNC    

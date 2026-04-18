@@ -1,0 +1,516 @@
+1	Bharat	NN
+2	ne	NN
+3	videshi	NN
+4	nivesh	NN
+5	ke	NN
+6	naye	NN
+7	raste	NN
+8	khole	NN
+9	hain	NN
+10	.	NN
+
+1	Digital	NN
+2	bhugtan	NN
+3	ab	NN
+4	har	NN
+5	chote	NN
+6	shahar	NN
+7	mein	NN
+8	uplabdh	NN
+9	hai	NN
+10	.	NN
+
+1	Vigyanikon	NN
+2	ne	NN
+3	ek	NN
+4	naye	NN
+5	virus	NN
+6	ki	NN
+7	vaccine	NN
+8	taiyar	NN
+9	ki	NN
+10	.	NN
+
+1	Kendriya	NN
+2	mantri	NN
+3	ne	NN
+4	naye	NN
+5	ropeway	NN
+6	ka	NN
+7	udghatan	NN
+8	kiya	NN
+9	.	NN
+
+1	Mahila	NN
+2	t20	NN
+3	world	NN
+4	cup	NN
+5	mein	NN
+6	Bharat	NN
+7	ki	NN
+8	shandaar	NN
+9	jeet	NN
+10	.	NN
+
+1	Pradushan	NN
+2	kam	NN
+3	karne	NN
+4	ke	NN
+5	liye	NN
+6	naye	NN
+7	niyam	NN
+8	banaye	NN
+9	gaye	NN
+10	.	NN
+
+1	Uttar	NN
+2	Pradesh	NN
+3	mein	NN
+4	naye	NN
+5	udyog	NN
+6	lagane	NN
+7	par	NN
+8	zor	NN
+9	diya	NN
+10	.	NN
+
+1	Antariksh	NN
+2	yatriyon	NN
+3	ne	NN
+4	naya	NN
+5	spacewalk	NN
+6	saphalta	NN
+7	se	NN
+8	poora	NN
+9	kiya	NN
+10	.	NN
+
+1	Pahadi	NN
+2	ilakon	NN
+3	mein	NN
+4	bhari	NN
+5	barfbari	NN
+6	se	NN
+7	yatayat	NN
+8	thap	NN
+9	hai	NN
+10	.	NN
+
+1	Shiksha	NN
+2	niti	NN
+3	mein	NN
+4	naye	NN
+5	badlavon	NN
+6	ka	NN
+7	swagat	NN
+8	kiya	NN
+9	gaya	NN
+10	.	NN
+
+1	Sahar	NN
+2	mein	NN
+3	naye	NN
+4	water	NN
+5	plant	NN
+6	ki	NN
+7	sthapana	NN
+8	hui	NN
+9	.	NN
+
+1	Van	NN
+2	vibhag	NN
+3	ne	NN
+4	jungle	NN
+5	mein	NN
+6	naye	NN
+7	CCTV	NN
+8	camera	NN
+9	lagaye	NN
+10	.	NN
+
+1	Startup	NN
+2	India	NN
+3	se	NN
+4	naye	NN
+5	vyapariyon	NN
+6	ko	NN
+7	sahayata	NN
+8	mili	NN
+9	.	NN
+
+1	Indian	NN
+2	Premier	NN
+3	League	NN
+4	ke	NN
+5	naye	NN
+6	season	NN
+7	ka	NN
+8	aagaz	NN
+9	hua	NN
+10	.	NN
+
+1	Naye	NN
+2	kanoon	NN
+3	se	NN
+4	cyber	NN
+5	apraadh	NN
+6	kam	NN
+7	honge	NN
+8	.	NN
+
+1	Railway	NN
+2	ne	NN
+3	naye	NN
+4	coach	NN
+5	mein	NN
+6	vishesh	NN
+7	suvidhaye	NN
+8	di	NN
+9	hain	NN
+10	.	NN
+
+1	Sanskritik	NN
+2	mela	NN
+3	mein	NN
+4	naye	NN
+5	kalakaro	NN
+6	ne	NN
+7	prastuti	NN
+8	di	NN
+9	.	NN
+
+1	Himalayan	NN
+2	kshetron	NN
+3	mein	NN
+4	naye	NN
+5	rahasya	NN
+6	mile	NN
+7	hain	NN
+8	.	NN
+
+1	PM	NN
+2	Modi	NN
+3	ne	NN
+4	naye	NN
+5	samjhauto	NN
+6	par	NN
+7	hastakshar	NN
+8	kiye	NN
+9	.	NN
+
+1	Sahar	NN
+2	ke	NN
+3	beechon-beech	NN
+4	naya	NN
+5	auditorium	NN
+6	banaya	NN
+7	gaya	NN
+8	.	NN
+
+1	Jal	NN
+2	sanrakshan	NN
+3	ke	NN
+4	liye	NN
+5	naya	NN
+6	abhiyan	NN
+7	shuru	NN
+8	hua	NN
+9	.	NN
+
+1	Khel	NN
+2	mantralaya	k1
+3	ne	PSP
+4	naye	JJ
+5	stadium	NN
+6	ke	PSP
+7	liye	PSP
+8	paise	NN
+9	diye	NN
+10	.	NN
+
+1	Agle	NN
+2	mahine	NN
+3	naya	NN
+4	smartphone	NN
+5	market	NN
+6	mein	NN
+7	ayega	NN
+8	.	NN
+
+1	Paryatan	NN
+2	ko	NN
+3	badhava	NN
+4	dene	NN
+5	ke	NN
+6	liye	NN
+7	naye	NN
+8	hotel	NN
+9	khule	NN
+10	.	NN
+
+1	Kendriya	NN
+2	sarkaar	NN
+3	ne	NN
+4	kisanon	NN
+5	ke	NN
+6	liye	NN
+7	nayi	NN
+8	policy	NN
+9	banayi	NN
+10	.	NN
+
+1	Smart	NN
+2	city	NN
+3	project	NN
+4	mein	NN
+5	naya	NN
+6	vikas	NN
+7	hua	NN
+8	hai	NN
+9	.	NN
+
+1	Kedarnath	NN
+2	yatra	NN
+3	ke	NN
+4	liye	NN
+5	naye	NN
+6	registration	NN
+7	shuru	NN
+8	hue	NN
+9	.	NN
+
+1	Vyapaarik	NN
+2	kshetron	NN
+3	mein	NN
+4	naye	NN
+5	niyam	NN
+6	lagu	NN
+7	kiye	NN
+8	gaye	NN
+9	.	NN
+
+1	Technology	NN
+2	ke	NN
+3	upyog	NN
+4	se	NN
+5	kheti	NN
+6	asaan	NN
+7	ho	NN
+8	gayi	NN
+9	hai	NN
+10	.	NN
+
+1	Naye	NN
+2	bridge	NN
+3	se	NN
+4	yatra	NN
+5	ka	NN
+6	samay	NN
+7	kam	NN
+8	ho	NN
+9	gaya	NN
+10	.	NN
+
+1	Shahar	NN
+2	ke	NN
+3	kude	NN
+4	se	NN
+5	bijli	NN
+6	banane	NN
+7	ka	NN
+8	naya	NN
+9	plant	NN
+10	.	NN
+
+1	Science	NN
+2	exhibition	NN
+3	mein	NN
+4	bachon	NN
+5	ne	NN
+6	naya	NN
+7	chamatkar	NN
+8	dikhaya	NN
+9	.	NN
+
+1	Wildlife	NN
+2	photography	NN
+3	ke	NN
+4	liye	NN
+5	naya	NN
+6	kanoon	NN
+7	banaya	NN
+8	gaya	NN
+9	.	NN
+
+1	Sarkaar	NN
+2	ne	NN
+3	naye	NN
+4	startup	NN
+5	ko	NN
+6	tax	NN
+7	mein	NN
+8	chhoot	NN
+9	di	NN
+10	.	NN
+
+1	Cricket	NN
+2	team	NN
+3	mein	NN
+4	naye	NN
+5	khiladi	NN
+6	ko	NN
+7	mauka	NN
+8	mila	NN
+9	.	NN
+
+1	Ganga	NN
+2	nadi	NN
+3	ki	NN
+4	safai	NN
+5	ke	NN
+6	liye	NN
+7	naye	NN
+8	upkaran	NN
+9	aye	NN
+10	.	NN
+
+1	Naye	NN
+2	sansad	NN
+3	bhavan	NN
+4	mein	NN
+5	pehli	NN
+6	baithak	NN
+7	saphal	NN
+8	rahi	NN
+9	.	NN
+
+1	Online	NN
+2	shopping	NN
+3	par	NN
+4	naye	NN
+5	offers	NN
+6	ki	NN
+7	bauchar	NN
+8	hui	NN
+9	.	NN
+
+1	Pahadi	NN
+2	rasto	NN
+3	par	NN
+4	naye	NN
+5	sign	NN
+6	board	NN
+7	lagaye	NN
+8	gaye	NN
+9	.	NN
+
+1	Education	NN
+2	sector	NN
+3	mein	NN
+4	naye	NN
+5	badlav	NN
+6	ki	NN
+7	ummeed	NN
+8	hai	NN
+9	.	NN
+
+1	Naya	NN
+2	software	NN
+3	computer	NN
+4	ki	NN
+5	raftaar	NN
+6	ko	NN
+7	badha	NN
+8	dega	NN
+9	.	NN
+
+1	Gaon	NN
+2	mein	NN
+3	naye	NN
+4	pani	NN
+5	ke	NN
+6	tank	NN
+7	banaye	NN
+8	gaye	NN
+9	.	NN
+
+1	Cyber	NN
+2	cell	NN
+3	ne	NN
+4	naye	NN
+5	fraud	NN
+6	ka	NN
+7	parda-faash	NN
+8	kiya	NN
+9	.	NN
+
+1	International	NN
+2	market	NN
+3	mein	NN
+4	naye	NN
+5	product	NN
+6	ki	NN
+7	mang	NN
+8	badhi	NN
+9	.	NN
+
+1	Naye	NN
+2	saal	NN
+3	par	NN
+4	shahar	NN
+5	mein	NN
+6	kadi	NN
+7	suraksha	NN
+8	hogi	NN
+9	.	NN
+
+1	Indian	NN
+2	space	NN
+3	agency	NN
+4	ne	NN
+5	naya	NN
+6	record	NN
+7	banaya	NN
+8	hai	NN
+9	.	NN
+
+1	High	NN
+2	court	NN
+3	ne	NN
+4	naye	NN
+5	hospital	NN
+6	par	NN
+7	faisla	NN
+8	sunaya	NN
+9	.	NN
+
+1	Heritage	NN
+2	site	NN
+3	par	NN
+4	naya	NN
+5	entry	NN
+6	gate	NN
+7	banaya	NN
+8	gaya	NN
+9	.	NN
+
+1	Naye	NN
+2	vyaparik	NN
+3	samjhauto	NN
+4	se	NN
+5	desh	NN
+6	ko	NN
+7	fayda	NN
+8	hoga	NN
+9	.	NN
+
+1	Railway	NN
+2	station	NN
+3	par	NN
+4	naye	NN
+5	lift	NN
+6	lagaye	NN
+7	gaye	NN
+8	hain	NN
+9	.	NN
+

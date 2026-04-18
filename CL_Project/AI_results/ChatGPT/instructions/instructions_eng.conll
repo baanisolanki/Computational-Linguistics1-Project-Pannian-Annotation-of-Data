@@ -1,0 +1,662 @@
+# Al Jazeera
+# The ceasefire agreement brought temporary peace to the region.
+1	The	k1
+2	ceasefire	k1
+3	agreement	k1
+4	brought	V
+5	temporary	k2
+6	peace	k2
+7	to	k7
+8	the	k2
+9	region	k2
+10	.	PUNC
+
+# The Hindu
+# Public parks are being renovated to include more playgrounds.
+1	The	k1
+2	Hindu	k1
+3	Public	k1
+4	parks	k1
+5	are	V
+6	being	VAUX
+7	renovated	k2
+8	to	k7
+9	include	k2
+10	more	k2
+11	playgrounds	k2
+12	.	PUNC
+
+# BBC News
+# Electric scooters are changing how people navigate urban centers.
+1	Electric	k1
+2	scooters	k1
+3	are	V
+4	changing	k2
+5	how	k2
+6	people	k2
+7	navigate	k2
+8	urban	k2
+9	centers	k2
+10	.	PUNC
+
+# Reuters
+# The trade deficit narrowed as electronics exports increased sharply.
+1	The	k1
+2	trade	k1
+3	deficit	k1
+4	narrowed	V
+5	as	k7
+6	electronics	k2
+7	exports	k2
+8	increased	k2
+9	sharply	k2
+10	.	PUNC
+
+# The Guardian
+# Urban planners suggest building more bicycle lanes for safety.
+1	Urban	k1
+2	planners	k1
+3	suggest	V
+4	building	k2
+5	more	k2
+6	bicycle	k2
+7	lanes	k2
+8	for	k7
+9	safety	k2
+10	.	PUNC
+
+# The New York Times
+# High inflation rates are impacting consumer spending on luxury items.
+1	High	k1
+2	inflation	k1
+3	rates	k1
+4	are	V
+5	impacting	k2
+6	consumer	k2
+7	spending	k2
+8	on	k7
+9	luxury	k2
+10	items	k2
+11	.	PUNC
+
+# Al Jazeera
+# Military exercises near the border caused regional diplomatic concern.
+1	Military	k1
+2	exercises	k1
+3	near	k1
+4	the	k1
+5	border	k1
+6	caused	V
+7	regional	k2
+8	diplomatic	k2
+9	concern	k2
+10	.	PUNC
+
+# The Hindu
+# The film festival showcased independent movies from across Asia.
+1	The	k1
+2	film	k1
+3	festival	k1
+4	showcased	V
+5	independent	k2
+6	movies	k2
+7	from	k7
+8	across	k2
+9	Asia	k2
+10	.	PUNC
+
+# BBC News
+# Modern medicine can successfully treat many previously fatal conditions.
+1	Modern	k1
+2	medicine	k1
+3	can	k1
+4	successfully	k1
+5	treat	k1
+6	many	V
+7	previously	k2
+8	fatal	k2
+9	conditions	k2
+10	.	PUNC
+
+# Reuters
+# Construction activity increased following the approval of new projects.
+1	Construction	k1
+2	activity	k1
+3	increased	V
+4	following	k2
+5	the	k2
+6	approval	k2
+7	of	k2
+8	new	k2
+9	projects	k2
+10	.	PUNC
+
+# The Guardian
+# Sustainable fashion brands use recycled materials for their clothing.
+1	Sustainable	k1
+2	fashion	k1
+3	brands	k1
+4	use	k1
+5	recycled	V
+6	materials	k2
+7	for	k7
+8	their	k2
+9	clothing	k2
+10	.	PUNC
+
+# The New York Times
+# A new biography details the secret life of the author.
+1	A	k1
+2	new	k1
+3	biography	k1
+4	details	k1
+5	the	k1
+6	secret	V
+7	life	k2
+8	of	k2
+9	the	k2
+10	author	k2
+11	.	PUNC
+
+# Al Jazeera
+# Thousands gathered for the annual pilgrimage to the holy site.
+1	Thousands	k1
+2	gathered	V
+3	for	k7
+4	the	k2
+5	annual	k2
+6	pilgrimage	k2
+7	to	k7
+8	the	k2
+9	holy	k2
+10	site	k2
+11	.	PUNC
+
+# The Hindu
+# The metro train service was extended to the airport.
+1	The	k1
+2	metro	k1
+3	train	k1
+4	service	k1
+5	was	V
+6	extended	k2
+7	to	k7
+8	the	k2
+9	airport	k2
+10	.	PUNC
+
+# BBC News
+# Robots are being deployed to clean hazardous waste sites.
+1	Robots	k1
+2	are	V
+3	being	VAUX
+4	deployed	k2
+5	to	k7
+6	clean	k2
+7	hazardous	k2
+8	waste	k2
+9	sites	k2
+10	.	PUNC
+
+# Reuters
+# The central bank keeps a close watch on inflation.
+1	The	k1
+2	central	k1
+3	bank	k1
+4	keeps	k1
+5	a	k1
+6	close	V
+7	watch	k2
+8	on	k7
+9	inflation	k2
+10	.	PUNC
+
+# The Guardian
+# Planting trees in cities helps lower the local temperature.
+1	Planting	V
+2	trees	k2
+3	in	k7
+4	cities	k2
+5	helps	k2
+6	lower	k2
+7	the	k2
+8	local	k2
+9	temperature	k2
+10	.	PUNC
+
+# The New York Times
+# A major software update improved the battery life of phones.
+1	A	k1
+2	major	k1
+3	software	k1
+4	update	k1
+5	improved	V
+6	the	k2
+7	battery	k2
+8	life	k2
+9	of	k2
+10	phones	k2
+11	.	PUNC
+
+# Al Jazeera
+# Tensions rise over disputed territory in the northern region.
+1	Tensions	k1
+2	rise	k1
+3	over	k1
+4	disputed	V
+5	territory	k2
+6	in	k7
+7	the	k2
+8	northern	k2
+9	region	k2
+10	.	PUNC
+
+# The Hindu
+# Fresh fruits and vegetables are sold at the local market.
+1	Fresh	k1
+2	fruits	k1
+3	and	k1
+4	vegetables	k1
+5	are	V
+6	sold	k2
+7	at	k7
+8	the	k2
+9	local	k2
+10	market	k2
+11	.	PUNC
+
+# BBC News
+# Exploring the ruins provided clues about the ancient culture.
+1	Exploring	V
+2	the	k2
+3	ruins	k2
+4	provided	k2
+5	clues	k2
+6	about	k2
+7	the	k2
+8	ancient	k2
+9	culture	k2
+10	.	PUNC
+
+# Reuters
+# Consumer prices rose faster than expected in the last month.
+1	Consumer	k1
+2	prices	k1
+3	rose	k1
+4	faster	k1
+5	than	k1
+6	expected	V
+7	in	k7
+8	the	k2
+9	last	k2
+10	month	k2
+11	.	PUNC
+
+# The Guardian
+# Protecting endangered species requires global cooperation and strong laws.
+1	Protecting	V
+2	endangered	k2
+3	species	k2
+4	requires	k2
+5	global	k2
+6	cooperation	k2
+7	and	k2
+8	strong	k2
+9	laws	k2
+10	.	PUNC
+
+# The New York Times
+# The company announced a new line of smart home devices.
+1	The	k1
+2	company	k1
+3	announced	V
+4	a	k2
+5	new	k2
+6	line	k2
+7	of	k2
+8	smart	k2
+9	home	k2
+10	devices	k2
+11	.	PUNC
+
+# Al Jazeera
+# Heavy snowfall blocked major highways in the mountain pass.
+1	Heavy	k1
+2	snowfall	k1
+3	blocked	V
+4	major	k2
+5	highways	k2
+6	in	k7
+7	the	k2
+8	mountain	k2
+9	pass	k2
+10	.	PUNC
+
+# The Hindu
+# The school building was repainted before the new semester started.
+1	The	k1
+2	school	k1
+3	building	V
+4	was	VAUX
+5	repainted	k2
+6	before	k2
+7	the	k2
+8	new	k2
+9	semester	k2
+10	started	k2
+11	.	PUNC
+
+# BBC News
+# Learning a new language improves memory and cognitive skills.
+1	Learning	V
+2	a	k2
+3	new	k2
+4	language	k2
+5	improves	k2
+6	memory	k2
+7	and	k2
+8	cognitive	k2
+9	skills	k2
+10	.	PUNC
+
+# Reuters
+# Economic growth slowed down due to high energy costs.
+1	Economic	k1
+2	growth	k1
+3	slowed	V
+4	down	k2
+5	due	k2
+6	to	k7
+7	high	k2
+8	energy	k2
+9	costs	k2
+10	.	PUNC
+
+# The Guardian
+# Reducing carbon footprints is essential for a sustainable future.
+1	Reducing	V
+2	carbon	k2
+3	footprints	k2
+4	is	VAUX
+5	essential	k2
+6	for	k7
+7	a	k2
+8	sustainable	k2
+9	future	k2
+10	.	PUNC
+
+# The New York Times
+# The play received glowing reviews from theater critics yesterday.
+1	The	k1
+2	play	k1
+3	received	V
+4	glowing	k2
+5	reviews	k2
+6	from	k7
+7	theater	k2
+8	critics	k2
+9	yesterday	k2
+10	.	PUNC
+
+# Al Jazeera
+# Refugees received emergency medical care at the border camp.
+1	Refugees	k1
+2	received	V
+3	emergency	k2
+4	medical	k2
+5	care	k2
+6	at	k7
+7	the	k2
+8	border	k2
+9	camp	k2
+10	.	PUNC
+
+# The Hindu
+# Traffic congestion in the city remains a major problem.
+1	Traffic	k1
+2	congestion	k1
+3	in	k7
+4	the	k1
+5	city	k1
+6	remains	V
+7	a	k2
+8	major	k2
+9	problem	k2
+10	.	PUNC
+
+# BBC News
+# Modern architects focus on energy efficiency and natural light.
+1	Modern	k1
+2	architects	k1
+3	focus	k1
+4	on	k7
+5	energy	k1
+6	efficiency	V
+7	and	k2
+8	natural	k2
+9	light	k2
+10	.	PUNC
+
+# Reuters
+# The stock market reacted positively to the merger news.
+1	The	k1
+2	stock	k1
+3	market	k1
+4	reacted	V
+5	positively	k2
+6	to	k7
+7	the	k2
+8	merger	k2
+9	news	k2
+10	.	PUNC
+
+# The Guardian
+# Oceans play a crucial role in regulating the global climate.
+1	Oceans	k1
+2	play	k1
+3	a	k1
+4	crucial	k1
+5	role	k1
+6	in	k7
+7	regulating	V
+8	the	k2
+9	global	k2
+10	climate	k2
+11	.	PUNC
+
+# The New York Times
+# A new smartphone model was launched with a better camera.
+1	A	k1
+2	new	k1
+3	smartphone	k1
+4	model	k1
+5	was	V
+6	launched	k2
+7	with	k7
+8	a	k2
+9	better	k2
+10	camera	k2
+11	.	PUNC
+
+# Al Jazeera
+# Human rights groups called for an independent investigation.
+1	Human	k1
+2	rights	k1
+3	groups	k1
+4	called	V
+5	for	k7
+6	an	k2
+7	independent	k2
+8	investigation	k2
+9	.	PUNC
+
+# The Hindu
+# Farmers harvested the rice crop after the monsoon ended.
+1	Farmers	k1
+2	harvested	V
+3	the	k2
+4	rice	k2
+5	crop	k2
+6	after	k2
+7	the	k2
+8	monsoon	k2
+9	ended	k2
+10	.	PUNC
+
+# BBC News
+# Watching the sunset over the ocean is a peaceful experience.
+1	Watching	V
+2	the	k2
+3	sunset	k2
+4	over	k2
+5	the	k2
+6	ocean	k2
+7	is	VAUX
+8	a	k2
+9	peaceful	k2
+10	experience	k2
+11	.	PUNC
+
+# Reuters
+# International trade decreased due to new tariff regulations.
+1	International	k1
+2	trade	k1
+3	decreased	V
+4	due	k2
+5	to	k7
+6	new	k2
+7	tariff	k2
+8	regulations	k2
+9	.	PUNC
+
+# The Guardian
+# Switching to electric cars can help reduce urban air pollution.
+1	Switching	V
+2	to	k7
+3	electric	k2
+4	cars	k2
+5	can	k2
+6	help	k2
+7	reduce	k2
+8	urban	k2
+9	air	k2
+10	pollution	k2
+11	.	PUNC
+
+# The New York Times
+# The museum opened a new wing for contemporary art.
+1	The	k1
+2	museum	k1
+3	opened	V
+4	a	k2
+5	new	k2
+6	wing	k2
+7	for	k7
+8	contemporary	k2
+9	art	k2
+10	.	PUNC
+
+# Al Jazeera
+# Military forces were deployed to the flood-affected areas.
+1	Military	k1
+2	forces	k1
+3	were	V
+4	deployed	k2
+5	to	k7
+6	the	k2
+7	flood-affected	k2
+8	areas	k2
+9	.	PUNC
+
+# The Hindu
+# Classical music concerts are held every weekend in December.
+1	Classical	k1
+2	music	k1
+3	concerts	k1
+4	are	V
+5	held	k2
+6	every	k2
+7	weekend	k2
+8	in	k7
+9	December	k2
+10	.	PUNC
+
+# BBC News
+# Scientific discoveries often lead to new and better technologies.
+1	Scientific	k1
+2	discoveries	k1
+3	often	k1
+4	lead	k1
+5	to	k7
+6	new	V
+7	and	k2
+8	better	k2
+9	technologies	k2
+10	.	PUNC
+
+# Reuters
+# Unemployment rates dropped slightly for the second consecutive month.
+1	Unemployment	k1
+2	rates	k1
+3	dropped	V
+4	slightly	k2
+5	for	k7
+6	the	k2
+7	second	k2
+8	consecutive	k2
+9	month	k2
+10	.	PUNC
+
+# The Guardian
+# Healthy eating and regular exercise are key to longevity.
+1	Healthy	k1
+2	eating	V
+3	and	k2
+4	regular	k2
+5	exercise	k2
+6	are	VAUX
+7	key	k2
+8	to	k7
+9	longevity	k2
+10	.	PUNC
+
+# The New York Times
+# A major earthquake struck the northern coast this morning.
+1	A	k1
+2	major	k1
+3	earthquake	k1
+4	struck	k1
+5	the	k1
+6	northern	k1
+7	coast	k1
+8	this	k1
+9	morning	V
+10	.	PUNC
+
+# Al Jazeera
+# Negotiations for a permanent peace treaty will begin next week.
+1	Negotiations	k1
+2	for	k7
+3	a	k1
+4	permanent	k1
+5	peace	k1
+6	treaty	V
+7	will	k2
+8	begin	k2
+9	next	k2
+10	week	k2
+11	.	PUNC
+
+# The Hindu
+# The botanical garden features a wide variety of rare plants.
+1	The	k1
+2	botanical	k1
+3	garden	k1
+4	features	k1
+5	a	k1
+6	wide	V
+7	variety	k2
+8	of	k2
+9	rare	k2
+10	plants	k2
+11	.	PUNC

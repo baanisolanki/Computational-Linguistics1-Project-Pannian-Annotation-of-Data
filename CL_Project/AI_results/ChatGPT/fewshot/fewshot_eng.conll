@@ -1,0 +1,652 @@
+# The Guardian	V
+# New research suggests that urban green spaces improve mental health.	k2
+1   New	SYM
+2   research	SYM
+3   suggests	SYM
+4   that	SYM
+5   urban	SYM
+6   green	SYM
+7   spaces	SYM
+8   improve	SYM
+9   mental	SYM
+10  health	SYM
+11  .	SYM
+
+# The New York Times	k1
+# The central bank raised interest rates to combat rising inflation.	k1
+1   The	SYM
+2   central	SYM
+3   bank	SYM
+4   raised	V
+5   interest	SYM
+6   rates	SYM
+7   to	SYM
+8   combat	SYM
+9   rising	SYM
+10  inflation	SYM
+11  .	SYM
+
+# Al Jazeera	k1
+# Peace talks between the two nations ended without an agreement.	k1
+1   Peace	SYM
+2   talks	SYM
+3   between	SYM
+4   the	SYM
+5   two	SYM
+6   nations	SYM
+7   ended	V
+8   without	SYM
+9   an	SYM
+10  agreement	SYM
+11  .	SYM
+
+# The Hindu	k1
+# The state government launched a program to clean local rivers.	k1
+1   The	SYM
+2   state	SYM
+3   government	SYM
+4   launched	V
+5   a	SYM
+6   program	SYM
+7   to	SYM
+8   clean	SYM
+9   local	SYM
+10  rivers	SYM
+11  .	SYM
+
+# BBC News	k1
+# Archaeologists discovered ancient ruins near the coastal city.	k1
+1   Archaeologists	SYM
+2   discovered	V
+3   ancient	SYM
+4   ruins	SYM
+5   near	SYM
+6   the	SYM
+7   coastal	SYM
+8   city	SYM
+9   .	SYM
+
+# Reuters	k1
+# Global markets stabilized after a week of intense volatility.	k1
+1   Global	SYM
+2   markets	SYM
+3   stabilized	V
+4   after	SYM
+5   a	SYM
+6   week	SYM
+7   of	SYM
+8   intense	SYM
+9   volatility	SYM
+10  .	SYM
+
+# The Guardian	k1
+# Scientists are tracking the migration patterns of arctic birds.	k1
+1   Scientists	SYM
+2   are	SYM
+3   tracking	V
+4   the	SYM
+5   migration	SYM
+6   patterns	SYM
+7   of	SYM
+8   arctic	SYM
+9   birds	SYM
+10  .	SYM
+
+# The New York Times	k1
+# Technology companies face new regulations regarding user data privacy.	k1
+1   Technology	SYM
+2   companies	SYM
+3   face	SYM
+4   new	SYM
+5   regulations	SYM
+6   regarding	V
+7   user	SYM
+8   data	SYM
+9   privacy	SYM
+10  .	SYM
+
+# Al Jazeera	k1
+# Humanitarian aid reached the remote mountainous region today.	k1
+1   Humanitarian	SYM
+2   aid	SYM
+3   reached	V
+4   the	SYM
+5   remote	SYM
+6   mountainous	SYM
+7   region	SYM
+8   today	SYM
+9   .	SYM
+
+# The Hindu	k1
+# Farmers are shifting toward organic fertilizers to improve soil.	k1
+1   Farmers	SYM
+2   are	SYM
+3   shifting	V
+4   toward	SYM
+5   organic	SYM
+6   fertilizers	SYM
+7   to	SYM
+8   improve	SYM
+9   soil	SYM
+10  .	SYM
+
+# BBC News	k1
+# The international space station completed its latest orbital maneuver.	k1
+1   The	SYM
+2   international	SYM
+3   space	SYM
+4   station	SYM
+5   completed	V
+6   its	SYM
+7   latest	SYM
+8   orbital	SYM
+9   maneuver	SYM
+10  .	SYM
+
+# Reuters	k1
+# Oil production increased slightly during the last quarter.	k1
+1   Oil	SYM
+2   production	SYM
+3   increased	V
+4   slightly	SYM
+5   during	SYM
+6   the	SYM
+7   last	SYM
+8   quarter	SYM
+9   .	SYM
+
+# The Guardian	k1
+# Public transport usage in the city reached pre-pandemic levels.	k1
+1   Public	SYM
+2   transport	SYM
+3   usage	SYM
+4   in	SYM
+5   the	SYM
+6   city	SYM
+7   reached	V
+8   pre-pandemic	SYM
+9   levels	SYM
+10  .	SYM
+
+# The New York Times	V
+# A new art exhibit explores the history of digital expression.	k2
+1   A	SYM
+2   new	SYM
+3   art	SYM
+4   exhibit	SYM
+5   explores	SYM
+6   the	SYM
+7   history	SYM
+8   of	SYM
+9   digital	SYM
+10  expression	SYM
+11  .	SYM
+
+# Al Jazeera	k1
+# The refugee crisis requires a coordinated global response.	k1
+1   The	SYM
+2   refugee	SYM
+3   crisis	SYM
+4   requires	SYM
+5   a	SYM
+6   coordinated	V
+7   global	SYM
+8   response	SYM
+9   .	SYM
+
+# The Hindu	k1
+# Local schools introduced coding classes for primary students.	k1
+1   Local	SYM
+2   schools	SYM
+3   introduced	V
+4   coding	SYM
+5   classes	SYM
+6   for	SYM
+7   primary	SYM
+8   students	SYM
+9   .	SYM
+
+# BBC News	V
+# Renewable energy sources now provide half of the grid power.	k2
+1   Renewable	SYM
+2   energy	SYM
+3   sources	SYM
+4   now	SYM
+5   provide	SYM
+6   half	SYM
+7   of	SYM
+8   the	SYM
+9   grid	SYM
+10  power	SYM
+11  .	SYM
+
+# Reuters	k1
+# The manufacturing sector reported a growth in export orders.	k1
+1   The	SYM
+2   manufacturing	V
+3   sector	SYM
+4   reported	SYM
+5   a	SYM
+6   growth	SYM
+7   in	SYM
+8   export	SYM
+9   orders	SYM
+10  .	SYM
+
+# The Guardian	k1
+# Extreme weather events are becoming more frequent and severe.	k1
+1   Extreme	SYM
+2   weather	SYM
+3   events	SYM
+4   are	SYM
+5   becoming	V
+6   more	SYM
+7   frequent	SYM
+8   and	SYM
+9   severe	SYM
+10  .	SYM
+
+# The New York Times	k1
+# The supreme court issued a landmark ruling on voting rights.	k1
+1   The	SYM
+2   supreme	SYM
+3   court	SYM
+4   issued	V
+5   a	SYM
+6   landmark	SYM
+7   ruling	SYM
+8   on	SYM
+9   voting	SYM
+10  rights	SYM
+11  .	SYM
+
+# Al Jazeera	V
+# Regional leaders met to discuss a new trade partnership.	k2
+1   Regional	SYM
+2   leaders	SYM
+3   met	SYM
+4   to	SYM
+5   discuss	SYM
+6   a	SYM
+7   new	SYM
+8   trade	SYM
+9   partnership	SYM
+10  .	SYM
+
+# The Hindu	k1
+# Wildlife officials spotted a rare leopard in the national park.	k1
+1   Wildlife	SYM
+2   officials	SYM
+3   spotted	V
+4   a	SYM
+5   rare	SYM
+6   leopard	SYM
+7   in	SYM
+8   the	SYM
+9   national	SYM
+10  park	SYM
+11  .	SYM
+
+# BBC News	k1
+# Cybersecurity experts warn of a new phishing campaign.	k1
+1   Cybersecurity	SYM
+2   experts	SYM
+3   warn	SYM
+4   of	SYM
+5   a	SYM
+6   new	SYM
+7   phishing	V
+8   campaign	SYM
+9   .	SYM
+
+# Reuters	k1
+# Retail sales rose during the annual holiday shopping season.	k1
+1   Retail	SYM
+2   sales	SYM
+3   rose	SYM
+4   during	V
+5   the	SYM
+6   annual	SYM
+7   holiday	SYM
+8   shopping	SYM
+9   season	SYM
+10  .	SYM
+
+# The Guardian	k1
+# Medical researchers developed a more efficient diagnostic test.	k1
+1   Medical	SYM
+2   researchers	SYM
+3   developed	V
+4   a	SYM
+5   more	SYM
+6   efficient	SYM
+7   diagnostic	SYM
+8   test	SYM
+9   .	SYM
+
+# The New York Times	k1
+# Small businesses struggle with rising costs of raw materials.	k1
+1   Small	SYM
+2   businesses	SYM
+3   struggle	SYM
+4   with	SYM
+5   rising	V
+6   costs	SYM
+7   of	SYM
+8   raw	SYM
+9   materials	SYM
+10  .	SYM
+
+# Al Jazeera	V
+# Protests broke out in the capital over high fuel prices.	k2
+1   Protests	SYM
+2   broke	SYM
+3   out	SYM
+4   in	SYM
+5   the	SYM
+6   capital	SYM
+7   over	SYM
+8   high	SYM
+9   fuel	SYM
+10  prices	SYM
+11  .	SYM
+
+# The Hindu	k1
+# The city library added thousands of e-books to its collection.	k1
+1   The	SYM
+2   city	SYM
+3   library	SYM
+4   added	V
+5   thousands	SYM
+6   of	SYM
+7   e-books	SYM
+8   to	SYM
+9   its	SYM
+10  collection	SYM
+11  .	SYM
+
+# BBC News	k1
+# Exploring the deep ocean reveals unique and bioluminescent creatures.	k1
+1   Exploring	V
+2   the	SYM
+3   deep	SYM
+4   ocean	SYM
+5   reveals	SYM
+6   unique	SYM
+7   and	SYM
+8   bioluminescent	SYM
+9   creatures	SYM
+10  .	SYM
+
+# Reuters	k1
+# The central bank kept the interest rates unchanged this month.	k1
+1   The	SYM
+2   central	SYM
+3   bank	SYM
+4   kept	SYM
+5   the	SYM
+6   interest	SYM
+7   rates	SYM
+8   unchanged	V
+9   this	SYM
+10  month	SYM
+11  .	SYM
+
+# The Guardian	k1
+# Educators emphasize the importance of critical thinking in schools.	k1
+1   Educators	SYM
+2   emphasize	SYM
+3   the	SYM
+4   importance	SYM
+5   of	SYM
+6   critical	SYM
+7   thinking	V
+8   in	SYM
+9   schools	SYM
+10  .	SYM
+
+# The New York Times	k1
+# Silicon Valley startups are pivoting toward sustainable energy solutions.	k1
+1   Silicon	SYM
+2   Valley	SYM
+3   startups	SYM
+4   are	SYM
+5   pivoting	V
+6   toward	SYM
+7   sustainable	SYM
+8   energy	SYM
+9   solutions	SYM
+10  .	SYM
+
+# Al Jazeera	V
+# Food shortages continue to affect millions in the conflict zone.	k2
+1   Food	SYM
+2   shortages	SYM
+3   continue	SYM
+4   to	SYM
+5   affect	SYM
+6   millions	SYM
+7   in	SYM
+8   the	SYM
+9   conflict	SYM
+10  zone	SYM
+11  .	SYM
+
+# The Hindu	V
+# Yoga festivals attract thousands of participants to the river bank.	k2
+1   Yoga	SYM
+2   festivals	SYM
+3   attract	SYM
+4   thousands	SYM
+5   of	SYM
+6   participants	SYM
+7   to	SYM
+8   the	SYM
+9   river	SYM
+10  bank	SYM
+11  .	SYM
+
+# BBC News	V
+# New laws aim to reduce plastic waste in the ocean.	k2
+1   New	SYM
+2   laws	SYM
+3   aim	SYM
+4   to	SYM
+5   reduce	SYM
+6   plastic	SYM
+7   waste	SYM
+8   in	SYM
+9   the	SYM
+10  ocean	SYM
+11  .	SYM
+
+# Reuters	k1
+# Global logistics chains are slowly returning to normal operation.	k1
+1   Global	SYM
+2   logistics	SYM
+3   chains	SYM
+4   are	SYM
+5   slowly	SYM
+6   returning	V
+7   to	SYM
+8   normal	SYM
+9   operation	SYM
+10  .	SYM
+
+# The Guardian	k1
+# Solar power installation costs have dropped by forty percent.	k1
+1   Solar	SYM
+2   power	SYM
+3   installation	SYM
+4   costs	SYM
+5   have	SYM
+6   dropped	V
+7   by	SYM
+8   forty	SYM
+9   percent	SYM
+10  .	SYM
+
+# The New York Times	k1
+# Broadway theaters reported record-breaking attendance numbers this summer.	k1
+1   Broadway	SYM
+2   theaters	SYM
+3   reported	V
+4   record-breaking	SYM
+5   attendance	SYM
+6   numbers	SYM
+7   this	SYM
+8   summer	SYM
+9   .	SYM
+
+# Al Jazeera	k1
+# Diplomatic efforts intensified to prevent further military escalation.	k1
+1   Diplomatic	SYM
+2   efforts	SYM
+3   intensified	V
+4   to	SYM
+5   prevent	SYM
+6   further	SYM
+7   military	SYM
+8   escalation	SYM
+9   .	SYM
+
+# The Hindu	k1
+# The heritage building underwent extensive restoration work last year.	k1
+1   The	SYM
+2   heritage	SYM
+3   building	V
+4   underwent	SYM
+5   extensive	SYM
+6   restoration	SYM
+7   work	SYM
+8   last	SYM
+9   year	SYM
+10  .	SYM
+
+# BBC News	V
+# Artificial intelligence can now generate realistic human speech.	k2
+1   Artificial	SYM
+2   intelligence	SYM
+3   can	SYM
+4   now	SYM
+5   generate	SYM
+6   realistic	SYM
+7   human	SYM
+8   speech	SYM
+9   .	SYM
+
+# Reuters	V
+# Economic indicators point toward a steady recovery this year.	k2
+1   Economic	SYM
+2   indicators	SYM
+3   point	SYM
+4   toward	SYM
+5   a	SYM
+6   steady	SYM
+7   recovery	SYM
+8   this	SYM
+9   year	SYM
+10  .	SYM
+
+# The Guardian	V
+# Biodiversity loss remains a significant threat to global ecosystems.	k2
+1   Biodiversity	SYM
+2   loss	SYM
+3   remains	SYM
+4   a	SYM
+5   significant	SYM
+6   threat	SYM
+7   to	SYM
+8   global	SYM
+9   ecosystems	SYM
+10  .	SYM
+
+# The New York Times	k1
+# NASA launched a mission to explore an icy moon.	k1
+1   NASA	SYM
+2   launched	V
+3   a	SYM
+4   mission	SYM
+5   to	SYM
+6   explore	SYM
+7   an	SYM
+8   icy	SYM
+9   moon	SYM
+10  .	SYM
+
+# Al Jazeera	k1
+# International observers arrived to monitor the national elections.	k1
+1   International	SYM
+2   observers	SYM
+3   arrived	V
+4   to	SYM
+5   monitor	SYM
+6   the	SYM
+7   national	SYM
+8   elections	SYM
+9   .	SYM
+
+# The Hindu	k1
+# Traditional weavers are using social media to sell products.	k1
+1   Traditional	SYM
+2   weavers	SYM
+3   are	SYM
+4   using	V
+5   social	SYM
+6   media	SYM
+7   to	SYM
+8   sell	SYM
+9   products	SYM
+10  .	SYM
+
+# BBC News	k1
+# Virtual reality headsets are becoming lighter and more affordable.	k1
+1   Virtual	SYM
+2   reality	SYM
+3   headsets	SYM
+4   are	SYM
+5   becoming	V
+6   lighter	SYM
+7   and	SYM
+8   more	SYM
+9   affordable	SYM
+10  .	SYM
+
+# Reuters	V
+# Gold prices hit a record high amid economic uncertainty.	k2
+1   Gold	SYM
+2   prices	SYM
+3   hit	SYM
+4   a	SYM
+5   record	SYM
+6   high	SYM
+7   amid	SYM
+8   economic	SYM
+9   uncertainty	SYM
+10  .	SYM
+
+# The Guardian	V
+# Carbon emissions must drop significantly to reach climate goals.	k2
+1   Carbon	SYM
+2   emissions	SYM
+3   must	SYM
+4   drop	SYM
+5   significantly	SYM
+6   to	SYM
+7   reach	SYM
+8   climate	SYM
+9   goals	SYM
+10  .	SYM
+
+# The New York Times	k1
+# Streaming platforms are investing more in original international content.	k1
+1   Streaming	V
+2   platforms	SYM
+3   are	SYM
+4   investing	SYM
+5   more	SYM
+6   in	SYM
+7   original	SYM
+8   international	SYM
+9   content	SYM
+10  .	SYM

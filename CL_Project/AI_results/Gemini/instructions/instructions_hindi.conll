@@ -1,0 +1,596 @@
+# Amar Ujala
+# Museum mein naye itihasik chitra dikhaye gaye.
+1   Museum        NN      k7
+2   mein          PSP     -
+3   naye          JJ      -
+4   itihasik      JJ      -
+5   chitra        NN      k2
+6   dikhaye       V       -
+7   gaye          VAUX    -
+8   .             PUNC    -
+
+# Dainik Jagran
+# Kendriya mantralaya ne naya budget pesh kiya hai.
+1   Kendriya      JJ      -
+2   mantralaya    NN      k1
+3   ne            PSP     -
+4   naya          JJ      -
+5   budget        NN      k2
+6   pesh          NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Shahar mein naya stadium jald hi ban jayega.
+1   Shahar        NN      k7
+2   mein          PSP     -
+3   naya          JJ      -
+4   stadium       NN      k1
+5   jald          RB      -
+6   hi            RP      -
+7   ban           V       -
+8   jayega        VAUX    -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye kanoon se paryavaran ka sanrakshan hoga.
+1   Naye          JJ      -
+2   kanoon        NN      k3
+3   se            PSP     -
+4   paryavaran    NN      -
+5   ka            PSP     -
+6   sanrakshan    NN      k1
+7   hoga          V       -
+8   .             PUNC    -
+
+# Dainik Jagran
+# Startup culture ne yuvaon ko naya rasta dikhaya.
+1   Startup       NN      -
+2   culture       NN      k1
+3   ne            PSP     -
+4   yuvaon        NN      k4
+5   ko            PSP     -
+6   naya          JJ      -
+7   rasta         NN      k2
+8   dikhaya       V       -
+9   .             PUNC    -
+
+# Navbharat Times
+# Agle mahine naya robot factory mein kaam karega.
+1   Agle          JJ      -
+2   mahine        NN      k7
+3   naya          JJ      -
+4   robot         NN      k1
+5   factory       NN      k7
+6   mein          PSP     -
+7   kaam          NN      k2
+8   karega        V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye bridge ka kaam jald poora hone wala hai.
+1   Naye          JJ      -
+2   bridge        NN      -
+3   ka            PSP     -
+4   kaam          NN      k1
+5   jald          RB      -
+6   poora         JJ      -
+7   hone          V       -
+8   wala          VAUX    -
+9   hai           VAUX    -
+10  .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya dosti samjhauta sign kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   dosti         NN      -
+5   samjhauta     NN      k2
+6   sign          NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Shahar mein naye park ka nirman shuru hua.
+1   Shahar        NN      k7
+2   mein          PSP     -
+3   naye          JJ      -
+4   park          NN      -
+5   ka            PSP     -
+6   nirman        NN      k1
+7   shuru         JJ      -
+8   hua           V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye saal mein khetibadi ke naye tarike ayenge.
+1   Naye          JJ      -
+2   saal          NN      k7
+3   mein          PSP     -
+4   khetibadi     NN      -
+5   ke            PSP     -
+6   naye          JJ      -
+7   tarike        NN      k1
+8   ayenge        V       -
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya raksha samjhauta France se kiya.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   raksha        NN      -
+5   samjhauta     NN      k2
+6   France        NN      k5
+7   se            PSP     -
+8   kiya          V       -
+9   .             PUNC    -
+
+# Navbharat Times
+# Agle hafte naya laptop market mein launch hoga.
+1   Agle          JJ      -
+2   hafte         NN      k7
+3   naya          JJ      -
+4   laptop        NN      k1
+5   market        NN      k7
+6   mein          PSP     -
+7   launch        NN      -
+8   hoga          V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye hospital mein sari adhunik suvidhayen hongi.
+1   Naye          JJ      -
+2   hospital      NN      k7
+3   mein          PSP     -
+4   sari          JJ      -
+5   adhunik       JJ      -
+6   suvidhayen    NN      k1
+7   hongi         V       -
+8   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya space satellite launch kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   space         NN      -
+5   satellite     NN      k2
+6   launch        NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Shahar mein naya flyover jald hi khulega.
+1   Shahar        NN      k7
+2   mein          PSP     -
+3   naya          JJ      -
+4   flyover       NN      k1
+5   jald          RB      -
+6   hi            RP      -
+7   khulega       V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# Naye kanoon se bhrashtachar par rok lagegi jald.
+1   Naye          JJ      -
+2   kanoon        NN      k3
+3   se            PSP     -
+4   bhrashtachar  NN      k7
+5   par           PSP     -
+6   rok           NN      k1
+7   lagegi        V       -
+8   jald          RB      -
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya economic corridor banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   economic      JJ      -
+5   corridor      NN      k2
+6   banaya        V       -
+7   hai           VAUX    -
+8   .             PUNC    -
+
+# Navbharat Times
+# Naya software bank ke kaam ko asaan karega.
+1   Naya          JJ      -
+2   software      NN      k1
+3   bank          NN      -
+4   ke            PSP     -
+5   kaam          NN      k2
+6   ko            PSP     -
+7   asaan         JJ      -
+8   karega        V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye mall mein naye showroom khule hain aaj.
+1   Naye          JJ      -
+2   mall          NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   showroom      NN      k1
+6   khule         V       -
+7   hain          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya solar power project shuru kiya.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   solar         NN      -
+5   power         NN      -
+6   project       NN      k2
+7   shuru         JJ      -
+8   kiya          V       -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya smartphone market mein dhoom macha raha hai.
+1   Naya          JJ      -
+2   smartphone    NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   dhoom         NN      k2
+6   macha         V       -
+7   raha          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye school mein naye bache aye hain aaj.
+1   Naye          JJ      -
+2   school        NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   bache         NN      k1
+6   aye           V       -
+7   hain          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya satellite launch pad banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   satellite     NN      -
+5   launch        NN      -
+6   pad           NN      k2
+7   banaya        V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya flyover shahar ke traffic ko kam karega.
+1   Naya          JJ      -
+2   flyover       NN      k1
+3   shahar        NN      -
+4   ke            PSP     -
+5   traffic       NN      k2
+6   ko            PSP     -
+7   kam           JJ      -
+8   karega        V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye office mein naye log kaam karenge aaj.
+1   Naye          JJ      -
+2   office        NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   log           NN      k1
+6   kaam          NN      k2
+7   karenge       V       -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya education policy launch kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   education     NN      -
+5   policy        NN      k2
+6   launch        NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya law bhrashtachar ko khatam karega jald hi.
+1   Naya          JJ      -
+2   law           NN      k1
+3   bhrashtachar  NN      k2
+4   ko            PSP     -
+5   khatam        JJ      -
+6   karega        V       -
+7   jald          RB      -
+8   hi            RP      -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye park mein naye jhoole lagaye gaye aaj.
+1   Naye          JJ      -
+2   park          NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   jhoole        NN      k2
+6   lagaye        V       -
+7   gaye          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya trade agreement sign kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   trade         NN      -
+5   agreement     NN      k2
+6   sign          NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya laptop market mein bahut sasta hai abhi.
+1   Naya          JJ      -
+2   laptop        NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   bahut         RB      -
+6   sasta         JJ      -
+7   hai           V       -
+8   abhi          NN      k7
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye stadium mein naye khel dikhaye gaye aaj.
+1   Naye          JJ      -
+2   stadium       NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   khel          NN      k2
+6   dikhaye       V       -
+7   gaye          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya health scheme shuru kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   health        NN      -
+5   scheme        NN      k2
+6   shuru         JJ      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya bridge nadi par jald hi ban jayega.
+1   Naya          JJ      -
+2   bridge        NN      k1
+3   nadi          NN      k7
+4   par           PSP     -
+5   jald          RB      -
+6   hi            RP      -
+7   ban           V       -
+8   jayega        VAUX    -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye library mein naye kitabein rakhi gayi aaj.
+1   Naye          JJ      -
+2   library       NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   kitabein      NN      k2
+6   rakhi         V       -
+7   gayi          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya energy plan launch kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   energy        NN      -
+5   plan          NN      k2
+6   launch        NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya software bank ke data ko surakshit karega.
+1   Naya          JJ      -
+2   software      NN      k1
+3   bank          NN      -
+4   ke            PSP     -
+5   data          NN      k2
+6   ko            PSP     -
+7   surakshit     JJ      -
+8   karega        V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye theatre mein naye filmein dikhayi gayi aaj.
+1   Naye          JJ      -
+2   theatre       NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   filmein       NN      k2
+6   dikhayi       V       -
+7   gayi          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya cyber security law banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   cyber         NN      -
+5   security      NN      -
+6   law           NN      k2
+7   banaya        V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya smartphone market mein sabse naya hai abhi.
+1   Naya          JJ      -
+2   smartphone    NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   sabse         RB      -
+6   naya          JJ      -
+7   hai           V       -
+8   abhi          NN      k7
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye bus stop mein naye log khade hain aaj.
+1   Naye          JJ      -
+2   bus           NN      -
+3   stop          NN      k7
+4   mein          PSP     -
+5   naye          JJ      -
+6   log           NN      k1
+7   khade         JJ      -
+8   hain          V       -
+9   aaj           NN      k7
+10  .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya global partnership sign kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   global        JJ      -
+5   partnership   NN      k2
+6   sign          NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya smartphone market mein sabse tez hai abhi.
+1   Naya          JJ      -
+2   smartphone    NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   sabse         RB      -
+6   tez           JJ      -
+7   hai           V       -
+8   abhi          NN      k7
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye museum mein naye pradarshan dikhaye gaye aaj.
+1   Naye          JJ      -
+2   museum        NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   pradarshan    NN      k2
+6   dikhaye       V       -
+7   gaye          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya infrastructure project shuru kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   infrastructure NN     -
+5   project       NN      k2
+6   shuru         JJ      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya bridge shahar ke traffic ko kam karega.
+1   Naya          JJ      -
+2   bridge        NN      k1
+3   shahar        NN      -
+4   ke            PSP     -
+5   traffic       NN      k2
+6   ko            PSP     -
+7   kam           JJ      -
+8   karega        V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye hospital mein naye mareez bharti hue aaj.
+1   Naye          JJ      -
+2   hospital      NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   mareez        NN      k1
+6   bharti        JJ      -
+7   hue           V       -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya tourism plan launch kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   tourism       NN      -
+5   plan          NN      k2
+6   launch        NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Navbharat Times
+# Naya laptop market mein sabse fast hai abhi.
+1   Naya          JJ      -
+2   laptop        NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   sabse         RB      -
+6   fast          JJ      -
+7   hai           V       -
+8   abhi          NN      k7
+9   .             PUNC    -
+
+# Amar Ujala
+# Naye garden mein naye phool khile hain aaj.
+1   Naye          JJ      -
+2   garden        NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   phool         NN      k1
+6   khile         V       -
+7   hain          VAUX    -
+8   aaj           NN      k7
+9   .             PUNC    -
+
+# Dainik Jagran
+# Bharat ne naya digital mission shuru kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   digital       JJ      -
+5   mission       NN      k2
+6   shuru         JJ      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -

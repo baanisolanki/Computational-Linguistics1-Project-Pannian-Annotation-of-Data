@@ -1,0 +1,573 @@
+# Amar Ujala
+# Jungle safari mein logon ne sher dekha.
+1   Jungle        NN      k7
+2   safari        NN      k7
+3   mein          PSP     -
+4   logon         NN      k1
+5   ne            PSP     -
+6   sher          NN      k2
+7   dekha         V       -
+8   .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya vaccine program shuru kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   vaccine       NN      k2
+5   program       NN      k2
+6   shuru         V       -
+7   kiya          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye kanoon se bhrashtachar par rok lagegi.
+1   Naye          JJ      -
+2   kanoon        NN      k3
+3   se            PSP     -
+4   bhrashtachar  NN      k7
+5   par           PSP     -
+6   rok           NN      k2
+7   lagegi        V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# Railway ne naya special train chalane ka nirnay liya.
+1   Railway       NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   special       JJ      -
+5   train         NN      k2
+6   chalane       V       -
+7   ka            PSP     -
+8   nirnay        NN      k2
+9   liya          V       -
+10  .             PUNC    -
+
+# Dainik Bhaskar
+# Tech summit mein naye inventions dikhaye gaye.
+1   Tech          NN      k7
+2   summit        NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   inventions    NN      k2
+6   dikhaye       V       -
+7   gaye          VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Shahar ki sadkon ko chaunda kiya jayega.
+1   Shahar        NN      -
+2   ki            PSP     -
+3   sadkon        NN      k2
+4   ko            PSP     -
+5   chaunda       JJ      -
+6   kiya          V       -
+7   jayega        VAUX    -
+8   .             PUNC    -
+
+# Amar Ujala
+# Museum mein purani talwaren pradarshit ki gayi hain.
+1   Museum        NN      k7
+2   mein          PSP     -
+3   purani        JJ      -
+4   talwaren      NN      k2
+5   pradarshit    JJ      -
+6   ki            V       -
+7   gayi          VAUX    -
+8   hain          VAUX    -
+9   .             PUNC    -
+
+# Dainik Bhaskar
+# New space station ka naksha taiyar ho gaya.
+1   New           JJ      -
+2   space         NN      -
+3   station       NN      -
+4   ka            PSP     -
+5   naksha        NN      k1
+6   taiyar        JJ      -
+7   ho            V       -
+9   gaya          VAUX    -
+10  .             PUNC    -
+
+# Hindustan
+# Nayi shiksha niti se bachon ko fayda hoga.
+1   Nayi          JJ      -
+2   shiksha       NN      -
+3   niti          NN      k3
+4   se            PSP     -
+5   bachon        NN      k4
+6   ko            PSP     -
+7   fayda         NN      k1
+8   hoga          V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Waterfall dekhne ke liye bhari sankhya mein paryatak aye.
+1   Waterfall     NN      k2
+2   dekhne        V       -
+3   ke            PSP     -
+4   liye          PSP     -
+5   bhari         JJ      -
+6   sankhya       NN      k7
+7   mein          PSP     -
+8   paryatak      NN      k1
+9   aye           V       -
+10  .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya cricket coach niyukt kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   cricket       NN      -
+5   coach         NN      k2
+6   niyukt        JJ      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Solar energy ko badhava dene ke liye subsidy di.
+1   Solar         NN      -
+2   energy        NN      k2
+3   ko            PSP     -
+4   badhava       NN      k2
+5   dene          V       -
+6   ke            PSP     -
+7   liye          PSP     -
+8   subsidy       NN      k2
+9   di            V       -
+10  .             PUNC    -
+
+# Amar Ujala
+# Historical palace mein naya garden banaya gaya hai.
+1   Historical    JJ      -
+2   palace        NN      k7
+3   mein          PSP     -
+4   naya          JJ      -
+5   garden        NN      k2
+6   banaya        V       -
+7   gaya          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Dainik Bhaskar
+# Artificial Intelligence ne naya record banaya hai.
+1   Artificial    NN      k1
+2   Intelligence  NN      k1
+3   ne            PSP     -
+4   naya          JJ      -
+5   record        NN      k2
+6   banaya        V       -
+7   hai           VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Naye highway par car ki raftaar badh gayi.
+1   Naye          JJ      -
+2   highway       NN      k7
+3   par           PSP     -
+4   car           NN      -
+5   ki            PSP     -
+6   raftaar       NN      k1
+7   badh          V       -
+8   gayi          VAUX    -
+9   .             PUNC    -
+
+# Amar Ujala
+# Lake mein boat riding ka maza logon ne liya.
+1   Lake          NN      k7
+2   mein          PSP     -
+3   boat          NN      -
+4   riding        NN      -
+5   ka            PSP     -
+6   maza          NN      k2
+7   logon         NN      k1
+8   ne            PSP     -
+9   liya          V       -
+10  .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya satellite launch pad banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   satellite     NN      -
+5   launch        NN      -
+6   pad           NN      k2
+7   banaya        V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Public transport mein naye badlav kiye gaye hain.
+1   Public        JJ      -
+2   transport     NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   badlav        NN      k2
+6   kiye          V       -
+7   gaye          VAUX    -
+8   hain          VAUX    -
+9   .             PUNC    -
+
+# Amar Ujala
+# Mountain climbing ke liye naya camp shuru hua.
+1   Mountain      NN      -
+2   climbing      NN      k4
+3   ke            PSP     -
+4   liye          PSP     -
+5   naya          JJ      -
+6   camp          NN      k1
+7   shuru         JJ      -
+8   hua           V       -
+9   .             PUNC    -
+
+# Dainik Bhaskar
+# New smartphone market mein dhoom macha raha hai.
+1   New           JJ      -
+2   smartphone    NN      k1
+3   market        NN      k7
+4   mein          PSP     -
+5   dhoom         NN      k2
+6   macha         V       -
+7   raha          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye library mein bahut sari kitabein hain.
+1   Naye          JJ      -
+2   library       NN      k7
+3   mein          PSP     -
+4   bahut         JJ      -
+5   sari          JJ      -
+6   kitabein      NN      k1
+7   hain          V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# City park mein morning walk ke liye log aye.
+1   City          NN      -
+2   park          NN      k7
+3   mein          PSP     -
+4   morning       NN      -
+5   walk          NN      k4
+6   ke            PSP     -
+7   liye          PSP     -
+8   log           NN      k1
+9   aye           V       -
+10  .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya trade agreement sign kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   trade         NN      -
+5   agreement     NN      k2
+6   sign          NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye bridge se traffic ki samasya hal hui.
+1   Naye          JJ      -
+2   bridge        NN      k3
+3   se            PSP     -
+4   traffic       NN      -
+5   ki            PSP     -
+6   samasya       NN      k1
+7   hal           JJ      -
+8   hui           V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Zoo mein naye janwaro ko laya gaya hai.
+1   Zoo           NN      k7
+2   mein          PSP     -
+3   naye          JJ      -
+4   janwaro       NN      k2
+5   ko            PSP     -
+6   laya          V       -
+7   gaya          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Dainik Bhaskar
+# Science project mein bachon ne prize jeeta hai.
+1   Science       NN      -
+2   project       NN      k7
+3   mein          PSP     -
+4   bachon        NN      k1
+5   ne            PSP     -
+6   prize         NN      k2
+7   jeeta         V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye hospital mein sari adhunik suvidhayen hain.
+1   Naye          JJ      -
+2   hospital      NN      k7
+3   mein          PSP     -
+4   sari          JJ      -
+5   adhunik       JJ      -
+6   suvidhayen    NN      k1
+7   hain          V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# Beach par logon ne khel ka anand liya.
+1   Beach         NN      k7
+2   par           PSP     -
+3   logon         NN      k1
+4   ne            PSP     -
+5   khel          NN      -
+6   ka            PSP     -
+7   anand         NN      k2
+8   liya          V       -
+9   .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya cyber security law banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   cyber         NN      -
+5   security      NN      -
+6   law           NN      k2
+7   banaya        V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye school mein smart classes ki suvidha hai.
+1   Naye          JJ      -
+2   school        NN      k7
+3   mein          PSP     -
+4   smart         JJ      -
+5   classes       NN      -
+6   ki            PSP     -
+7   suvidha       NN      k1
+8   hai           V       -
+9   .             PUNC    -
+
+# Amar Ujala
+# Forest department ne naye ped lagaye hain.
+1   Forest        NN      -
+2   department    NN      k1
+3   ne            PSP     -
+4   naye          JJ      -
+5   ped           NN      k2
+6   lagaye        V       -
+7   hain          VAUX    -
+8   .             PUNC    -
+
+# Dainik Bhaskar
+# New movie theater shahar mein khula hai.
+1   New           JJ      -
+2   movie         NN      -
+3   theater       NN      k1
+4   shahar        NN      k7
+5   mein          PSP     -
+6   khula         V       -
+7   hai           VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Naye kanoon se bhrashtachar kam ho jayega.
+1   Naye          JJ      -
+2   kanoon        NN      k3
+3   se            PSP     -
+4   bhrashtachar  NN      k1
+5   kam           JJ      -
+6   ho            V       -
+7   jayega        VAUX    -
+8   .             PUNC    -
+
+# Amar Ujala
+# Garden mein phool khile huye hain.
+1   Garden        NN      k7
+2   mein          PSP     -
+3   phool         NN      k1
+4   khile         V       -
+5   huye          VAUX    -
+6   hain          VAUX    -
+7   .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya sports complex banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   sports        NN      -
+5   complex       NN      k2
+6   banaya        V       -
+7   hai           VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Naye bus stop par log khade hain.
+1   Naye          JJ      -
+2   bus           NN      -
+3   stop          NN      k7
+4   par           PSP     -
+5   log           NN      k1
+6   khade         JJ      -
+7   hain          V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# Market mein naye kapde aye hain.
+1   Market        NN      k7
+2   mein          PSP     -
+3   naye          JJ      -
+4   kapde         NN      k1
+5   aye           V       -
+6   hain          VAUX    -
+7   .             PUNC    -
+
+# Dainik Bhaskar
+# Science fair mein naye experiment dikhaye gaye.
+1   Science       NN      -
+2   fair          NN      k7
+3   mein          PSP     -
+4   naye          JJ      -
+5   experiment    NN      k2
+6   dikhaye       V       -
+7   gaye          VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Naye mall mein bahut sari dukanen hain.
+1   Naye          JJ      -
+2   mall          NN      k7
+3   mein          PSP     -
+4   bahut         JJ      -
+5   sari          JJ      -
+6   dukanen       NN      k1
+7   hain          V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# River side par log ghoom rahe hain.
+1   River         NN      -
+2   side          NN      k7
+3   par           PSP     -
+4   log           NN      k1
+5   ghoom         V       -
+6   rahe          VAUX    -
+7   hain          VAUX    -
+8   .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya economic plan banaya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   economic      JJ      -
+5   plan          NN      k2
+6   banaya        V       -
+7   hai           VAUX    -
+8   .             PUNC    -
+
+# Hindustan
+# Naye office mein kaam shuru ho gaya.
+1   Naye          JJ      -
+2   office        NN      k7
+3   mein          PSP     -
+4   kaam          NN      k1
+5   shuru         JJ      -
+6   ho            V       -
+7   gaya          VAUX    -
+8   .             PUNC    -
+
+# Amar Ujala
+# Park mein bachhe khel rahe hain.
+1   Park          NN      k7
+2   mein          PSP     -
+3   bachhe        NN      k1
+4   khel          V       -
+5   rahe          VAUX    -
+6   hain          VAUX    -
+7   .             PUNC    -
+
+# Dainik Bhaskar
+# New technology se kaam asan ho gaya hai.
+1   New           JJ      -
+2   technology    NN      k3
+3   se            PSP     -
+4   kaam          NN      k1
+5   asan          JJ      -
+6   ho            V       -
+7   gaya          VAUX    -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye railway line par train chalne lagi.
+1   Naye          JJ      -
+2   railway       NN      -
+3   line          NN      k7
+4   par           PSP     -
+5   train         NN      k1
+6   chalne        V       -
+7   lagi          VAUX    -
+8   .             PUNC    -
+
+# Amar Ujala
+# Temple mein puja ho rahi hai.
+1   Temple        NN      k7
+2   mein          PSP     -
+3   puja          NN      k1
+4   ho            V       -
+5   rahi          VAUX    -
+6   hai           VAUX    -
+7   .             PUNC    -
+
+# Dainik Bhaskar
+# Bharat ne naya energy policy launch kiya hai.
+1   Bharat        NN      k1
+2   ne            PSP     -
+3   naya          JJ      -
+4   energy        NN      -
+5   policy        NN      k2
+6   launch        NN      -
+7   kiya          V       -
+8   hai           VAUX    -
+9   .             PUNC    -
+
+# Hindustan
+# Naye building mein lift ki suvidha hai.
+1   Naye          JJ      -
+2   building      NN      k7
+3   mein          PSP     -
+4   lift          NN      -
+5   ki            PSP     -
+6   suvidha       NN      k1
+7   hai           V       -
+8   .             PUNC    -
+
+# Amar Ujala
+# Zoo mein sher dahad raha hai.
+1   Zoo           NN      k7
+2   mein          PSP     -
+3   sher          NN      k1
+4   dahad         V       -
+5   raha          VAUX    -
+6   hai           VAUX    -
+7   .             PUNC    -
+
+# Dainik Bhaskar
+# Science ne naye rahasya suljhaye hain.
+1   Science       NN      k1
+2   ne            PSP     -
+3   naye          JJ      -
+4   rahasya       NN      k2
+5   suljhaye      V       -
+6   hain          VAUX    -
+7   .             PUNC    -

@@ -1,0 +1,638 @@
+# The Guardian
+# New research suggests that urban green spaces improve mental health.
+1	New	JJ
+2	research	k1
+3	suggests	V
+4	that	CC
+5	urban	JJ
+6	green	JJ
+7	spaces	k1
+8	improve	V
+9	mental	JJ
+10	health	k2
+11	.	PUNC
+
+# The New York Times
+# The central bank raised interest rates to combat rising inflation.
+1	The	JJ
+2	central	JJ
+3	bank	k1
+4	raised	V
+5	interest	k2
+6	rates	k2
+7	to	RP
+8	combat	V
+9	rising	JJ
+10	inflation	k2
+11	.	PUNC
+
+# Al Jazeera
+# Peace talks between the two nations ended without an agreement.
+1	Peace	k1
+2	talks	k1
+3	between	PSP
+4	the	JJ
+5	two	SYM
+6	nations	k7
+7	ended	V
+8	without	PSP
+9	an	JJ
+10	agreement	k2
+11	.	PUNC
+
+# The Hindu
+# The state government launched a program to clean local rivers.
+1	The	JJ
+2	state	k1
+3	government	k1
+4	launched	V
+5	a	JJ
+6	program	k2
+7	to	RP
+8	clean	V
+9	local	JJ
+10	rivers	k2
+11	.	PUNC
+
+# BBC News
+# Archaeologists discovered ancient ruins near the coastal city.
+1	Archaeologists	k1
+2	discovered	V
+3	ancient	JJ
+4	ruins	k2
+5	near	PSP
+6	the	JJ
+7	coastal	JJ
+8	city	k7
+9	.	PUNC
+
+# Reuters
+# Global markets stabilized after a week of intense volatility.
+1	Global	JJ
+2	markets	k1
+3	stabilized	V
+4	after	PSP
+5	a	JJ
+6	week	k7
+7	of	PSP
+8	intense	JJ
+9	volatility	k7
+10	.	PUNC
+
+# The Guardian
+# Scientists are tracking the migration patterns of arctic birds.
+1	Scientists	k1
+2	are	VAUX
+3	tracking	V
+4	the	JJ
+5	migration	k2
+6	patterns	k2
+7	of	PSP
+8	arctic	JJ
+9	birds	k7
+10	.	PUNC
+
+# The New York Times
+# Technology companies face new regulations regarding user data privacy.
+1	Technology	k1
+2	companies	k1
+3	face	V
+4	new	JJ
+5	regulations	k2
+6	regarding	PSP
+7	user	k2
+8	data	k2
+9	privacy	k2
+10	.	PUNC
+
+# Al Jazeera
+# Humanitarian aid reached the remote mountainous region today.
+1	Humanitarian	JJ
+2	aid	k1
+3	reached	V
+4	the	JJ
+5	remote	JJ
+6	mountainous	JJ
+7	region	k2
+8	today	k7
+9	.	PUNC
+
+# The Hindu
+# Farmers are shifting toward organic fertilizers to improve soil.
+1	Farmers	k1
+2	are	VAUX
+3	shifting	V
+4	toward	PSP
+5	organic	JJ
+6	fertilizers	k7
+7	to	RP
+8	improve	V
+9	soil	k2
+10	.	PUNC
+
+# BBC News
+# The international space station completed its latest orbital maneuver.
+1	The	JJ
+2	international	JJ
+3	space	k1
+4	station	k1
+5	completed	V
+6	its	JJ
+7	latest	JJ
+8	orbital	JJ
+9	maneuver	k2
+10	.	PUNC
+
+# Reuters
+# Oil production increased slightly during the last quarter.
+1	Oil	k1
+2	production	k1
+3	increased	V
+4	slightly	RB
+5	during	PSP
+6	the	JJ
+7	last	JJ
+8	quarter	k7
+9	.	PUNC
+
+# The Guardian
+# Public transport usage in the city reached pre-pandemic levels.
+1	Public	JJ
+2	transport	k1
+3	usage	k1
+4	in	PSP
+5	the	JJ
+6	city	k7
+7	reached	V
+8	pre-pandemic	JJ
+9	levels	k2
+10	.	PUNC
+
+# The New York Times
+# A new art exhibit explores the history of digital expression.
+1	A	JJ
+2	new	JJ
+3	art	k1
+4	exhibit	k1
+5	explores	V
+6	the	JJ
+7	history	k2
+8	of	PSP
+9	digital	JJ
+10	expression	k7
+11	.	PUNC
+
+# Al Jazeera
+# The refugee crisis requires a coordinated global response.
+1	The	JJ
+2	refugee	k1
+3	crisis	k1
+4	requires	V
+5	a	JJ
+6	coordinated	JJ
+7	global	JJ
+8	response	k2
+9	.	PUNC
+
+# The Hindu
+# Local schools introduced coding classes for primary students.
+1	Local	JJ
+2	schools	k1
+3	introduced	V
+4	coding	k2
+5	classes	k2
+6	for	PSP
+7	primary	JJ
+8	students	k4
+9	.	PUNC
+
+# BBC News
+# Renewable energy sources now provide half of the grid power.
+1	Renewable	JJ
+2	energy	k1
+3	sources	k1
+4	now	RB
+5	provide	V
+6	half	k2
+7	of	PSP
+8	the	JJ
+9	grid	k2
+10	power	k2
+11	.	PUNC
+
+# Reuters
+# The manufacturing sector reported a growth in export orders.
+1	The	JJ
+2	manufacturing	k1
+3	sector	k1
+4	reported	V
+5	a	JJ
+6	growth	k2
+7	in	PSP
+8	export	k2
+9	orders	k7
+10	.	PUNC
+
+# The Guardian
+# Extreme weather events are becoming more frequent and severe.
+1	Extreme	JJ
+2	weather	k1
+3	events	k1
+4	are	VAUX
+5	becoming	V
+6	more	RB
+7	frequent	JJ
+8	and	CC
+9	severe	JJ
+10	.	PUNC
+
+# The New York Times
+# The supreme court issued a landmark ruling on voting rights.
+1	The	JJ
+2	supreme	k1
+3	court	k1
+4	issued	V
+5	a	JJ
+6	landmark	JJ
+7	ruling	k2
+8	on	PSP
+9	voting	k2
+10	rights	k2
+11	.	PUNC
+
+# Al Jazeera
+# Regional leaders met to discuss a new trade partnership.
+1	Regional	JJ
+2	leaders	k1
+3	met	V
+4	to	RP
+5	discuss	V
+6	a	JJ
+7	new	JJ
+8	trade	k2
+9	partnership	k2
+10	.	PUNC
+
+# The Hindu
+# Wildlife officials spotted a rare leopard in the national park.
+1	Wildlife	k1
+2	officials	k1
+3	spotted	V
+4	a	JJ
+5	rare	JJ
+6	leopard	k2
+7	in	PSP
+8	the	JJ
+9	national	JJ
+10	park	k7
+11	.	PUNC
+
+# BBC News
+# Cybersecurity experts warn of a new phishing campaign.
+1	Cybersecurity	k1
+2	experts	k1
+3	warn	V
+4	of	PSP
+5	a	JJ
+6	new	JJ
+7	phishing	k2
+8	campaign	k2
+9	.	PUNC
+
+# Reuters
+# Retail sales rose during the annual holiday shopping season.
+1	Retail	k1
+2	sales	k1
+3	rose	V
+4	during	PSP
+5	the	JJ
+6	annual	JJ
+7	holiday	k7
+8	shopping	k7
+9	season	k7
+10	.	PUNC
+
+# The Guardian
+# Medical researchers developed a more efficient diagnostic test.
+1	Medical	JJ
+2	researchers	k1
+3	developed	V
+4	a	JJ
+5	more	RB
+6	efficient	JJ
+7	diagnostic	JJ
+8	test	k2
+9	.	PUNC
+
+# The New York Times
+# Small businesses struggle with rising costs of raw materials.
+1	Small	JJ
+2	businesses	k1
+3	struggle	V
+4	with	PSP
+5	rising	JJ
+6	costs	k3
+7	of	PSP
+8	raw	JJ
+9	materials	k7
+10	.	PUNC
+
+# Al Jazeera
+# Protests broke out in the capital over high fuel prices.
+1	Protests	k1
+2	broke	V
+3	out	RP
+4	in	PSP
+5	the	JJ
+6	capital	k7
+7	over	PSP
+8	high	JJ
+9	fuel	k2
+10	prices	k2
+11	.	PUNC
+
+# The Hindu
+# The city library added thousands of e-books to its collection.
+1	The	JJ
+2	city	k1
+3	library	k1
+4	added	V
+5	thousands	k2
+6	of	PSP
+7	e-books	k2
+8	to	PSP
+9	its	JJ
+10	collection	k4
+11	.	PUNC
+
+# BBC News
+# Exploring the deep ocean reveals unique and bioluminescent creatures.
+1	Exploring	k1
+2	the	JJ
+3	deep	JJ
+4	ocean	k1
+5	reveals	V
+6	unique	JJ
+7	and	CC
+8	bioluminescent	JJ
+9	creatures	k2
+10	.	PUNC
+
+# Reuters
+# The central bank kept the interest rates unchanged this month.
+1	The	JJ
+2	central	k1
+3	bank	k1
+4	kept	V
+5	the	JJ
+6	interest	k2
+7	rates	k2
+8	unchanged	JJ
+9	this	JJ
+10	month	k7
+11	.	PUNC
+
+# The Guardian
+# Educators emphasize the importance of critical thinking in schools.
+1	Educators	k1
+2	emphasize	V
+3	the	JJ
+4	importance	k2
+5	of	PSP
+6	critical	JJ
+7	thinking	k2
+8	in	PSP
+9	schools	k7
+10	.	PUNC
+
+# The New York Times
+# Silicon Valley startups are pivoting toward sustainable energy solutions.
+1	Silicon	k1
+2	Valley	k1
+3	startups	k1
+4	are	VAUX
+5	pivoting	V
+6	toward	PSP
+7	sustainable	JJ
+8	energy	k2
+9	solutions	k2
+10	.	PUNC
+
+# Al Jazeera
+# A major earthquake struck the northern mountainous region.
+1	A	JJ
+2	major	JJ
+3	earthquake	k1
+4	struck	V
+5	the	JJ
+6	northern	JJ
+7	mountainous	JJ
+8	region	k2
+9	.	PUNC
+
+# The Hindu
+# Agriculture scientist developed a new variety of drought-resistant rice.
+1	Agriculture	k1
+2	scientist	k1
+3	developed	V
+4	a	JJ
+5	new	JJ
+6	variety	k2
+7	of	PSP
+8	drought-resistant	JJ
+9	rice	k2
+10	.	PUNC
+
+# BBC News
+# The national museum will host a special photography exhibition.
+1	The	JJ
+2	national	k1
+3	museum	k1
+4	will	VAUX
+5	host	V
+6	a	JJ
+7	special	JJ
+8	photography	k2
+9	exhibition	k2
+10	.	PUNC
+
+# Reuters
+# Global trade volume declined amid rising geopolitical tensions.
+1	Global	JJ
+2	trade	k1
+3	volume	k1
+4	declined	V
+5	amid	PSP
+6	rising	JJ
+7	geopolitical	JJ
+8	tensions	k7
+9	.	PUNC
+
+# The Guardian
+# New studies suggest that caffeine can improve cognitive function.
+1	New	JJ
+2	studies	k1
+3	suggest	V
+4	that	CC
+5	caffeine	k1
+6	can	VAUX
+7	improve	V
+8	cognitive	JJ
+9	function	k2
+10	.	PUNC
+
+# The New York Times
+# The government announced a new initiative to support local artists.
+1	The	JJ
+2	government	k1
+3	announced	V
+4	a	JJ
+5	new	JJ
+6	initiative	k2
+7	to	RP
+8	support	V
+9	local	JJ
+10	artists	k2
+11	.	PUNC
+
+# Al Jazeera
+# Displaced families received food and medical supplies today.
+1	Displaced	JJ
+2	families	k1
+3	received	V
+4	food	k2
+5	and	CC
+6	medical	JJ
+7	supplies	k2
+8	today	k7
+9	.	PUNC
+
+# The Hindu
+# The high court asked for a report on urban flooding.
+1	The	JJ
+2	high	k1
+3	court	k1
+4	asked	V
+5	for	PSP
+6	a	JJ
+7	report	k2
+8	on	PSP
+9	urban	JJ
+10	flooding	k7
+11	.	PUNC
+
+# BBC News
+# Satellite imagery reveals the extent of forest fire damage.
+1	Satellite	k1
+2	imagery	k1
+3	reveals	V
+4	the	JJ
+5	extent	k2
+6	of	PSP
+7	forest	k2
+8	fire	k2
+9	damage	k2
+10	.	PUNC
+
+# Reuters
+# The manufacturing index reached a two-year high this month.
+1	The	JJ
+2	manufacturing	k1
+3	index	k1
+4	reached	V
+5	a	JJ
+6	two-year	JJ
+7	high	k2
+8	this	JJ
+9	month	k7
+10	.	PUNC
+
+# The Guardian
+# Biodiversity loss remains a significant threat to global ecosystems.
+1	Biodiversity	k1
+2	loss	k1
+3	remains	V
+4	a	JJ
+5	significant	JJ
+6	threat	k2
+7	to	PSP
+8	global	JJ
+9	ecosystems	k4
+10	.	PUNC
+
+# The New York Times
+# NASA launched a mission to explore an icy moon.
+1	NASA	k1
+2	launched	V
+3	a	JJ
+4	mission	k2
+5	to	RP
+6	explore	V
+7	an	JJ
+8	icy	JJ
+9	moon	k2
+10	.	PUNC
+
+# Al Jazeera
+# International observers arrived to monitor the national elections.
+1	International	JJ
+2	observers	k1
+3	arrived	V
+4	to	RP
+5	monitor	V
+6	the	JJ
+7	national	JJ
+8	elections	k2
+9	.	PUNC
+
+# The Hindu
+# Traditional weavers are using social media to sell products.
+1	Traditional	JJ
+2	weavers	k1
+3	are	VAUX
+4	using	V
+5	social	JJ
+6	media	k3
+7	to	RP
+8	sell	V
+9	products	k2
+10	.	PUNC
+
+# BBC News
+# Virtual reality headsets are becoming lighter and more affordable.
+1	Virtual	JJ
+2	reality	k1
+3	headsets	k1
+4	are	VAUX
+5	becoming	V
+6	lighter	JJ
+7	and	CC
+8	more	RB
+9	affordable	JJ
+10	.	PUNC
+
+# Reuters
+# Gold prices hit a record high amid economic uncertainty.
+1	Gold	k1
+2	prices	k1
+3	hit	V
+4	a	JJ
+5	record	k2
+6	high	k2
+7	amid	PSP
+8	economic	JJ
+9	uncertainty	k7
+10	.	PUNC
+
+# The Guardian
+# Carbon emissions must drop significantly to reach climate goals.
+1	Carbon	k1
+2	emissions	k1
+3	must	VAUX
+4	drop	V
+5	significantly	RB
+6	to	RP
+7	reach	V
+8	climate	k2
+9	goals	k2
+10	.	PUNC

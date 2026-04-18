@@ -1,0 +1,651 @@
+# Al Jazeera
+# The ceasefire agreement brought temporary peace to the region.
+1   The   JJ
+2   ceasefire   NN
+3   agreement   k1
+4   brought   V
+5   temporary   JJ
+6   peace   k2
+7   to   PSP
+8   the   JJ
+9   region   k2
+10  .   PUNC
+
+# The Hindu
+# Public parks are being renovated to include more playgrounds.
+1   The   JJ
+2   Hindu   NN
+3   Public   JJ
+4   parks   k1
+5   are   VAUX
+6   being   VAUX
+7   renovated   V
+8   to   RP
+9   include   V
+10  more   JJ
+11  playgrounds   k2
+12  .   PUNC
+
+# BBC News
+# Electric scooters are changing how people navigate urban centers.
+1   Electric   JJ
+2   scooters   k1
+3   are   VAUX
+4   changing   V
+5   how   RB
+6   people   k1
+7   navigate   V
+8   urban   JJ
+9   centers   k2
+10  .   PUNC
+
+# Reuters
+# The trade deficit narrowed as electronics exports increased sharply.
+1   The   JJ
+2   trade   NN
+3   deficit   k1
+4   narrowed   V
+5   as   CC
+6   electronics   NN
+7   exports   k1
+8   increased   V
+9   sharply   RB
+10  .   PUNC
+
+# The Guardian
+# Urban planners suggest building more bicycle lanes for safety.
+1   Urban   JJ
+2   planners   k1
+3   suggest   V
+4   building   V
+5   more   JJ
+6   bicycle   NN
+7   lanes   k2
+8   for   PSP
+9   safety   k7
+10  .   PUNC
+
+# The New York Times
+# High inflation rates are impacting consumer spending on luxury items.
+1   High   JJ
+2   inflation   NN
+3   rates   k1
+4   are   VAUX
+5   impacting   V
+6   consumer   NN
+7   spending   k2
+8   on   PSP
+9   luxury   NN
+10  items   k7
+11  .   PUNC
+
+# Al Jazeera
+# Military exercises near the border caused regional concern.
+1   Military   JJ
+2   exercises   k1
+3   near   PSP
+4   the   JJ
+5   border   k7
+6   caused   V
+7   regional   JJ
+8   concern   k2
+9   .   PUNC
+
+# The Hindu
+# The state high court issued a notice on environmental pollution.
+1   The   JJ
+2   state   NN
+3   high   JJ
+4   court   k1
+5   issued   V
+6   a   JJ
+7   notice   k2
+8   on   PSP
+9   environmental   JJ
+10  pollution   k7
+11  .   PUNC
+
+# BBC News
+# Researchers found that ocean temperatures are rising faster than expected.
+1   Researchers   k1
+2   found   V
+3   that   CC
+4   ocean   NN
+5   temperatures   k1
+6   are   VAUX
+7   rising   V
+8   faster   RB
+9   than   PSP
+10  expected   V
+11  .   PUNC
+
+# Reuters
+# Global tech companies are investing in artificial intelligence research.
+1   Global   JJ
+2   tech   NN
+3   companies   k1
+4   are   VAUX
+5   investing   V
+6   in   PSP
+7   artificial   JJ
+8   intelligence   NN
+9   research   k7
+10  .   PUNC
+
+# The Guardian
+# Community-led initiatives help reduce plastic waste in oceans.
+1   Community-led   JJ
+2   initiatives   k1
+3   help   V
+4   reduce   V
+5   plastic   NN
+6   waste   k2
+7   in   PSP
+8   oceans   k7
+9   .   PUNC
+
+# The New York Times
+# The local administration implemented new traffic management systems.
+1   The   JJ
+2   local   JJ
+3   administration   k1
+4   implemented   V
+5   new   JJ
+6   traffic   NN
+7   management   NN
+8   systems   k2
+9   .   PUNC
+
+# Al Jazeera
+# Diplomatic efforts are underway to resolve the border dispute.
+1   Diplomatic   JJ
+2   efforts   k1
+3   are   VAUX
+4   underway   JJ
+5   to   RP
+6   resolve   V
+7   the   JJ
+8   border   NN
+9   dispute   k2
+10  .   PUNC
+
+# The Hindu
+# Farmers received subsidies for organic seed production.
+1   Farmers   k1
+2   received   V
+3   subsidies   k2
+4   for   PSP
+5   organic   JJ
+6   seed   NN
+7   production   k7
+8   .   PUNC
+
+# BBC News
+# Space exploration missions aim to find water on distant planets.
+1   Space   NN
+2   exploration   NN
+3   missions   k1
+4   aim   V
+5   to   RP
+6   find   V
+7   water   k2
+8   on   PSP
+9   distant   JJ
+10  planets   k7
+11  .   PUNC
+
+# Reuters
+# The pharmaceutical sector reported a surge in vaccine exports.
+1   The   JJ
+2   pharmaceutical   JJ
+3   sector   k1
+4   reported   V
+5   a   JJ
+6   surge   k2
+7   in   PSP
+8   vaccine   NN
+9   exports   k7
+10  .   PUNC
+
+# The Guardian
+# Wildlife conservationists are protecting endangered species in the Amazon.
+1   Wildlife   NN
+2   conservationists   k1
+3   are   VAUX
+4   protecting   V
+5   endangered   JJ
+6   species   k2
+7   in   PSP
+8   the   JJ
+9   Amazon   k7
+10  .   PUNC
+
+# The New York Times
+# New educational policies focus on digital literacy for all.
+1   New   JJ
+2   educational   JJ
+3   policies   k1
+4   focus   V
+5   on   PSP
+6   digital   JJ
+7   literacy   k2
+8   for   PSP
+9   all   k4
+10  .   PUNC
+
+# Al Jazeera
+# Protests erupted in several cities against the new tax laws.
+1   Protests   k1
+2   erupted   V
+3   in   PSP
+4   several   JJ
+5   cities   k7
+6   against   PSP
+7   the   JJ
+8   new   JJ
+9   tax   NN
+10  laws   k2
+11  .   PUNC
+
+# The Hindu
+# The government plans to increase investment in rural infrastructure.
+1   The   JJ
+2   government   k1
+3   plans   V
+4   to   RP
+5   increase   V
+6   investment   k2
+7   in   PSP
+8   rural   JJ
+9   infrastructure   k7
+10  .   PUNC
+
+# BBC News
+# Medical experts recommend regular exercise for a healthy lifestyle.
+1   Medical   JJ
+2   experts   k1
+3   recommend   V
+4   regular   JJ
+5   exercise   k2
+6   for   PSP
+7   a   JJ
+8   healthy   JJ
+9   lifestyle   k7
+10  .   PUNC
+
+# Reuters
+# Retail sales increased significantly during the festive season.
+1   Retail   JJ
+2   sales   k1
+3   increased   V
+4   significantly   RB
+5   during   PSP
+6   the   JJ
+7   festive   JJ
+8   season   k7
+9   .   PUNC
+
+# The Guardian
+# Environmental activists are campaigning for cleaner air in cities.
+1   Environmental   JJ
+2   activists   k1
+3   are   VAUX
+4   campaigning   V
+5   for   PSP
+6   cleaner   JJ
+7   air   k2
+8   in   PSP
+9   cities   k7
+10  .   PUNC
+
+# The New York Times
+# Small businesses are adopting digital payment methods.
+1   Small   JJ
+2   businesses   k1
+3   are   VAUX
+4   adopting   V
+5   digital   JJ
+6   payment   NN
+7   methods   k2
+8   .   PUNC
+
+# Al Jazeera
+# A massive explosion occurred at a chemical factory yesterday.
+1   A   JJ
+2   massive   JJ
+3   explosion   k1
+4   occurred   V
+5   at   PSP
+6   a   JJ
+7   chemical   JJ
+8   factory   k7
+9   yesterday   k7
+10  .   PUNC
+
+# The Hindu
+# The city municipal corporation launched a massive cleanup drive.
+1   The   JJ
+2   city   NN
+3   municipal   JJ
+4   corporation   k1
+5   launched   V
+6   a   JJ
+7   massive   JJ
+8   cleanup   NN
+9   drive   k2
+10  .   PUNC
+
+# BBC News
+# Artificial intelligence is transforming the healthcare industry.
+1   Artificial   JJ
+2   intelligence   k1
+3   is   VAUX
+4   transforming   V
+5   the   JJ
+6   healthcare   NN
+7   industry   k2
+8   .   PUNC
+
+# Reuters
+# Stock markets reached a new peak after the positive economic report.
+1   Stock   NN
+2   markets   k1
+3   reached   V
+4   a   JJ
+5   new   JJ
+6   peak   k2
+7   after   PSP
+8   the   JJ
+9   positive   JJ
+10  economic   JJ
+11  report   k7
+12  .   PUNC
+
+# The Guardian
+# New research shows that sleep is essential for brain health.
+1   New   JJ
+2   research   k1
+3   shows   V
+4   that   CC
+5   sleep   k1
+6   is   V
+7   essential   JJ
+8   for   PSP
+9   brain   NN
+10  health   k7
+11  .   PUNC
+
+# The New York Times
+# Educational institutions are shifting to hybrid learning models.
+1   Educational   JJ
+2   institutions   k1
+3   are   VAUX
+4   shifting   V
+5   to   PSP
+6   hybrid   JJ
+7   learning   NN
+8   models   k7
+9   .   PUNC
+
+# Al Jazeera
+# Peace talks are being held in a neutral country.
+1   Peace   NN
+2   talks   k1
+3   are   VAUX
+4   being   VAUX
+5   held   V
+6   in   PSP
+7   a   JJ
+8   neutral   JJ
+9   country   k7
+10  .   PUNC
+
+# The Hindu
+# The state government announced a compensation package for flood victims.
+1   The   JJ
+2   state   NN
+3   government   k1
+4   announced   V
+5   a   JJ
+6   compensation   NN
+7   package   k2
+8   for   PSP
+9   flood   NN
+10  victims   k4
+11  .   PUNC
+
+# BBC News
+# Scientists are studying the effects of noise pollution on birds.
+1   Scientists   k1
+2   are   VAUX
+3   studying   V
+4   the   JJ
+5   effects   k2
+6   of   PSP
+7   noise   NN
+8   pollution   k7
+9   on   PSP
+10  birds   k7
+11  .   PUNC
+
+# Reuters
+# Global oil prices dropped following the meeting of major producers.
+1   Global   JJ
+2   oil   NN
+3   prices   k1
+4   dropped   V
+5   following   PSP
+6   the   JJ
+7   meeting   k7
+8   of   PSP
+9   major   JJ
+10  producers   k7
+11  .   PUNC
+
+# The Guardian
+# Urban areas are experiencing a surge in rooftop gardening.
+1   Urban   JJ
+2   areas   k1
+3   are   VAUX
+4   experiencing   V
+5   a   JJ
+6   surge   k2
+7   in   PSP
+8   rooftop   NN
+9   gardening   k7
+10  .   PUNC
+
+# The New York Times
+# Tech giants are facing scrutiny over data privacy issues.
+1   Tech   NN
+2   giants   k1
+3   are   VAUX
+4   facing   V
+5   scrutiny   k2
+6   over   PSP
+7   data   NN
+8   privacy   NN
+9   issues   k7
+10  .   PUNC
+
+# Al Jazeera
+# Aid organizations are providing food and water to displaced people.
+1   Aid   NN
+2   organizations   k1
+3   are   VAUX
+4   providing   V
+5   food   k2
+6   and   CC
+7   water   k2
+8   to   PSP
+9   displaced   JJ
+10  people   k4
+11  .   PUNC
+
+# The Hindu
+# The local library is hosting a week-long for contemporary art.
+1   The   JJ
+2   local   JJ
+3   library   k1
+4   is   VAUX
+5   hosting   V
+6   a   JJ
+7   week-long   JJ
+8   for   PSP
+9   contemporary   JJ
+10  art   k7
+11  .   PUNC
+
+# Al Jazeera
+# Military forces were deployed to the flood-affected areas.
+1   Military   JJ
+2   forces   k1
+3   were   VAUX
+4   deployed   V
+5   to   PSP
+6   the   JJ
+7   flood-affected   JJ
+8   areas   k2
+9   .   PUNC
+
+# The Hindu
+# Classical music concerts are held every weekend in December.
+1   Classical   JJ
+2   music   NN
+3   concerts   k1
+4   are   VAUX
+5   held   V
+6   every   JJ
+7   weekend   k7
+8   in   PSP
+9   December   k7
+10  .   PUNC
+
+# BBC News
+# Scientific discoveries often lead to new and better technologies.
+1   Scientific   JJ
+2   discoveries   k1
+3   often   RB
+4   lead   V
+5   to   PSP
+6   new   JJ
+7   and   CC
+8   better   JJ
+9   technologies   k2
+10  .   PUNC
+
+# Reuters
+# Unemployment rates dropped slightly for the second consecutive month.
+1   Unemployment   NN
+2   rates   k1
+3   dropped   V
+4   slightly   RB
+5   for   PSP
+6   the   JJ
+7   second   JJ
+8   consecutive   JJ
+9   month   k7
+10  .   PUNC
+
+# The Guardian
+# Healthy eating and regular exercise are key to longevity.
+1   Healthy   JJ
+2   eating   k1
+3   and   CC
+4   regular   JJ
+5   exercise   k1
+6   are   V
+7   key   JJ
+8   to   PSP
+9   longevity   k7
+10  .   PUNC
+
+# The New York Times
+# A major earthquake struck the northern coast this morning.
+1   A   JJ
+2   major   JJ
+3   earthquake   k1
+4   struck   V
+5   the   JJ
+6   northern   JJ
+7   coast   k2
+8   this   JJ
+9   morning   k7
+10  .   PUNC
+
+# Al Jazeera
+# Negotiations for a permanent peace treaty will begin next week.
+1   Negotiations   k1
+2   for   PSP
+3   a   JJ
+4   permanent   JJ
+5   peace   NN
+6   treaty   k7
+7   will   VAUX
+8   begin   V
+9   next   JJ
+10  week   k7
+11  .   PUNC
+
+# The Hindu
+# Organic food products are gaining popularity in urban centers.
+1   Organic   JJ
+2   food   NN
+3   products   k1
+4   are   VAUX
+5   gaining   V
+6   popularity   k2
+7   in   PSP
+8   urban   JJ
+9   centers   k7
+10  .   PUNC
+
+# BBC News
+# Astronomers observed a rare celestial event using new telescopes.
+1   Astronomers   k1
+2   observed   V
+3   a   JJ
+4   rare   JJ
+5   celestial   JJ
+6   event   k2
+7   using   PSP
+8   new   JJ
+9   telescopes   k3
+10  .   PUNC
+
+# Reuters
+# Global economic growth is expected to slow down next year.
+1   Global   JJ
+2   economic   JJ
+3   growth   k1
+4   is   VAUX
+5   expected   V
+6   to   RP
+7   slow   V
+8   down   RP
+9   next   JJ
+10  year   k7
+11  .   PUNC
+
+# The Guardian
+# Biodiversity protection is vital for sustainable development.
+1   Biodiversity   NN
+2   protection   k1
+3   is   V
+4   vital   JJ
+5   for   PSP
+6   sustainable   JJ
+7   development   k7
+8   .   PUNC
+
+# The New York Times
+# Advanced medical imaging helps doctors diagnose rare diseases.
+1   Advanced   JJ
+2   medical   JJ
+3   imaging   k1
+4   helps   V
+5   doctors   k2
+6   diagnose   V
+7   rare   JJ
+8   diseases   k2
+9   .   PUNC
