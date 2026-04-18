@@ -1,0 +1,474 @@
+1	Jungle	NN
+2	safari	NN
+3	mein	NN
+4	logon	NN
+5	ne	NN
+6	sher	NN
+7	dekha	NN
+8	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	vaccine	NN
+5	program	NN
+6	shuru	NN
+7	kiya	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	kanoon	NN
+3	se	NN
+4	bhrashtachar	NN
+5	par	NN
+6	rok	NN
+7	lagegi	NN
+8	.	NN
+
+1	Railway	NN
+2	ne	NN
+3	naya	NN
+4	special	NN
+5	train	NN
+6	chalane	NN
+7	ka	NN
+8	nirnay	NN
+9	liya	NN
+10	.	NN
+
+1	Tech	NN
+2	summit	NN
+3	mein	NN
+4	naye	NN
+5	inventions	NN
+6	dikhaye	NN
+7	gaye	NN
+8	.	NN
+
+1	Shahar	NN
+2	ki	NN
+3	sadkon	NN
+4	ko	NN
+5	chaunda	NN
+6	kiya	NN
+7	jayega	NN
+8	.	NN
+
+1	Museum	NN
+2	mein	NN
+3	purani	NN
+4	talwaren	NN
+5	pradarshit	NN
+6	ki	NN
+7	gayi	NN
+8	hain	NN
+9	.	NN
+
+1	New	NN
+2	space	NN
+3	station	NN
+4	ka	NN
+5	naksha	NN
+6	taiyar	NN
+7	ho	NN
+8	gaya	NN
+9	.	NN
+
+1	Nayi	NN
+2	shiksha	NN
+3	niti	NN
+4	se	NN
+5	bachon	NN
+6	ko	NN
+7	fayda	NN
+8	hoga	NN
+9	.	NN
+
+1	Waterfall	NN
+2	dekhne	NN
+3	ke	NN
+4	liye	NN
+5	bhari	NN
+6	sankhya	NN
+7	mein	NN
+8	paryatak	NN
+9	aye	NN
+10	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	cricket	NN
+5	coach	NN
+6	niyukt	NN
+7	kiya	NN
+8	hai	NN
+9	.	NN
+
+1	Solar	NN
+2	energy	NN
+3	ko	NN
+4	badhava	NN
+5	dene	NN
+6	ke	NN
+7	liye	NN
+8	subsidy	NN
+9	di	NN
+10	.	NN
+
+1	Historical	<NN>
+2	palace	<NN>
+3	mein	<IN>
+4	naya	<JJ>
+5	garden	<NN>
+6	banaya	<VBZ>
+7	gaya	NN
+8	hai	NN
+9	.	NN
+
+1	Artificial	NN
+2	Intelligence	NN
+3	ne	NN
+4	naya	NN
+5	record	NN
+6	banaya	NN
+7	hai	NN
+8	.	NN
+
+1	Naye	NN
+2	highway	NN
+3	par	NN
+4	car	NN
+5	ki	NN
+6	raftaar	NN
+7	badh	NN
+8	gayi	NN
+9	.	NN
+
+1	Lake	NN
+2	mein	NN
+3	boat	NN
+4	riding	NN
+5	ka	NN
+6	maza	NN
+7	logon	NN
+8	ne	NN
+9	liya	NN
+10	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	satellite	NN
+5	launch	NN
+6	pad	NN
+7	banaya	NN
+8	hai	NN
+9	.	NN
+
+1	Public	NN
+2	transport	NN
+3	mein	NN
+4	naye	NN
+5	badlav	NN
+6	kiye	NN
+7	gaye	NN
+8	hain	NN
+9	.	NN
+
+1	Mountain	climbing<V>ke</V>liye<V>naya</V>camp<V>shuru</V>hua<V>.<V>
+2	climbing	NN
+3	ke	NN
+4	liye	NN
+5	naya	NN
+6	camp	NN
+7	shuru	NN
+8	hua	NN
+9	.	NN
+
+1	New	NN
+2	smartphone	NN
+3	market	NN
+4	mein	NN
+5	dhoom	NN
+6	macha	NN
+7	raha	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	library	NN
+3	mein	NN
+4	bahut	NN
+5	sari	NN
+6	kitabein	NN
+7	hain	NN
+8	.	NN
+
+1	City	NN
+2	park	NN
+3	mein	NN
+4	morning	NN
+5	walk	NN
+6	ke	NN
+7	liye	NN
+8	log	NN
+9	aye	NN
+10	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	trade	NN
+5	agreement	NN
+6	sign	NN
+7	kiya	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	bridge	NN
+3	se	NN
+4	traffic	NN
+5	ki	NN
+6	samasya	NN
+7	hal	NN
+8	hui	NN
+9	.	NN
+
+1	Zoo	NN
+2	mein	NN
+3	naye	NN
+4	janwaro	NN
+5	ko	NN
+6	laya	NN
+7	gaya	NN
+8	hai	NN
+9	.	NN
+
+1	Science	NN
+2	project	NN
+3	mein	NN
+4	bachon	NN
+5	ne	NN
+6	prize	NN
+7	jeeta	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	hospital	NN
+3	mein	NN
+4	sari	NN
+5	adhunik	NN
+6	suvidhayen	NN
+7	hain	NN
+8	.	NN
+
+1	Beach	NN
+2	par	NN
+3	logon	NN
+4	ne	NN
+5	khel	NN
+6	ka	NN
+7	anand	NN
+8	liya	NN
+9	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	cyber	NN
+5	security	NN
+6	law	NN
+7	banaya	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	school	NN
+3	mein	NN
+4	smart	NN
+5	classes	NN
+6	ki	NN
+7	suvidha	NN
+8	hai	NN
+9	.	NN
+
+1	Forest	NN
+2	department	NN
+3	ne	NN
+4	naye	NN
+5	ped	NN
+6	lagaye	NN
+7	hain	NN
+8	.	NN
+
+1	New	NN
+2	movie	NN
+3	theater	NN
+4	shahar	NN
+5	mein	NN
+6	khula	NN
+7	hai	NN
+8	.	NN
+
+1	Naye	NN
+2	kanoon	NN
+3	se	NN
+4	bhrashtachar	NN
+5	kam	NN
+6	ho	NN
+7	jayega	NN
+8	.	NN
+
+1	Garden	NN
+2	mein	NN
+3	phool	NN
+4	khile	NN
+5	huye	NN
+6	hain	NN
+7	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	sports	NN
+5	complex	NN
+6	banaya	NN
+7	hai	NN
+8	.	NN
+
+1	Naye	NN
+2	bus	NN
+3	stop	NN
+4	par	NN
+5	log	NN
+6	khade	NN
+7	hain	NN
+8	.	NN
+
+1	Market	NN
+2	mein	NN
+3	naye	NN
+4	kapde	NN
+5	aye	NN
+6	hain	NN
+7	.	NN
+
+1	Science	NN
+2	fair	NN
+3	mein	NN
+4	naye	NN
+5	experiment	NN
+6	dikhaye	NN
+7	gaye	NN
+8	.	NN
+
+1	Naye	NN
+2	mall	NN
+3	mein	NN
+4	bahut	NN
+5	sari	NN
+6	dukanen	NN
+7	hain	NN
+8	.	NN
+
+1	River	side
+2	side	NN
+3	par	NN
+4	log	NN
+5	ghoom	NN
+6	rahe	NN
+7	hain	NN
+8	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	economic	NN
+5	plan	NN
+6	banaya	NN
+7	hai	NN
+8	.	NN
+
+1	Naye	NN
+2	office	NN
+3	mein	NN
+4	kaam	NN
+5	shuru	NN
+6	ho	NN
+7	gaya	NN
+8	.	NN
+
+1	Park	NN
+2	mein	NN
+3	bachhe	NN
+4	khel	NN
+5	rahe	NN
+6	hain	NN
+7	.	NN
+
+1	New	NN
+2	technology	NN
+3	se	NN
+4	kaam	NN
+5	asan	NN
+6	ho	NN
+7	gaya	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	railway	NN
+3	line	NN
+4	par	NN
+5	train	NN
+6	chalne	NN
+7	lagi	NN
+8	.	NN
+
+1	Temple	NN
+2	mein	NN
+3	puja	NN
+4	ho	NN
+5	rahi	NN
+6	hai	NN
+7	.	NN
+
+1	Bharat	NN
+2	ne	NN
+3	naya	NN
+4	energy	NN
+5	policy	NN
+6	launch	NN
+7	kiya	NN
+8	hai	NN
+9	.	NN
+
+1	Naye	NN
+2	building	NN
+3	mein	NN
+4	lift	NN
+5	ki	NN
+6	suvidha	NN
+7	hai	NN
+8	.	NN
+
+1	Zoo	NN
+2	mein	NN
+3	sher	NN
+4	dahad	NN
+5	raha	NN
+6	hai	NN
+7	.	NN
+
+1	Science	NN
+2	ne	NN
+3	naye	NN
+4	rahasya	NN
+5	suljhaye	NN
+6	hain	NN
+7	.	NN
+

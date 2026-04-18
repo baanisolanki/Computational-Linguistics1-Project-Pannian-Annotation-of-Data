@@ -1,0 +1,508 @@
+1	Corporate	NN
+2	earnings	NN
+3	reports	NN
+4	exceeded	NN
+5	analyst	NN
+6	expectations	NN
+7	this	NN
+8	quarter	NN
+9	.	NN
+
+1	Organic	NN
+2	farming	NN
+3	is	NN
+4	gaining	NN
+5	popularity	NN
+6	among	NN
+7	young	NN
+8	entrepreneurs	NN
+9	.	NN
+
+1	The	NN
+2	international	NN
+3	film	NN
+4	festival	NN
+5	opened	NN
+6	with	NN
+7	a	NN
+8	grand	NN
+9	ceremony	NN
+10	.	NN
+
+1	Trade	NN
+2	deficit	NN
+3	narrowed	NN
+4	due	NN
+5	to	NN
+6	a	NN
+7	rise	NN
+8	in	NN
+9	exports	NN
+10	.	NN
+
+1	Traffic	NN
+2	rules	NN
+3	have	NN
+4	been	NN
+5	tightened	NN
+6	to	NN
+7	improve	NN
+8	road	NN
+9	safety	NN
+10	.	NN
+
+1	Astronomers	NN
+2	observed	NN
+3	a	NN
+4	rare	NN
+5	comet	NN
+6	passing	NN
+7	near	NN
+8	Earth	NN
+9	.	NN
+
+1	Global	NN
+2	logistics	NN
+3	firms	NN
+4	are	NN
+5	adopting	NN
+6	green	NN
+7	energy	NN
+8	solutions	NN
+9	.	NN
+
+1	The	NN
+2	irrigation	NN
+3	project	NN
+4	will	NN
+5	benefit	NN
+6	thousands	NN
+7	of	NN
+8	farmers	NN
+9	.	NN
+
+1	Mental	NN
+2	health	NN
+3	awareness	NN
+4	is	NN
+5	increasing	NN
+6	in	NN
+7	the	NN
+8	workplace	NN
+9	.	NN
+
+1	Small	NN
+2	businesses	NN
+3	are	NN
+4	receiving	NN
+5	support	NN
+6	through	NN
+7	government	NN
+8	grants	NN
+9	.	NN
+
+1	The	NN
+2	state	NN
+3	library	NN
+4	offers	NN
+5	free	NN
+6	internet	NN
+7	access	NN
+8	to	NN
+9	students	NN
+10	.	NN
+
+1	Urban	NN
+2	vertical	NN
+3	gardens	NN
+4	are	NN
+5	helping	NN
+6	reduce	NN
+7	city	NN
+8	pollution	NN
+9	.	NN
+
+1	The	NN
+2	steel	NN
+3	industry	NN
+4	reported	NN
+5	a	NN
+6	surge	NN
+7	in	NN
+8	global	NN
+9	demand	NN
+10	.	NN
+
+1	Community	NN
+2	kitchens	NN
+3	provided	NN
+4	meals	NN
+5	to	NN
+6	those	NN
+7	in	NN
+8	need	NN
+9	.	NN
+
+1	Scientists	NN
+2	are	NN
+3	studying	NN
+4	the	NN
+5	effects	NN
+6	of	NN
+7	microplastics	NN
+8	on	NN
+9	fish	NN
+10	.	NN
+
+1	The	NN
+2	semiconductor	NN
+3	shortage	NN
+4	is	NN
+5	finally	NN
+6	beginning	NN
+7	to	NN
+8	ease	NN
+9	.	NN
+
+1	Coastal	NN
+2	erosion	NN
+3	is	NN
+4	threatening	NN
+5	several	NN
+6	historic	NN
+7	seaside	NN
+8	villages	NN
+9	.	NN
+
+1	New	NN
+2	educational	NN
+3	software	NN
+4	helps	NN
+5	children	NN
+6	learn	NN
+7	math	NN
+8	easily	NN
+9	.	NN
+
+1	Consumer	NN
+2	confidence	NN
+3	hit	NN
+4	a	NN
+5	one-year	NN
+6	high	NN
+7	this	NN
+8	month	NN
+9	.	NN
+
+1	The	NN
+2	national	NN
+3	park	NN
+4	reopened	NN
+5	after	NN
+6	successful	NN
+7	habitat	NN
+8	restoration	NN
+9	.	NN
+
+1	Modern	NN
+2	art	NN
+3	galleries	NN
+4	are	NN
+5	focusing	NN
+6	on	NN
+7	interactive	NN
+8	installations	NN
+9	.	NN
+
+1	Debt	NN
+2	restructuring	NN
+3	plans	NN
+4	were	NN
+5	approved	NN
+6	by	NN
+7	the	NN
+8	creditors	NN
+9	.	NN
+
+1	Farmers	NN
+2	are	NN
+3	adopting	NN
+4	smart	NN
+5	sensors	NN
+6	for	NN
+7	water	NN
+8	management	NN
+9	.	NN
+
+1	Space	NN
+2	debris	NN
+3	is	NN
+4	a	NN
+5	growing	NN
+6	concern	NN
+7	for	NN
+8	satellite	NN
+9	safety	NN
+10	.	NN
+
+1	The	NN
+2	hospitality	NN
+3	sector	NN
+4	is	NN
+5	seeing	NN
+6	a	NN
+7	rapid	NN
+8	recovery	NN
+9	.	NN
+
+1	Local	NN
+2	artisans	NN
+3	are	NN
+4	showcasing	NN
+5	their	NN
+6	work	NN
+7	at	NN
+8	the	NN
+9	fair	NN
+10	.	NN
+
+1	Genomic	NN
+2	research	NN
+3	is	NN
+4	providing	NN
+5	insights	NN
+6	into	NN
+7	rare	NN
+8	diseases	NN
+9	.	NN
+
+1	Commodity	NN
+2	prices	NN
+3	fluctuate	NN
+4	due	NN
+5	to	NN
+6	changing	NN
+7	global	NN
+8	demand	NN
+9	.	NN
+
+1	The	NN
+2	city	NN
+3	council	NN
+4	approved	NN
+5	the	NN
+6	new	NN
+7	waste	NN
+8	management	NN
+9	plan	NN
+10	.	NN
+
+1	Public	NN
+2	libraries	NN
+3	are	NN
+4	evolving	NN
+5	into	NN
+6	modern	NN
+7	community	NN
+8	hubs	NN
+9	.	NN
+
+1	Foreign	NN
+2	exchange	NN
+3	reserves	NN
+4	reached	NN
+5	a	NN
+6	comfortable	NN
+7	level	NN
+8	recently	NN
+9	.	NN
+
+1	Youth	NN
+2	volunteers	NN
+3	are	NN
+4	leading	NN
+5	the	NN
+6	urban	NN
+7	cleanup	NN
+8	drive	NN
+9	.	NN
+
+1	Advancements	NN
+2	in	NN
+3	battery	NN
+4	technology	NN
+5	are	NN
+6	aiding	NN
+7	electric	NN
+8	vehicles	NN
+9	.	NN
+
+1	The	NN
+2	automotive	NN
+3	market	NN
+4	is	NN
+5	shifting	NN
+6	toward	NN
+7	sustainable	NN
+8	models	NN
+9	.	NN
+
+1	The	NN
+2	heritage	NN
+3	walk	NN
+4	covers	NN
+5	ten	NN
+6	historical	NN
+7	monuments	NN
+8	today	NN
+9	.	NN
+
+1	High-speed	NN
+2	trains	NN
+3	are	NN
+4	being	NN
+5	tested	NN
+6	on	NN
+7	new	NN
+8	routes	NN
+9	.	NN
+
+1	Tax	NN
+2	revenue	NN
+3	increased	NN
+4	following	NN
+5	the	NN
+6	new	NN
+7	policy	NN
+8	changes	NN
+9	.	NN
+
+1	Rural	NN
+2	schools	NN
+3	received	NN
+4	new	NN
+5	computer	NN
+6	labs	NN
+7	this	NN
+8	month	NN
+9	.	NN
+
+1	Deep-sea	NN
+2	exploration	NN
+3	revealed	NN
+4	amazing	NN
+5	volcanic	NN
+6	vent	NN
+7	ecosystems	NN
+8	.	NN
+
+1	Retail	NN
+2	inflation	NN
+3	dropped	NN
+4	to	NN
+5	a	NN
+6	six-month	NN
+7	low	NN
+8	recently	NN
+9	.	NN
+
+1	The	NN
+2	food	NN
+3	festival	NN
+4	features	NN
+5	cuisines	NN
+6	from	NN
+7	various	NN
+8	states	NN
+9	.	NN
+
+1	Cybersecurity	NN
+2	threats	NN
+3	are	NN
+4	becoming	NN
+5	more	NN
+6	sophisticated	NN
+7	each	NN
+8	year	NN
+9	.	NN
+
+1	Commercial	NN
+2	real	NN
+3	estate	NN
+4	demand	NN
+5	is	NN
+6	picking	NN
+7	up	NN
+8	slowly	NN
+9	.	NN
+
+1	Vocational	NN
+2	training	NN
+3	centers	NN
+4	help	NN
+5	youth	NN
+6	find	NN
+7	better	NN
+8	jobs	NN
+9	.	NN
+
+1	Scientists	NN
+2	found	NN
+3	a	NN
+4	way	NN
+5	to	NN
+6	recycle	NN
+7	plastic	NN
+8	efficiently	NN
+9	.	NN
+
+1	Major	NN
+2	banks	NN
+3	reported	NN
+4	stable	NN
+5	profits	NN
+6	for	NN
+7	the	NN
+8	half-year	NN
+9	.	NN
+
+1	The	NN
+2	literary	NN
+3	award	NN
+4	went	NN
+5	to	NN
+6	a	NN
+7	debut	NN
+8	novelist	NN
+9	.	NN
+
+1	New	NN
+2	telescopes	NN
+3	will	NN
+4	help	NN
+5	us	NN
+6	understand	NN
+7	black	NN
+8	holes	NN
+9	.	NN
+
+1	The	NN
+2	construction	NN
+3	sector	NN
+4	is	NN
+5	facing	NN
+6	a	NN
+7	labor	NN
+8	shortage	NN
+9	.	NN
+
+1	The	NN
+2	flower	NN
+3	show	NN
+4	at	NN
+5	the	NN
+6	park	NN
+7	was	NN
+8	beautiful	NN
+9	.	NN
+
