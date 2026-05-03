@@ -1,4 +1,3 @@
-# sent_id = 1
 # The Hindu
 # The government announced new research grants for students.
 1	The	adj
@@ -7,11 +6,10 @@
 4	new	adj
 5	research	adj
 6	grants	k2
-7	for	PSP
+7	for	-
 8	students	k4
 9	.	PUNC
 
-# sent_id = 2
 # BBC News
 # Global temperatures reached a record high last month.
 1	Global	adj
@@ -24,21 +22,19 @@
 8	month	k2
 9	.	PUNC
 
-# sent_id = 3
 # Reuters
 # Stock markets reacted sharply to the central bank decision.
 1	Stock	adj
 2	markets	k1
 3	reacted	V
 4	sharply	adv
-5	to	PSP
+5	to	-
 6	the	adj
 7	central	adj
 8	bank	adj
 9	decision	k2
 10	.	PUNC
 
-# sent_id = 4
 # The Hindu
 # Scientists discovered a new species in the Western Ghats.
 1	Scientists	k1
@@ -46,13 +42,12 @@
 3	a	adj
 4	new	adj
 5	species	k2
-6	in	PSP
+6	in	-
 7	the	adj
 8	Western	adj
 9	Ghats	k2
 10	.	PUNC
 
-# sent_id = 5
 # BBC News
 # Space Exploration reaches a new milestone this week.
 1	Space	adj
@@ -65,35 +60,32 @@
 8	week	k1
 9	.	PUNC
 
-# sent_id = 6
 # Reuters
 # The trade agreement aims to reduce export tariffs significantly.
 1	The	adj
 2	trade	adj
 3	agreement	adj
 4	aims	k1
-5	to	PSP
+5	to	-
 6	reduce	k4
 7	export	adj
 8	tariffs	k1
 9	significantly	adv
 10	.	PUNC
 
-# sent_id = 7
 # The Hindu
 # Local communities are working to restore the ancient temple.
 1	Local	adj
 2	communities	k1
 3	are	V
 4	working	V
-5	to	PSP
+5	to	-
 6	restore	k4
 7	the	adj
 8	ancient	adj
 9	temple	k2
 10	.	PUNC
 
-# sent_id = 8
 # BBC News
 # Technology firms are investing heavily in artificial intelligence.
 1	Technology	adj
@@ -101,26 +93,24 @@
 3	are	V
 4	investing	V
 5	heavily	adv
-6	in	PSP
+6	in	-
 7	artificial	adj
 8	intelligence	k2
 9	.	PUNC
 
-# sent_id = 9
 # Reuters
 # Oil prices stabilized after the recent production cut announcement.
 1	Oil	adj
 2	prices	k1
 3	stabilized	V
-4	after	PSP
+4	after	-
 5	the	adj
 6	recent	k7
 7	production	k2
 8	cut	V
 9	announcement	k2
 10	.	PUNC
-
-# sent_id = 10
+0
 # The Hindu
 # The university campus will host the national sports meet.
 1	The	adj
@@ -133,8 +123,7 @@
 8	sports	adj
 9	meet	k1
 10	.	PUNC
-
-# sent_id = 11
+1
 # BBC News
 # Renewable energy projects are expanding across the rural sector.
 1	Renewable	adj
@@ -142,13 +131,12 @@
 3	projects	k1
 4	are	V
 5	expanding	V
-6	across	PSP
+6	across	-
 7	the	adj
 8	rural	adj
 9	sector	k2
 10	.	PUNC
-
-# sent_id = 12
+2
 # Reuters
 # Global supply chains are recovering from recent disruptions.
 1	Global	adj
@@ -156,30 +144,28 @@
 3	chains	k1
 4	are	V
 5	recovering	V
-6	from	PSP
+6	from	-
 7	recent	k5
 8	disruptions	k2
 9	.	PUNC
-
-# sent_id = 13
+3
 # The Hindu
 # Urban planning must focus on sustainable public transport.
 1	Urban	k1
 2	planning	V
 3	must	V
 4	focus	k2
-5	on	PSP
+5	on	-
 6	sustainable	adj
 7	public	adj
 8	transport	k2
 9	.	PUNC
-
-# sent_id = 14
+4
 # BBC News
 # Art exhibitions in the city are drawing large crowds.
 1	Art	adj
 2	exhibitions	k1
-3	in	PSP
+3	in	-
 4	the	adj
 5	city	k7
 6	are	V
@@ -187,8 +173,7 @@
 8	large	adj
 9	crowds	k2
 10	.	PUNC
-
-# sent_id = 15
+5
 # Reuters
 # The tech startup secured funding for its innovative platform.
 1	The	adj
@@ -196,13 +181,12 @@
 3	startup	k1
 4	secured	V
 5	funding	V
-6	for	PSP
+6	for	-
 7	its	k4
 8	innovative	adj
 9	platform	k2
 10	.	PUNC
-
-# sent_id = 16
+6
 # The Hindu
 # Monsoon rains reached the southern coast earlier than expected.
 1	Monsoon	adj
@@ -215,8 +199,7 @@
 8	than	k2
 9	expected	V
 10	.	PUNC
-
-# sent_id = 17
+7
 # BBC News
 # Public health initiatives have reduced the spread of disease.
 1	Public	adj
@@ -226,24 +209,22 @@
 5	reduced	V
 6	the	adj
 7	spread	k2
-8	of	PSP
+8	of	-
 9	disease	k2
 10	.	PUNC
-
-# sent_id = 18
+8
 # Reuters
 # E-commerce growth continues to transform the retail landscape.
 1	E-commerce	adj
 2	growth	adj
 3	continues	k1
-4	to	PSP
+4	to	-
 5	transform	k4
 6	the	adj
 7	retail	adj
 8	landscape	k1
 9	.	PUNC
-
-# sent_id = 19
+9
 # The Hindu
 # High court judges emphasized the importance of digital privacy.
 1	High	adj
@@ -252,12 +233,11 @@
 4	emphasized	V
 5	the	adj
 6	importance	k2
-7	of	PSP
+7	of	-
 8	digital	adj
 9	privacy	k2
 10	.	PUNC
-
-# sent_id = 20
+0
 # BBC News
 # Educational reforms are being implemented in several states.
 1	Educational	adj
@@ -265,38 +245,35 @@
 3	are	V
 4	being	V
 5	implemented	V
-6	in	PSP
+6	in	-
 7	several	adj
 8	states	k2
 9	.	PUNC
-
-# sent_id = 21
+1
 # Reuters
 # Manufacturing output increased for the third consecutive month.
 1	Manufacturing	V
 2	output	k2
 3	increased	V
-4	for	PSP
+4	for	-
 5	the	adj
 6	third	k4
 7	consecutive	adj
 8	month	k2
 9	.	PUNC
-
-# sent_id = 22
+2
 # The Hindu
 # Archaeological survey found evidence of an ancient civilization.
 1	Archaeological	adj
 2	survey	k1
 3	found	V
 4	evidence	k2
-5	of	PSP
+5	of	-
 6	an	adj
 7	ancient	adj
 8	civilization	k2
 9	.	PUNC
-
-# sent_id = 23
+3
 # BBC News
 # Wildlife conservation efforts have helped save endangered tigers.
 1	Wildlife	adj
@@ -308,8 +285,7 @@
 7	endangered	V
 8	tigers	k2
 9	.	PUNC
-
-# sent_id = 24
+4
 # Reuters
 # Airline industry expects a surge in summer holiday bookings.
 1	Airline	adj
@@ -317,41 +293,38 @@
 3	expects	k1
 4	a	adj
 5	surge	k1
-6	in	PSP
+6	in	-
 7	summer	adj
 8	holiday	adj
 9	bookings	k1
 10	.	PUNC
-
-# sent_id = 25
+5
 # The Hindu
 # New legislation aims to protect the rights of workers.
 1	New	adj
 2	legislation	adj
 3	aims	k1
-4	to	PSP
+4	to	-
 5	protect	k4
 6	the	adj
 7	rights	k1
-8	of	PSP
+8	of	-
 9	workers	k2
 10	.	PUNC
-
-# sent_id = 26
+6
 # BBC News
 # Remote work remains popular among several software development teams.
 1	Remote	adj
 2	work	adj
 3	remains	adj
 4	popular	k1
-5	among	PSP
+5	among	-
 6	several	adj
 7	software	adj
 8	development	adj
 9	teams	k1
 10	.	PUNC
-
-# sent_id = 27
+7
 # Reuters
 # Interest rates might remain steady until the next quarter.
 1	Interest	adj
@@ -364,8 +337,7 @@
 8	next	adj
 9	quarter	adj
 10	.	PUNC
-
-# sent_id = 28
+8
 # The Hindu
 # The library expanded its digital collection for remote access.
 1	The	adj
@@ -374,12 +346,11 @@
 4	its	k2
 5	digital	adj
 6	collection	k2
-7	for	PSP
+7	for	-
 8	remote	k4
 9	access	k2
 10	.	PUNC
-
-# sent_id = 29
+9
 # BBC News
 # Sports fans celebrated the victory in the city center.
 1	Sports	adj
@@ -387,13 +358,12 @@
 3	celebrated	V
 4	the	adj
 5	victory	k2
-6	in	PSP
+6	in	-
 7	the	adj
 8	city	k7
 9	center	adj
 10	.	PUNC
-
-# sent_id = 30
+0
 # Reuters
 # Agriculture exports reached an all-time high this fiscal year.
 1	Agriculture	adj
@@ -406,8 +376,7 @@
 8	fiscal	adj
 9	year	k2
 10	.	PUNC
-
-# sent_id = 31
+1
 # The Hindu
 # Solar power plants are being installed in desert regions.
 1	Solar	k1
@@ -416,25 +385,23 @@
 4	are	V
 5	being	V
 6	installed	V
-7	in	PSP
+7	in	-
 8	desert	k7
 9	regions	k2
 10	.	PUNC
-
-# sent_id = 32
+2
 # BBC News
 # Music festivals are returning after a two-year hiatus.
 1	Music	adj
 2	festivals	k1
 3	are	V
 4	returning	V
-5	after	PSP
+5	after	-
 6	a	adj
 7	two-year	k7
 8	hiatus	k2
 9	.	PUNC
-
-# sent_id = 33
+3
 # Reuters
 # Luxury car sales have seen a significant increase recently.
 1	Luxury	adj
@@ -447,8 +414,7 @@
 8	increase	k1
 9	recently	adv
 10	.	PUNC
-
-# sent_id = 34
+4
 # The Hindu
 # The state government launched a new health insurance scheme.
 1	The	adj
@@ -461,8 +427,7 @@
 8	insurance	adj
 9	scheme	k2
 10	.	PUNC
-
-# sent_id = 35
+5
 # BBC News
 # Climate change is affecting the migration patterns of birds.
 1	Climate	adj
@@ -472,11 +437,10 @@
 5	the	adj
 6	migration	adj
 7	patterns	k2
-8	of	PSP
+8	of	-
 9	birds	k2
 10	.	PUNC
-
-# sent_id = 36
+6
 # Reuters
 # Inflation data suggests a cooling trend in the economy.
 1	Inflation	adj
@@ -485,25 +449,23 @@
 4	a	adj
 5	cooling	V
 6	trend	k2
-7	in	PSP
+7	in	-
 8	the	adj
 9	economy	k7
 10	.	PUNC
-
-# sent_id = 37
+7
 # The Hindu
 # Students participated in a large-scale tree planting drive.
 1	Students	k1
 2	participated	V
-3	in	PSP
+3	in	-
 4	a	adj
 5	large-scale	k7
 6	tree	k2
 7	planting	V
 8	drive	adj
 9	.	PUNC
-
-# sent_id = 38
+8
 # BBC News
 # Digital banking has become the preferred choice for many.
 1	Digital	adj
@@ -513,11 +475,10 @@
 5	the	adj
 6	preferred	V
 7	choice	k2
-8	for	PSP
+8	for	-
 9	many	k4
 10	.	PUNC
-
-# sent_id = 39
+9
 # Reuters
 # Regional tensions have impacted the local shipping routes.
 1	Regional	adj
@@ -529,8 +490,7 @@
 7	shipping	V
 8	routes	k2
 9	.	PUNC
-
-# sent_id = 40
+0
 # The Hindu
 # The literary festival hosted authors from across the world.
 1	The	adj
@@ -538,13 +498,12 @@
 3	festival	adj
 4	hosted	V
 5	authors	k2
-6	from	PSP
-7	across	PSP
+6	from	-
+7	across	-
 8	the	adj
 9	world	k7
 10	.	PUNC
-
-# sent_id = 41
+1
 # BBC News
 # Space telescopes have captured images of distant galaxies.
 1	Space	adj
@@ -552,12 +511,11 @@
 3	have	V
 4	captured	V
 5	images	k2
-6	of	PSP
+6	of	-
 7	distant	adj
 8	galaxies	k2
 9	.	PUNC
-
-# sent_id = 42
+2
 # Reuters
 # Foreign direct investment reached a new peak this month.
 1	Foreign	adj
@@ -570,8 +528,7 @@
 8	this	adj
 9	month	k2
 10	.	PUNC
-
-# sent_id = 43
+3
 # The Hindu
 # The metro rail project is expected to finish soon.
 1	The	adj
@@ -580,25 +537,23 @@
 4	project	k1
 5	is	V
 6	expected	V
-7	to	PSP
+7	to	-
 8	finish	k4
 9	soon	k2
 10	.	PUNC
-
-# sent_id = 44
+4
 # BBC News
 # Ocean conservation is vital for maintaining marine biodiversity.
 1	Ocean	adj
 2	conservation	k1
 3	is	V
 4	vital	adj
-5	for	PSP
+5	for	-
 6	maintaining	V
 7	marine	adj
 8	biodiversity	k2
 9	.	PUNC
-
-# sent_id = 45
+5
 # Reuters
 # The pharmaceutical company received approval for its new vaccine.
 1	The	adj
@@ -606,13 +561,12 @@
 3	company	k1
 4	received	V
 5	approval	adj
-6	for	PSP
+6	for	-
 7	its	k4
 8	new	adj
 9	vaccine	k2
 10	.	PUNC
-
-# sent_id = 46
+6
 # The Hindu
 # Traditional crafts are being promoted through local cooperatives.
 1	Traditional	adj
@@ -620,12 +574,11 @@
 3	are	V
 4	being	V
 5	promoted	V
-6	through	PSP
+6	through	-
 7	local	adj
 8	cooperatives	k2
 9	.	PUNC
-
-# sent_id = 47
+7
 # BBC News
 # Virtual reality is being used for advanced medical training.
 1	Virtual	adj
@@ -633,13 +586,12 @@
 3	is	V
 4	being	V
 5	used	V
-6	for	PSP
+6	for	-
 7	advanced	V
 8	medical	adj
 9	training	V
 10	.	PUNC
-
-# sent_id = 48
+8
 # Reuters
 # Gold prices edged higher amid global economic uncertainty.
 1	Gold	adj
@@ -651,8 +603,7 @@
 7	economic	adj
 8	uncertainty	k2
 9	.	PUNC
-
-# sent_id = 49
+9
 # The Hindu
 # The museum is hosting a special exhibit on coins.
 1	The	adj
@@ -662,11 +613,10 @@
 5	a	adj
 6	special	adj
 7	exhibit	k2
-8	on	PSP
+8	on	-
 9	coins	k7
 10	.	PUNC
-
-# sent_id = 50
+0
 # BBC News
 # New robotics technology is assisting in complex surgeries.
 1	New	adj
@@ -674,12 +624,11 @@
 3	technology	k1
 4	is	V
 5	assisting	V
-6	in	PSP
+6	in	-
 7	complex	k7
 8	surgeries	k2
 9	.	PUNC
-
-# sent_id = 51
+1
 # Reuters
 # Corporate earnings reports exceeded analyst expectations this quarter.
 1	Corporate	adj
@@ -691,8 +640,7 @@
 7	this	adj
 8	quarter	adj
 9	.	PUNC
-
-# sent_id = 52
+2
 # The Hindu
 # Organic farming is gaining popularity among young entrepreneurs.
 1	Organic	k1
@@ -700,12 +648,11 @@
 3	is	V
 4	gaining	V
 5	popularity	k2
-6	among	PSP
+6	among	-
 7	young	adj
 8	entrepreneurs	k2
 9	.	PUNC
-
-# sent_id = 53
+3
 # BBC News
 # The international film festival opened with a grand ceremony.
 1	The	adj
@@ -713,27 +660,25 @@
 3	film	k1
 4	festival	adj
 5	opened	V
-6	with	PSP
+6	with	-
 7	a	adj
 8	grand	k3
 9	ceremony	k2
 10	.	PUNC
-
-# sent_id = 54
+4
 # Reuters
 # Trade deficit narrowed due to a rise in exports.
 1	Trade	adj
 2	deficit	k1
 3	narrowed	V
 4	due	k2
-5	to	PSP
+5	to	-
 6	a	adj
 7	rise	k4
-8	in	PSP
+8	in	-
 9	exports	k7
 10	.	PUNC
-
-# sent_id = 55
+5
 # The Hindu
 # Traffic rules have been tightened to improve road safety.
 1	Traffic	adj
@@ -741,13 +686,12 @@
 3	have	V
 4	been	V
 5	tightened	V
-6	to	PSP
+6	to	-
 7	improve	k4
 8	road	adj
 9	safety	k2
 10	.	PUNC
-
-# sent_id = 56
+6
 # BBC News
 # Astronomers observed a rare comet passing near Earth.
 1	Astronomers	k1
@@ -759,8 +703,7 @@
 7	near	adj
 8	Earth	k2
 9	.	PUNC
-
-# sent_id = 57
+7
 # Reuters
 # Global logistics firms are adopting green energy solutions.
 1	Global	adj
@@ -772,8 +715,7 @@
 7	energy	adj
 8	solutions	k2
 9	.	PUNC
-
-# sent_id = 58
+8
 # The Hindu
 # The irrigation project will benefit thousands of farmers.
 1	The	adj
@@ -782,11 +724,10 @@
 4	will	V
 5	benefit	adj
 6	thousands	k1
-7	of	PSP
+7	of	-
 8	farmers	k2
 9	.	PUNC
-
-# sent_id = 59
+9
 # BBC News
 # Mental health awareness is increasing in the workplace.
 1	Mental	adj
@@ -794,12 +735,11 @@
 3	awareness	k1
 4	is	V
 5	increasing	V
-6	in	PSP
+6	in	-
 7	the	adj
 8	workplace	k7
 9	.	PUNC
-
-# sent_id = 60
+0
 # Reuters
 # Small businesses are receiving support through government grants.
 1	Small	adj
@@ -807,12 +747,11 @@
 3	are	V
 4	receiving	V
 5	support	k2
-6	through	PSP
+6	through	-
 7	government	k7
 8	grants	k2
 9	.	PUNC
-
-# sent_id = 61
+1
 # The Hindu
 # The state library offers free internet access to students.
 1	The	adj
@@ -822,11 +761,10 @@
 5	free	adj
 6	internet	adj
 7	access	k1
-8	to	PSP
+8	to	-
 9	students	k4
 10	.	PUNC
-
-# sent_id = 62
+2
 # BBC News
 # Urban vertical gardens are helping reduce city pollution.
 1	Urban	k1
@@ -838,8 +776,7 @@
 7	city	adj
 8	pollution	k2
 9	.	PUNC
-
-# sent_id = 63
+3
 # Reuters
 # The steel industry reported a surge in global demand.
 1	The	adj
@@ -848,25 +785,23 @@
 4	reported	V
 5	a	adj
 6	surge	k2
-7	in	PSP
+7	in	-
 8	global	adj
 9	demand	k2
 10	.	PUNC
-
-# sent_id = 64
+4
 # The Hindu
 # Community kitchens provided meals to those in need.
 1	Community	adj
 2	kitchens	k1
 3	provided	V
 4	meals	k2
-5	to	PSP
+5	to	-
 6	those	adj
-7	in	PSP
+7	in	-
 8	need	V
 9	.	PUNC
-
-# sent_id = 65
+5
 # BBC News
 # Scientists are studying the effects of microplastics on fish.
 1	Scientists	k1
@@ -874,13 +809,12 @@
 3	studying	V
 4	the	adj
 5	effects	k2
-6	of	PSP
+6	of	-
 7	microplastics	k2
-8	on	PSP
+8	on	-
 9	fish	k7
 10	.	PUNC
-
-# sent_id = 66
+6
 # Reuters
 # The semiconductor shortage is finally beginning to ease.
 1	The	adj
@@ -889,11 +823,10 @@
 4	is	V
 5	finally	adv
 6	beginning	V
-7	to	PSP
+7	to	-
 8	ease	k4
 9	.	PUNC
-
-# sent_id = 67
+7
 # The Hindu
 # Coastal erosion is threatening several historic seaside villages.
 1	Coastal	adj
@@ -905,8 +838,7 @@
 7	seaside	adj
 8	villages	k2
 9	.	PUNC
-
-# sent_id = 68
+8
 # BBC News
 # New educational software helps children learn math easily.
 1	New	adj
@@ -918,8 +850,7 @@
 7	math	k1
 8	easily	adv
 9	.	PUNC
-
-# sent_id = 69
+9
 # Reuters
 # Consumer confidence hit a one-year high this month.
 1	Consumer	adj
@@ -931,21 +862,19 @@
 7	this	adj
 8	month	k2
 9	.	PUNC
-
-# sent_id = 70
+0
 # The Hindu
 # The national park reopened after successful habitat restoration.
 1	The	adj
 2	national	adj
 3	park	k1
 4	reopened	V
-5	after	PSP
+5	after	-
 6	successful	adj
 7	habitat	adj
 8	restoration	k2
 9	.	PUNC
-
-# sent_id = 71
+1
 # BBC News
 # Modern art galleries are focusing on interactive installations.
 1	Modern	adj
@@ -953,12 +882,11 @@
 3	galleries	k1
 4	are	V
 5	focusing	V
-6	on	PSP
+6	on	-
 7	interactive	adj
 8	installations	k2
 9	.	PUNC
-
-# sent_id = 72
+2
 # Reuters
 # Debt restructuring plans were approved by the creditors.
 1	Debt	k1
@@ -966,12 +894,11 @@
 3	plans	k2
 4	were	V
 5	approved	V
-6	by	PSP
+6	by	-
 7	the	adj
 8	creditors	k3
 9	.	PUNC
-
-# sent_id = 73
+3
 # The Hindu
 # Farmers are adopting smart sensors for water management.
 1	Farmers	k1
@@ -979,12 +906,11 @@
 3	adopting	V
 4	smart	adj
 5	sensors	k2
-6	for	PSP
+6	for	-
 7	water	adj
 8	management	k2
 9	.	PUNC
-
-# sent_id = 74
+4
 # BBC News
 # Space debris is a growing concern for satellite safety.
 1	Space	adj
@@ -993,12 +919,11 @@
 4	a	adj
 5	growing	V
 6	concern	k2
-7	for	PSP
+7	for	-
 8	satellite	k4
 9	safety	k2
 10	.	PUNC
-
-# sent_id = 75
+5
 # Reuters
 # The hospitality sector is seeing a rapid recovery.
 1	The	adj
@@ -1010,8 +935,7 @@
 7	rapid	adj
 8	recovery	k2
 9	.	PUNC
-
-# sent_id = 76
+6
 # The Hindu
 # Local artisans are showcasing their work at the fair.
 1	Local	adj
@@ -1020,12 +944,11 @@
 4	showcasing	V
 5	their	adj
 6	work	k2
-7	at	PSP
+7	at	-
 8	the	adj
 9	fair	k7
 10	.	PUNC
-
-# sent_id = 77
+7
 # BBC News
 # Genomic research is providing insights into rare diseases.
 1	Genomic	adj
@@ -1033,25 +956,23 @@
 3	is	V
 4	providing	V
 5	insights	k2
-6	into	PSP
+6	into	-
 7	rare	k7
 8	diseases	k2
 9	.	PUNC
-
-# sent_id = 78
+8
 # Reuters
 # Commodity prices fluctuate due to changing global demand.
 1	Commodity	adj
 2	prices	adj
 3	fluctuate	adj
 4	due	k1
-5	to	PSP
+5	to	-
 6	changing	V
 7	global	adj
 8	demand	k2
 9	.	PUNC
-
-# sent_id = 79
+9
 # The Hindu
 # The city council approved the new waste management plan.
 1	The	adj
@@ -1064,21 +985,19 @@
 8	management	adj
 9	plan	k2
 10	.	PUNC
-
-# sent_id = 80
+0
 # BBC News
 # Public libraries are evolving into modern community hubs.
 1	Public	adj
 2	libraries	k1
 3	are	V
 4	evolving	V
-5	into	PSP
+5	into	-
 6	modern	k7
 7	community	adj
 8	hubs	k2
 9	.	PUNC
-
-# sent_id = 81
+1
 # Reuters
 # Foreign exchange reserves reached a comfortable level recently.
 1	Foreign	adj
@@ -1090,8 +1009,7 @@
 7	level	k2
 8	recently	adv
 9	.	PUNC
-
-# sent_id = 82
+2
 # The Hindu
 # Youth volunteers are leading the urban cleanup drive.
 1	Youth	adj
@@ -1103,12 +1021,11 @@
 7	cleanup	k2
 8	drive	adj
 9	.	PUNC
-
-# sent_id = 83
+3
 # BBC News
 # Advancements in battery technology are aiding electric vehicles.
 1	Advancements	k1
-2	in	PSP
+2	in	-
 3	battery	k7
 4	technology	k1
 5	are	V
@@ -1116,8 +1033,7 @@
 7	electric	adj
 8	vehicles	k2
 9	.	PUNC
-
-# sent_id = 84
+4
 # Reuters
 # The automotive market is shifting toward sustainable models.
 1	The	adj
@@ -1129,8 +1045,7 @@
 7	sustainable	adj
 8	models	k2
 9	.	PUNC
-
-# sent_id = 85
+5
 # The Hindu
 # The heritage walk covers ten historical monuments today.
 1	The	adj
@@ -1142,8 +1057,7 @@
 7	monuments	adj
 8	today	k1
 9	.	PUNC
-
-# sent_id = 86
+6
 # BBC News
 # High-speed trains are being tested on new routes.
 1	High-speed	V
@@ -1151,12 +1065,11 @@
 3	are	V
 4	being	V
 5	tested	V
-6	on	PSP
+6	on	-
 7	new	adj
 8	routes	k2
 9	.	PUNC
-
-# sent_id = 87
+7
 # Reuters
 # Tax revenue increased following the new policy changes.
 1	Tax	adj
@@ -1168,8 +1081,7 @@
 7	policy	adj
 8	changes	k2
 9	.	PUNC
-
-# sent_id = 88
+8
 # The Hindu
 # Rural schools received new computer labs this month.
 1	Rural	adj
@@ -1181,8 +1093,7 @@
 7	this	adj
 8	month	k2
 9	.	PUNC
-
-# sent_id = 89
+9
 # BBC News
 # Deep-sea exploration revealed amazing volcanic vent ecosystems.
 1	Deep-sea	adj
@@ -1193,21 +1104,19 @@
 6	vent	adj
 7	ecosystems	k2
 8	.	PUNC
-
-# sent_id = 90
+0
 # Reuters
 # Retail inflation dropped to a six-month low recently.
 1	Retail	adj
 2	inflation	k1
 3	dropped	V
-4	to	PSP
+4	to	-
 5	a	adj
 6	six-month	k4
 7	low	adj
 8	recently	adv
 9	.	PUNC
-
-# sent_id = 91
+1
 # The Hindu
 # The food festival features cuisines from various states.
 1	The	adj
@@ -1215,12 +1124,11 @@
 3	festival	adj
 4	features	adj
 5	cuisines	k1
-6	from	PSP
+6	from	-
 7	various	adj
 8	states	k1
 9	.	PUNC
-
-# sent_id = 92
+2
 # BBC News
 # Cybersecurity threats are becoming more sophisticated each year.
 1	Cybersecurity	adj
@@ -1232,8 +1140,7 @@
 7	each	adj
 8	year	k2
 9	.	PUNC
-
-# sent_id = 93
+3
 # Reuters
 # Commercial real estate demand is picking up slowly.
 1	Commercial	adj
@@ -1245,8 +1152,7 @@
 7	up	k2
 8	slowly	adv
 9	.	PUNC
-
-# sent_id = 94
+4
 # The Hindu
 # Vocational training centers help youth find better jobs.
 1	Vocational	adj
@@ -1258,21 +1164,19 @@
 7	better	adj
 8	jobs	k2
 9	.	PUNC
-
-# sent_id = 95
+5
 # BBC News
 # Scientists found a way to recycle plastic efficiently.
 1	Scientists	k1
 2	found	V
 3	a	adj
 4	way	k2
-5	to	PSP
+5	to	-
 6	recycle	k4
 7	plastic	k2
 8	efficiently	adv
 9	.	PUNC
-
-# sent_id = 96
+6
 # Reuters
 # Major banks reported stable profits for the half-year.
 1	Major	adj
@@ -1280,25 +1184,23 @@
 3	reported	V
 4	stable	adj
 5	profits	k2
-6	for	PSP
+6	for	-
 7	the	adj
 8	half-year	k4
 9	.	PUNC
-
-# sent_id = 97
+7
 # The Hindu
 # The literary award went to a debut novelist.
 1	The	adj
 2	literary	adj
 3	award	k1
 4	went	V
-5	to	PSP
+5	to	-
 6	a	adj
 7	debut	k4
 8	novelist	k2
 9	.	PUNC
-
-# sent_id = 98
+8
 # BBC News
 # New telescopes will help us understand black holes.
 1	New	adj
@@ -1310,8 +1212,7 @@
 7	black	adj
 8	holes	k1
 9	.	PUNC
-
-# sent_id = 99
+9
 # Reuters
 # The construction sector is facing a labor shortage.
 1	The	adj
@@ -1323,21 +1224,19 @@
 7	labor	adj
 8	shortage	k2
 9	.	PUNC
-
-# sent_id = 100
+00
 # The Hindu
 # The flower show at the park was beautiful.
 1	The	adj
 2	flower	adj
 3	show	k1
-4	at	PSP
+4	at	-
 5	the	adj
 6	park	k7
 7	was	V
 8	beautiful	adj
 9	.	PUNC
-
-# sent_id = 101
+01
 # The Guardian
 # New research suggests that urban green spaces improve mental health.
 1	New	adj
@@ -1351,8 +1250,7 @@
 9	mental	adj
 10	health	k1
 11	.	PUNC
-
-# sent_id = 102
+02
 # The New York Times
 # The central bank raised interest rates to combat rising inflation.
 1	The	adj
@@ -1361,28 +1259,26 @@
 4	raised	V
 5	interest	adj
 6	rates	k2
-7	to	PSP
+7	to	-
 8	combat	k4
 9	rising	V
 10	inflation	k2
 11	.	PUNC
-
-# sent_id = 103
+03
 # Al Jazeera
 # Peace talks between the two nations ended without an agreement.
 1	Peace	adj
 2	talks	k1
-3	between	PSP
+3	between	-
 4	the	adj
 5	two	adj
 6	nations	k1
 7	ended	V
-8	without	PSP
+8	without	-
 9	an	adj
 10	agreement	k2
 11	.	PUNC
-
-# sent_id = 104
+04
 # The Hindu
 # The state government launched a program to clean local rivers.
 1	The	adj
@@ -1391,13 +1287,12 @@
 4	launched	V
 5	a	adj
 6	program	k2
-7	to	PSP
+7	to	-
 8	clean	k4
 9	local	adj
 10	rivers	k2
 11	.	PUNC
-
-# sent_id = 105
+05
 # BBC News
 # Archaeologists discovered ancient ruins near the coastal city.
 1	Archaeologists	k1
@@ -1409,22 +1304,20 @@
 7	coastal	adj
 8	city	k2
 9	.	PUNC
-
-# sent_id = 106
+06
 # Reuters
 # Global markets stabilized after a week of intense volatility.
 1	Global	adj
 2	markets	k1
 3	stabilized	V
-4	after	PSP
+4	after	-
 5	a	adj
 6	week	k7
-7	of	PSP
+7	of	-
 8	intense	adj
 9	volatility	k2
 10	.	PUNC
-
-# sent_id = 107
+07
 # The Guardian
 # Scientists are tracking the migration patterns of arctic birds.
 1	Scientists	k1
@@ -1433,12 +1326,11 @@
 4	the	adj
 5	migration	adj
 6	patterns	k2
-7	of	PSP
+7	of	-
 8	arctic	adj
 9	birds	k2
 10	.	PUNC
-
-# sent_id = 108
+08
 # The New York Times
 # Technology companies face new regulations regarding user data privacy.
 1	Technology	adj
@@ -1451,8 +1343,7 @@
 8	data	adj
 9	privacy	k2
 10	.	PUNC
-
-# sent_id = 109
+09
 # Al Jazeera
 # Humanitarian aid reached the remote mountainous region today.
 1	Humanitarian	adj
@@ -1464,8 +1355,7 @@
 7	region	adj
 8	today	k2
 9	.	PUNC
-
-# sent_id = 110
+10
 # The Hindu
 # Farmers are shifting toward organic fertilizers to improve soil.
 1	Farmers	k1
@@ -1474,12 +1364,11 @@
 4	toward	adj
 5	organic	adj
 6	fertilizers	k2
-7	to	PSP
+7	to	-
 8	improve	k4
 9	soil	k2
 10	.	PUNC
-
-# sent_id = 111
+11
 # BBC News
 # The international space station completed its latest orbital maneuver.
 1	The	adj
@@ -1492,35 +1381,32 @@
 8	orbital	adj
 9	maneuver	adj
 10	.	PUNC
-
-# sent_id = 112
+12
 # Reuters
 # Oil production increased slightly during the last quarter.
 1	Oil	adj
 2	production	k1
 3	increased	V
 4	slightly	adv
-5	during	PSP
+5	during	-
 6	the	adj
 7	last	adj
 8	quarter	adj
 9	.	PUNC
-
-# sent_id = 113
+13
 # The Guardian
 # Public transport usage in the city reached pre-pandemic levels.
 1	Public	adj
 2	transport	adj
 3	usage	k1
-4	in	PSP
+4	in	-
 5	the	adj
 6	city	k7
 7	reached	V
 8	pre-pandemic	adj
 9	levels	k2
 10	.	PUNC
-
-# sent_id = 114
+14
 # The New York Times
 # A new art exhibit explores the history of digital expression.
 1	A	adj
@@ -1530,12 +1416,11 @@
 5	explores	k1
 6	the	adj
 7	history	k1
-8	of	PSP
+8	of	-
 9	digital	adj
 10	expression	k1
 11	.	PUNC
-
-# sent_id = 115
+15
 # Al Jazeera
 # The refugee crisis requires a coordinated global response.
 1	The	adj
@@ -1547,8 +1432,7 @@
 7	global	adj
 8	response	k2
 9	.	PUNC
-
-# sent_id = 116
+16
 # The Hindu
 # Local schools introduced coding classes for primary students.
 1	Local	adj
@@ -1556,12 +1440,11 @@
 3	introduced	V
 4	coding	V
 5	classes	k2
-6	for	PSP
+6	for	-
 7	primary	k4
 8	students	k2
 9	.	PUNC
-
-# sent_id = 117
+17
 # BBC News
 # Renewable energy sources now provide half of the grid power.
 1	Renewable	adj
@@ -1570,13 +1453,12 @@
 4	now	adj
 5	provide	adj
 6	half	k1
-7	of	PSP
+7	of	-
 8	the	adj
 9	grid	k2
 10	power	adj
 11	.	PUNC
-
-# sent_id = 118
+18
 # Reuters
 # The manufacturing sector reported a growth in export orders.
 1	The	adj
@@ -1585,12 +1467,11 @@
 4	reported	V
 5	a	adj
 6	growth	k2
-7	in	PSP
+7	in	-
 8	export	k7
 9	orders	k2
 10	.	PUNC
-
-# sent_id = 119
+19
 # The Guardian
 # Extreme weather events are becoming more frequent and severe.
 1	Extreme	k1
@@ -1603,8 +1484,7 @@
 8	and	adj
 9	severe	k2
 10	.	PUNC
-
-# sent_id = 120
+20
 # The New York Times
 # The supreme court issued a landmark ruling on voting rights.
 1	The	adj
@@ -1614,26 +1494,24 @@
 5	a	adj
 6	landmark	k2
 7	ruling	V
-8	on	PSP
+8	on	-
 9	voting	V
 10	rights	k2
 11	.	PUNC
-
-# sent_id = 121
+21
 # Al Jazeera
 # Regional leaders met to discuss a new trade partnership.
 1	Regional	adj
 2	leaders	k1
 3	met	V
-4	to	PSP
+4	to	-
 5	discuss	k4
 6	a	adj
 7	new	adj
 8	trade	adj
 9	partnership	k2
 10	.	PUNC
-
-# sent_id = 122
+22
 # The Hindu
 # Wildlife officials spotted a rare leopard in the national park.
 1	Wildlife	adj
@@ -1642,40 +1520,37 @@
 4	a	adj
 5	rare	adj
 6	leopard	k2
-7	in	PSP
+7	in	-
 8	the	adj
 9	national	adj
 10	park	k2
 11	.	PUNC
-
-# sent_id = 123
+23
 # BBC News
 # Cybersecurity experts warn of a new phishing campaign.
 1	Cybersecurity	adj
 2	experts	adj
 3	warn	k1
-4	of	PSP
+4	of	-
 5	a	adj
 6	new	adj
 7	phishing	V
 8	campaign	k2
 9	.	PUNC
-
-# sent_id = 124
+24
 # Reuters
 # Retail sales rose during the annual holiday shopping season.
 1	Retail	adj
 2	sales	adj
 3	rose	k1
-4	during	PSP
+4	during	-
 5	the	adj
 6	annual	adj
 7	holiday	k1
 8	shopping	V
 9	season	k2
 10	.	PUNC
-
-# sent_id = 125
+25
 # The Guardian
 # Medical researchers developed a more efficient diagnostic test.
 1	Medical	adj
@@ -1687,37 +1562,34 @@
 7	diagnostic	k2
 8	test	adj
 9	.	PUNC
-
-# sent_id = 126
+26
 # The New York Times
 # Small businesses struggle with rising costs of raw materials.
 1	Small	adj
 2	businesses	adj
 3	struggle	k1
-4	with	PSP
+4	with	-
 5	rising	V
 6	costs	k2
-7	of	PSP
+7	of	-
 8	raw	adj
 9	materials	k2
 10	.	PUNC
-
-# sent_id = 127
+27
 # Al Jazeera
 # Protests broke out in the capital over high fuel prices.
 1	Protests	adj
 2	broke	adj
 3	out	k1
-4	in	PSP
+4	in	-
 5	the	adj
 6	capital	adj
-7	over	PSP
+7	over	-
 8	high	adj
 9	fuel	adj
 10	prices	k1
 11	.	PUNC
-
-# sent_id = 128
+28
 # The Hindu
 # The city library added thousands of e-books to its collection.
 1	The	adj
@@ -1725,14 +1597,13 @@
 3	library	k1
 4	added	V
 5	thousands	k2
-6	of	PSP
+6	of	-
 7	e-books	k2
-8	to	PSP
+8	to	-
 9	its	k4
 10	collection	k2
 11	.	PUNC
-
-# sent_id = 129
+29
 # BBC News
 # Exploring the deep ocean reveals unique and bioluminescent creatures.
 1	Exploring	V
@@ -1745,8 +1616,7 @@
 8	bioluminescent	adj
 9	creatures	k2
 10	.	PUNC
-
-# sent_id = 130
+30
 # Reuters
 # The central bank kept the interest rates unchanged this month.
 1	The	adj
@@ -1760,22 +1630,20 @@
 9	this	adj
 10	month	k2
 11	.	PUNC
-
-# sent_id = 131
+31
 # The Guardian
 # Educators emphasize the importance of critical thinking in schools.
 1	Educators	adj
 2	emphasize	k1
 3	the	adj
 4	importance	k1
-5	of	PSP
+5	of	-
 6	critical	adj
 7	thinking	V
-8	in	PSP
+8	in	-
 9	schools	k7
 10	.	PUNC
-
-# sent_id = 132
+32
 # The New York Times
 # Silicon Valley startups are pivoting toward sustainable energy solutions.
 1	Silicon	adj
@@ -1788,53 +1656,49 @@
 8	energy	adj
 9	solutions	k2
 10	.	PUNC
-
-# sent_id = 133
+33
 # Al Jazeera
 # Food shortages continue to affect millions in the conflict zone.
 1	Food	adj
 2	shortages	adj
 3	continue	k1
-4	to	PSP
+4	to	-
 5	affect	k4
 6	millions	k1
-7	in	PSP
+7	in	-
 8	the	adj
 9	conflict	k7
 10	zone	k1
 11	.	PUNC
-
-# sent_id = 134
+34
 # The Hindu
 # Yoga festivals attract thousands of participants to the river bank.
 1	Yoga	adj
 2	festivals	adj
 3	attract	adj
 4	thousands	k1
-5	of	PSP
+5	of	-
 6	participants	k2
-7	to	PSP
+7	to	-
 8	the	adj
 9	river	adj
 10	bank	k1
 11	.	PUNC
-
-# sent_id = 135
+35
 # BBC News
 # New laws aim to reduce plastic waste in the ocean.
 1	New	adj
 2	laws	adj
 3	aim	k1
-4	to	PSP
+4	to	-
 5	reduce	k4
 6	plastic	adj
 7	waste	k1
-8	in	PSP
+8	in	-
 9	the	adj
 10	ocean	k7
 11	.	PUNC
-
-# sent_id = 136
+36
 # Reuters
 # Global logistics chains are slowly returning to normal operation.
 1	Global	adj
@@ -1843,12 +1707,11 @@
 4	are	V
 5	slowly	adv
 6	returning	V
-7	to	PSP
+7	to	-
 8	normal	adj
 9	operation	k2
 10	.	PUNC
-
-# sent_id = 137
+37
 # The Guardian
 # Solar power installation costs have dropped by forty percent.
 1	Solar	k1
@@ -1857,12 +1720,11 @@
 4	costs	k1
 5	have	V
 6	dropped	V
-7	by	PSP
+7	by	-
 8	forty	k3
 9	percent	k2
 10	.	PUNC
-
-# sent_id = 138
+38
 # The New York Times
 # Broadway theaters reported record-breaking attendance numbers this summer.
 1	Broadway	adj
@@ -1874,21 +1736,19 @@
 7	this	adj
 8	summer	adj
 9	.	PUNC
-
-# sent_id = 139
+39
 # Al Jazeera
 # Diplomatic efforts intensified to prevent further military escalation.
 1	Diplomatic	adj
 2	efforts	k1
 3	intensified	V
-4	to	PSP
+4	to	-
 5	prevent	k4
 6	further	adj
 7	military	adj
 8	escalation	k2
 9	.	PUNC
-
-# sent_id = 140
+40
 # The Hindu
 # The heritage building underwent extensive restoration work last year.
 1	The	adj
@@ -1901,8 +1761,7 @@
 8	last	adj
 9	year	k2
 10	.	PUNC
-
-# sent_id = 141
+41
 # BBC News
 # Artificial intelligence can now generate realistic human speech.
 1	Artificial	adj
@@ -1914,8 +1773,7 @@
 7	human	adj
 8	speech	k1
 9	.	PUNC
-
-# sent_id = 142
+42
 # Reuters
 # Economic indicators point toward a steady recovery this year.
 1	Economic	adj
@@ -1928,8 +1786,7 @@
 8	this	adj
 9	year	k1
 10	.	PUNC
-
-# sent_id = 143
+43
 # The Guardian
 # Biodiversity loss remains a significant threat to global ecosystems.
 1	Biodiversity	adj
@@ -1938,39 +1795,36 @@
 4	a	adj
 5	significant	adj
 6	threat	k1
-7	to	PSP
+7	to	-
 8	global	adj
 9	ecosystems	k1
 10	.	PUNC
-
-# sent_id = 144
+44
 # The New York Times
 # NASA launched a mission to explore an icy moon.
 1	NASA	k1
 2	launched	V
 3	a	adj
 4	mission	k2
-5	to	PSP
+5	to	-
 6	explore	k4
 7	an	adj
 8	icy	adj
 9	moon	k2
 10	.	PUNC
-
-# sent_id = 145
+45
 # Al Jazeera
 # International observers arrived to monitor the national elections.
 1	International	adj
 2	observers	k1
 3	arrived	V
-4	to	PSP
+4	to	-
 5	monitor	k4
 6	the	adj
 7	national	adj
 8	elections	k2
 9	.	PUNC
-
-# sent_id = 146
+46
 # The Hindu
 # Traditional weavers are using social media to sell products.
 1	Traditional	adj
@@ -1979,12 +1833,11 @@
 4	using	V
 5	social	adj
 6	media	k2
-7	to	PSP
+7	to	-
 8	sell	k4
 9	products	k2
 10	.	PUNC
-
-# sent_id = 147
+47
 # BBC News
 # Virtual reality headsets are becoming lighter and more affordable.
 1	Virtual	adj
@@ -1997,8 +1850,7 @@
 8	more	k2
 9	affordable	adj
 10	.	PUNC
-
-# sent_id = 148
+48
 # Reuters
 # Gold prices hit a record high amid economic uncertainty.
 1	Gold	adj
@@ -2011,8 +1863,7 @@
 8	economic	adj
 9	uncertainty	k2
 10	.	PUNC
-
-# sent_id = 149
+49
 # The Guardian
 # Carbon emissions must drop significantly to reach climate goals.
 1	Carbon	adj
@@ -2020,13 +1871,12 @@
 3	must	V
 4	drop	k1
 5	significantly	adv
-6	to	PSP
+6	to	-
 7	reach	k4
 8	climate	adj
 9	goals	k1
 10	.	PUNC
-
-# sent_id = 150
+50
 # The New York Times
 # Streaming platforms are investing more in original international content.
 1	Streaming	V
@@ -2034,13 +1884,12 @@
 3	are	V
 4	investing	V
 5	more	k2
-6	in	PSP
+6	in	-
 7	original	adj
 8	international	adj
 9	content	k2
 10	.	PUNC
-
-# sent_id = 151
+51
 # Al Jazeera
 # The ceasefire agreement brought temporary peace to the region.
 1	The	adj
@@ -2049,12 +1898,11 @@
 4	brought	V
 5	temporary	adj
 6	peace	k2
-7	to	PSP
+7	to	-
 8	the	adj
 9	region	k4
 10	.	PUNC
-
-# sent_id = 152
+52
 # The Hindu
 # Public parks are being renovated to include more playgrounds.
 1	The	adj
@@ -2064,13 +1912,12 @@
 5	are	V
 6	being	V
 7	renovated	V
-8	to	PSP
+8	to	-
 9	include	k4
 10	more	adj
 11	playgrounds	k2
 12	.	PUNC
-
-# sent_id = 153
+53
 # BBC News
 # Electric scooters are changing how people navigate urban centers.
 1	Electric	adj
@@ -2083,8 +1930,7 @@
 8	urban	adj
 9	centers	k2
 10	.	PUNC
-
-# sent_id = 154
+54
 # Reuters
 # The trade deficit narrowed as electronics exports increased sharply.
 1	The	adj
@@ -2097,8 +1943,7 @@
 8	increased	V
 9	sharply	adv
 10	.	PUNC
-
-# sent_id = 155
+55
 # The Guardian
 # Urban planners suggest building more bicycle lanes for safety.
 1	Urban	adj
@@ -2108,11 +1953,10 @@
 5	more	adj
 6	bicycle	adj
 7	lanes	k2
-8	for	PSP
+8	for	-
 9	safety	k4
 10	.	PUNC
-
-# sent_id = 156
+56
 # The New York Times
 # High inflation rates are impacting consumer spending on luxury items.
 1	High	adj
@@ -2122,12 +1966,11 @@
 5	impacting	V
 6	consumer	adj
 7	spending	V
-8	on	PSP
+8	on	-
 9	luxury	k7
 10	items	k2
 11	.	PUNC
-
-# sent_id = 157
+57
 # Al Jazeera
 # Military exercises near the border caused regional diplomatic concern.
 1	Military	adj
@@ -2140,8 +1983,7 @@
 8	diplomatic	adj
 9	concern	k2
 10	.	PUNC
-
-# sent_id = 158
+58
 # The Hindu
 # The film festival showcased independent movies from across Asia.
 1	The	adj
@@ -2150,12 +1992,11 @@
 4	showcased	V
 5	independent	adj
 6	movies	k2
-7	from	PSP
-8	across	PSP
+7	from	-
+8	across	-
 9	Asia	k7
 10	.	PUNC
-
-# sent_id = 159
+59
 # BBC News
 # Modern medicine can successfully treat many previously fatal conditions.
 1	Modern	adj
@@ -2168,8 +2009,7 @@
 8	fatal	adj
 9	conditions	k1
 10	.	PUNC
-
-# sent_id = 160
+60
 # Reuters
 # Construction activity increased following the approval of new projects.
 1	Construction	adj
@@ -2178,12 +2018,11 @@
 4	following	V
 5	the	adj
 6	approval	adj
-7	of	PSP
+7	of	-
 8	new	adj
 9	projects	k2
 10	.	PUNC
-
-# sent_id = 161
+61
 # The Guardian
 # Sustainable fashion brands use recycled materials for their clothing.
 1	Sustainable	adj
@@ -2192,12 +2031,11 @@
 4	use	k1
 5	recycled	V
 6	materials	k2
-7	for	PSP
+7	for	-
 8	their	k4
 9	clothing	V
 10	.	PUNC
-
-# sent_id = 162
+62
 # The New York Times
 # A new biography details the secret life of the author.
 1	A	adj
@@ -2207,27 +2045,25 @@
 5	the	adj
 6	secret	adj
 7	life	k1
-8	of	PSP
+8	of	-
 9	the	adj
 10	author	k2
 11	.	PUNC
-
-# sent_id = 163
+63
 # Al Jazeera
 # Thousands gathered for the annual pilgrimage to the holy site.
 1	Thousands	k1
 2	gathered	V
-3	for	PSP
+3	for	-
 4	the	adj
 5	annual	adj
 6	pilgrimage	k2
-7	to	PSP
+7	to	-
 8	the	adj
 9	holy	adv
 10	site	k2
 11	.	PUNC
-
-# sent_id = 164
+64
 # The Hindu
 # The metro train service was extended to the airport.
 1	The	adj
@@ -2236,26 +2072,24 @@
 4	service	k1
 5	was	V
 6	extended	V
-7	to	PSP
+7	to	-
 8	the	adj
 9	airport	k4
 10	.	PUNC
-
-# sent_id = 165
+65
 # BBC News
 # Robots are being deployed to clean hazardous waste sites.
 1	Robots	k1
 2	are	V
 3	being	V
 4	deployed	V
-5	to	PSP
+5	to	-
 6	clean	k4
 7	hazardous	adj
 8	waste	adj
 9	sites	k2
 10	.	PUNC
-
-# sent_id = 166
+66
 # Reuters
 # The central bank keeps a close watch on inflation.
 1	The	adj
@@ -2265,16 +2099,15 @@
 5	a	adj
 6	close	adj
 7	watch	k1
-8	on	PSP
+8	on	-
 9	inflation	k7
 10	.	PUNC
-
-# sent_id = 167
+67
 # The Guardian
 # Planting trees in cities helps lower the local temperature.
 1	Planting	V
 2	trees	k2
-3	in	PSP
+3	in	-
 4	cities	k7
 5	helps	k2
 6	lower	adj
@@ -2282,8 +2115,7 @@
 8	local	adj
 9	temperature	k2
 10	.	PUNC
-
-# sent_id = 168
+68
 # The New York Times
 # A major software update improved the battery life of phones.
 1	A	adj
@@ -2294,25 +2126,23 @@
 6	the	adj
 7	battery	adj
 8	life	k2
-9	of	PSP
+9	of	-
 10	phones	k2
 11	.	PUNC
-
-# sent_id = 169
+69
 # Al Jazeera
 # Tensions rise over disputed territory in the northern region.
 1	Tensions	adj
 2	rise	k1
-3	over	PSP
+3	over	-
 4	disputed	V
 5	territory	k2
-6	in	PSP
+6	in	-
 7	the	adj
 8	northern	adj
 9	region	k2
 10	.	PUNC
-
-# sent_id = 170
+70
 # The Hindu
 # Fresh fruits and vegetables are sold at the local market.
 1	Fresh	adj
@@ -2321,13 +2151,12 @@
 4	vegetables	k1
 5	are	V
 6	sold	k1
-7	at	PSP
+7	at	-
 8	the	adj
 9	local	adj
 10	market	k1
 11	.	PUNC
-
-# sent_id = 171
+71
 # BBC News
 # Exploring the ruins provided clues about the ancient culture.
 1	Exploring	V
@@ -2335,13 +2164,12 @@
 3	ruins	k2
 4	provided	V
 5	clues	k2
-6	about	PSP
+6	about	-
 7	the	adj
 8	ancient	adj
 9	culture	k2
 10	.	PUNC
-
-# sent_id = 172
+72
 # Reuters
 # Consumer prices rose faster than expected in the last month.
 1	Consumer	adj
@@ -2350,13 +2178,12 @@
 4	faster	adj
 5	than	k1
 6	expected	V
-7	in	PSP
+7	in	-
 8	the	adj
 9	last	adj
 10	month	k2
 11	.	PUNC
-
-# sent_id = 173
+73
 # The Guardian
 # Protecting endangered species requires global cooperation and strong laws.
 1	Protecting	V
@@ -2369,8 +2196,7 @@
 8	strong	adj
 9	laws	k2
 10	.	PUNC
-
-# sent_id = 174
+74
 # The New York Times
 # The company announced a new line of smart home devices.
 1	The	adj
@@ -2379,13 +2205,12 @@
 4	a	adj
 5	new	adj
 6	line	k2
-7	of	PSP
+7	of	-
 8	smart	adj
 9	home	adj
 10	devices	k2
 11	.	PUNC
-
-# sent_id = 175
+75
 # Al Jazeera
 # Heavy snowfall blocked major highways in the mountain pass.
 1	Heavy	adj
@@ -2393,13 +2218,12 @@
 3	blocked	V
 4	major	adj
 5	highways	k2
-6	in	PSP
+6	in	-
 7	the	adj
 8	mountain	k7
 9	pass	k2
 10	.	PUNC
-
-# sent_id = 176
+76
 # The Hindu
 # The school building was repainted before the new semester started.
 1	The	adj
@@ -2407,14 +2231,13 @@
 3	building	V
 4	was	V
 5	repainted	V
-6	before	PSP
+6	before	-
 7	the	adj
 8	new	adj
 9	semester	adj
 10	started	V
 11	.	PUNC
-
-# sent_id = 177
+77
 # BBC News
 # Learning a new language improves memory and cognitive skills.
 1	Learning	V
@@ -2427,8 +2250,7 @@
 8	cognitive	adj
 9	skills	k2
 10	.	PUNC
-
-# sent_id = 178
+78
 # Reuters
 # Economic growth slowed down due to high energy costs.
 1	Economic	adj
@@ -2436,13 +2258,12 @@
 3	slowed	V
 4	down	adj
 5	due	k2
-6	to	PSP
+6	to	-
 7	high	adj
 8	energy	adj
 9	costs	k2
 10	.	PUNC
-
-# sent_id = 179
+79
 # The Guardian
 # Reducing carbon footprints is essential for a sustainable future.
 1	Reducing	V
@@ -2450,13 +2271,12 @@
 3	footprints	k2
 4	is	V
 5	essential	adj
-6	for	PSP
+6	for	-
 7	a	adj
 8	sustainable	adj
 9	future	k2
 10	.	PUNC
-
-# sent_id = 180
+80
 # The New York Times
 # The play received glowing reviews from theater critics yesterday.
 1	The	adj
@@ -2464,13 +2284,12 @@
 3	received	V
 4	glowing	V
 5	reviews	k2
-6	from	PSP
+6	from	-
 7	theater	adj
 8	critics	adj
 9	yesterday	k2
 10	.	PUNC
-
-# sent_id = 181
+81
 # Al Jazeera
 # Refugees received emergency medical care at the border camp.
 1	Refugees	k1
@@ -2478,18 +2297,17 @@
 3	emergency	k2
 4	medical	adj
 5	care	k2
-6	at	PSP
+6	at	-
 7	the	adj
 8	border	adj
 9	camp	k2
 10	.	PUNC
-
-# sent_id = 182
+82
 # The Hindu
 # Traffic congestion in the city remains a major problem.
 1	Traffic	adj
 2	congestion	k1
-3	in	PSP
+3	in	-
 4	the	adj
 5	city	k7
 6	remains	k1
@@ -2497,22 +2315,20 @@
 8	major	adj
 9	problem	k1
 10	.	PUNC
-
-# sent_id = 183
+83
 # BBC News
 # Modern architects focus on energy efficiency and natural light.
 1	Modern	adj
 2	architects	adj
 3	focus	k1
-4	on	PSP
+4	on	-
 5	energy	k7
 6	efficiency	adj
 7	and	k1
 8	natural	adj
 9	light	k1
 10	.	PUNC
-
-# sent_id = 184
+84
 # Reuters
 # The stock market reacted positively to the merger news.
 1	The	adj
@@ -2520,13 +2336,12 @@
 3	market	k1
 4	reacted	V
 5	positively	adv
-6	to	PSP
+6	to	-
 7	the	adj
 8	merger	adj
 9	news	k2
 10	.	PUNC
-
-# sent_id = 185
+85
 # The Guardian
 # Oceans play a crucial role in regulating the global climate.
 1	Oceans	adj
@@ -2534,14 +2349,13 @@
 3	a	adj
 4	crucial	adj
 5	role	k1
-6	in	PSP
+6	in	-
 7	regulating	V
 8	the	adj
 9	global	adj
 10	climate	k2
 11	.	PUNC
-
-# sent_id = 186
+86
 # The New York Times
 # A new smartphone model was launched with a better camera.
 1	A	adj
@@ -2550,26 +2364,24 @@
 4	model	k1
 5	was	V
 6	launched	V
-7	with	PSP
+7	with	-
 8	a	adj
 9	better	adj
 10	camera	k2
 11	.	PUNC
-
-# sent_id = 187
+87
 # Al Jazeera
 # Human rights groups called for an independent investigation.
 1	Human	adj
 2	rights	adj
 3	groups	k1
 4	called	V
-5	for	PSP
+5	for	-
 6	an	adj
 7	independent	k4
 8	investigation	k2
 9	.	PUNC
-
-# sent_id = 188
+88
 # The Hindu
 # Farmers harvested the rice crop after the monsoon ended.
 1	Farmers	k1
@@ -2577,19 +2389,18 @@
 3	the	adj
 4	rice	adj
 5	crop	k2
-6	after	PSP
+6	after	-
 7	the	adj
 8	monsoon	k7
 9	ended	V
 10	.	PUNC
-
-# sent_id = 189
+89
 # BBC News
 # Watching the sunset over the ocean is a peaceful experience.
 1	Watching	V
 2	the	adj
 3	sunset	k2
-4	over	PSP
+4	over	-
 5	the	adj
 6	ocean	k7
 7	is	V
@@ -2597,25 +2408,23 @@
 9	peaceful	adj
 10	experience	k2
 11	.	PUNC
-
-# sent_id = 190
+90
 # Reuters
 # International trade decreased due to new tariff regulations.
 1	International	adj
 2	trade	k1
 3	decreased	V
 4	due	k2
-5	to	PSP
+5	to	-
 6	new	adj
 7	tariff	adj
 8	regulations	k2
 9	.	PUNC
-
-# sent_id = 191
+91
 # The Guardian
 # Switching to electric cars can help reduce urban air pollution.
 1	Switching	V
-2	to	PSP
+2	to	-
 3	electric	k4
 4	cars	k2
 5	can	V
@@ -2625,8 +2434,7 @@
 9	air	adj
 10	pollution	k2
 11	.	PUNC
-
-# sent_id = 192
+92
 # The New York Times
 # The museum opened a new wing for contemporary art.
 1	The	adj
@@ -2635,25 +2443,23 @@
 4	a	adj
 5	new	adj
 6	wing	V
-7	for	PSP
+7	for	-
 8	contemporary	k4
 9	art	k2
 10	.	PUNC
-
-# sent_id = 193
+93
 # Al Jazeera
 # Military forces were deployed to the flood-affected areas.
 1	Military	adj
 2	forces	k1
 3	were	V
 4	deployed	V
-5	to	PSP
+5	to	-
 6	the	adj
 7	flood-affected	V
 8	areas	k2
 9	.	PUNC
-
-# sent_id = 194
+94
 # The Hindu
 # Classical music concerts are held every weekend in December.
 1	Classical	adj
@@ -2663,39 +2469,36 @@
 5	held	V
 6	every	adj
 7	weekend	k2
-8	in	PSP
+8	in	-
 9	December	adj
 10	.	PUNC
-
-# sent_id = 195
+95
 # BBC News
 # Scientific discoveries often lead to new and better technologies.
 1	Scientific	adj
 2	discoveries	k1
 3	often	adv
 4	lead	k1
-5	to	PSP
+5	to	-
 6	new	adj
 7	and	k1
 8	better	adj
 9	technologies	k1
 10	.	PUNC
-
-# sent_id = 196
+96
 # Reuters
 # Unemployment rates dropped slightly for the second consecutive month.
 1	Unemployment	adj
 2	rates	k1
 3	dropped	V
 4	slightly	adv
-5	for	PSP
+5	for	-
 6	the	adj
 7	second	k4
 8	consecutive	adj
 9	month	k2
 10	.	PUNC
-
-# sent_id = 197
+97
 # The Guardian
 # Healthy eating and regular exercise are key to longevity.
 1	Healthy	k1
@@ -2705,11 +2508,10 @@
 5	exercise	k2
 6	are	V
 7	key	adj
-8	to	PSP
+8	to	-
 9	longevity	k4
 10	.	PUNC
-
-# sent_id = 198
+98
 # The New York Times
 # A major earthquake struck the northern coast this morning.
 1	A	adj
@@ -2722,12 +2524,11 @@
 8	this	adj
 9	morning	V
 10	.	PUNC
-
-# sent_id = 199
+99
 # Al Jazeera
 # Negotiations for a permanent peace treaty will begin next week.
 1	Negotiations	k1
-2	for	PSP
+2	for	-
 3	a	adj
 4	permanent	k4
 5	peace	adj
@@ -2737,8 +2538,7 @@
 9	next	adj
 10	week	k1
 11	.	PUNC
-
-# sent_id = 200
+00
 # The Hindu
 # The botanical garden features a wide variety of rare plants.
 1	The	adj
@@ -2748,7 +2548,7 @@
 5	a	adj
 6	wide	adj
 7	variety	k1
-8	of	PSP
+8	of	-
 9	rare	adj
 10	plants	k1
 11	.	PUNC
