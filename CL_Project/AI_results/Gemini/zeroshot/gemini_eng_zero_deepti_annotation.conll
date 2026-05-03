@@ -1,0 +1,557 @@
+# Sentence 1
+Corporate	adj
+earnings	adj
+reports	k1
+exceeded	V
+analyst	adj
+expectations	k2
+this	adj
+quarter	rt
+.	rs
+
+# Sentence 2
+Organic	adj
+farming	k1
+is	r6
+gaining	V
+popularity	k2
+among	relc
+young	adj
+entrepreneurs	ras
+.	rs
+
+# Sentence 3
+The	adj
+international	adj
+film	adj
+festival	k1
+opened	V
+with	relc
+a	adj
+grand	adj
+ceremony	k3
+.	rs
+
+# Sentence 4
+Trade	adj
+deficit	k1
+narrowed	V
+due	relc
+to	rh
+a	adj
+rise	k*u
+in	relc
+exports	k*s
+.	rs
+
+# Sentence 5
+Traffic	adj
+rules	k1
+have	r6
+been	r6
+tightened	V
+to	relc
+improve	rt
+road	adj
+safety	k2
+.	rs
+
+# Sentence 6
+Astronomers	k1
+observed	V
+a	adj
+rare	adj
+comet	k2
+passing	adj
+near	relc
+Earth	k7
+.	rs
+
+# Sentence 7
+Global	adj
+logistics	adj
+firms	k1
+are	r6
+adopting	V
+green	adj
+energy	adj
+solutions	k2
+.	rs
+
+# Sentence 8
+The	adj
+irrigation	adj
+project	k1
+will	r6
+benefit	V
+thousands	k2
+of	relc
+farmers	k*s
+.	rs
+
+# Sentence 9
+Mental	adj
+health	adj
+awareness	k1
+is	r6
+increasing	V
+in	relc
+the	adj
+workplace	k7
+.	rs
+
+# Sentence 10
+Small	adj
+businesses	k1
+are	r6
+receiving	V
+support	k2
+through	relc
+government	adj
+grants	k3
+.	rs
+
+# Sentence 11
+The	adj
+state	adj
+library	k1
+offers	V
+free	adj
+internet	adj
+access	k2
+to	relc
+students	k4
+.	rs
+
+# Sentence 12
+Urban	adj
+vertical	adj
+gardens	k1
+are	r6
+helping	V
+reduce	rt
+city	adj
+pollution	k2
+.	rs
+
+# Sentence 13
+The	adj
+steel	adj
+industry	k1
+reported	V
+a	adj
+surge	k2
+in	relc
+global	adj
+demand	k*s
+.	rs
+
+# Sentence 14
+Community	adj
+kitchens	k1
+provided	V
+meals	k2
+to	relc
+those	k4
+in	relc
+need	k7
+.	rs
+
+# Sentence 15
+Scientists	k1
+are	r6
+studying	V
+the	adj
+effects	k2
+of	relc
+microplastics	k*s
+on	relc
+fish	k7
+.	rs
+
+# Sentence 16
+The	adj
+semiconductor	adj
+shortage	k1
+is	r6
+finally	adv
+beginning	V
+to	relc
+ease	rt
+.	rs
+
+# Sentence 17
+Coastal	adj
+erosion	k1
+is	r6
+threatening	V
+several	adj
+historic	adj
+seaside	adj
+villages	k2
+.	rs
+
+# Sentence 18
+New	adj
+educational	adj
+software	k1
+helps	V
+children	k2
+learn	rt
+math	k2
+easily	adv
+.	rs
+
+# Sentence 19
+Consumer	adj
+confidence	k1
+hit	V
+a	adj
+one-year	adj
+high	k2
+this	adj
+month	rt
+.	rs
+
+# Sentence 20
+The	adj
+national	adj
+park	k1
+reopened	V
+after	relc
+successful	adj
+habitat	adj
+restoration	k7
+.	rs
+
+# Sentence 21
+Modern	adj
+art	adj
+galleries	k1
+are	r6
+focusing	V
+on	relc
+interactive	adj
+installations	k2
+.	rs
+
+# Sentence 22
+Debt	adj
+restructuring	adj
+plans	k1
+were	r6
+approved	V
+by	relc
+the	adj
+creditors	k1
+.	rs
+
+# Sentence 23
+Farmers	k1
+are	r6
+adopting	V
+smart	adj
+sensors	k2
+for	relc
+water	adj
+management	rt
+.	rs
+
+# Sentence 24
+Space	adj
+debris	k1
+is	V
+a	adj
+growing	adj
+concern	k2
+for	relc
+satellite	adj
+safety	rt
+.	rs
+
+# Sentence 25
+The	adj
+hospitality	adj
+sector	k1
+is	r6
+seeing	V
+a	adj
+rapid	adj
+recovery	k2
+.	rs
+
+# Sentence 26
+Local	adj
+artisans	k1
+are	r6
+showcasing	V
+their	adj
+work	k2
+at	relc
+the	adj
+fair	k7
+.	rs
+
+# Sentence 27
+Genomic	adj
+research	k1
+is	r6
+providing	V
+insights	k2
+into	relc
+rare	adj
+diseases	k*s
+.	rs
+
+# Sentence 28
+Commodity	adj
+prices	k1
+fluctuate	V
+due	relc
+to	rh
+changing	adj
+global	adj
+demand	k*s
+.	rs
+
+# Sentence 29
+The	adj
+city	adj
+council	k1
+approved	V
+the	adj
+new	adj
+waste	adj
+management	adj
+plan	k2
+.	rs
+
+# Sentence 30
+Public	adj
+libraries	k1
+are	r6
+evolving	V
+into	relc
+modern	adj
+community	adj
+hubs	k2
+.	rs
+
+# Sentence 31
+Foreign	adj
+exchange	adj
+reserves	k1
+reached	V
+a	adj
+comfortable	adj
+level	k2
+recently	adv
+.	rs
+
+# Sentence 32
+Youth	adj
+volunteers	k1
+are	r6
+leading	V
+the	adj
+urban	adj
+cleanup	adj
+drive	k2
+.	rs
+
+# Sentence 33
+Advancements	k1
+in	relc
+battery	adj
+technology	k*s
+are	r6
+aiding	V
+electric	adj
+vehicles	k2
+.	rs
+
+# Sentence 34
+The	adj
+automotive	adj
+market	k1
+is	r6
+shifting	V
+toward	relc
+sustainable	adj
+models	k2
+.	rs
+
+# Sentence 35
+The	adj
+heritage	adj
+walk	k1
+covers	V
+ten	adj
+historical	adj
+monuments	k2
+today	rt
+.	rs
+
+# Sentence 36
+High-speed	adj
+trains	k1
+are	r6
+being	r6
+tested	V
+on	relc
+new	adj
+routes	k7
+.	rs
+
+# Sentence 37
+Tax	adj
+revenue	k1
+increased	V
+following	relc
+the	adj
+new	adj
+policy	adj
+changes	rt
+.	rs
+
+# Sentence 38
+Rural	adj
+schools	k1
+received	V
+new	adj
+computer	adj
+labs	k2
+this	adj
+month	rt
+.	rs
+
+# Sentence 39
+Deep-sea	adj
+exploration	k1
+revealed	V
+amazing	adj
+volcanic	adj
+vent	adj
+ecosystems	k2
+.	rs
+
+# Sentence 40
+Retail	adj
+inflation	k1
+dropped	V
+to	relc
+a	adj
+six-month	adj
+low	k2
+recently	adv
+.	rs
+
+# Sentence 41
+The	adj
+food	adj
+festival	k1
+features	V
+cuisines	k2
+from	relc
+various	adj
+states	k*s
+.	rs
+
+# Sentence 42
+Cybersecurity	adj
+threats	k1
+are	r6
+becoming	V
+more	adv
+sophisticated	adj
+each	adj
+year	rt
+.	rs
+
+# Sentence 43
+Commercial	adj
+real	adj
+estate	adj
+demand	k1
+is	r6
+picking	V
+up	relc
+slowly	adv
+.	rs
+
+# Sentence 44
+Vocational	adj
+training	adj
+centers	k1
+help	V
+youth	k2
+find	rt
+better	adj
+jobs	k2
+.	rs
+
+# Sentence 45
+Scientists	k1
+found	V
+a	adj
+way	k2
+to	relc
+recycle	rt
+plastic	k2
+efficiently	adv
+.	rs
+
+# Sentence 46
+Major	adj
+banks	k1
+reported	V
+stable	adj
+profits	k2
+for	relc
+the	adj
+half-year	rt
+.	rs
+
+# Sentence 47
+The	adj
+literary	adj
+award	k1
+went	V
+to	relc
+a	adj
+debut	adj
+novelist	k4
+.	rs
+
+# Sentence 48
+New	adj
+telescopes	k1
+will	r6
+help	V
+us	k2
+understand	rt
+black	adj
+holes	k2
+.	rs
+
+# Sentence 49
+The	adj
+construction	adj
+sector	k1
+is	r6
+facing	V
+a	adj
+labor	adj
+shortage	k2
+.	rs
+
+# Sentence 50
+The	adj
+flower	adj
+show	k1
+at	relc
+the	adj
+park	k7
+was	V
+beautiful	adj
+.	rs

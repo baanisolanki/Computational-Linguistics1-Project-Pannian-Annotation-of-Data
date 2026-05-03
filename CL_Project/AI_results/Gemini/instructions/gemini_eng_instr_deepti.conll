@@ -1,0 +1,612 @@
+# Sentence 1
+The	adj
+ceasefire	adj
+agreement	k1
+brought	V
+temporary	adj
+peace	k2
+to	-
+the	-
+region	k7
+.	-
+
+# Sentence 2
+The	-
+Hindu	adj
+Public	adj
+parks	k1
+are	-
+being	-
+renovated	V
+to	-
+include	rt
+more	adj
+playgrounds	k2
+.	-
+
+# Sentence 3
+Electric	adj
+scooters	k1
+are	-
+changing	V
+how	-
+people	k1
+navigate	relc
+urban	adj
+centers	k2
+.	-
+
+# Sentence 4
+The	-
+trade	adj
+deficit	k1
+narrowed	V
+as	-
+electronics	adj
+exports	k1
+increased	rh
+sharply	adv
+.	-
+
+# Sentence 5
+Urban	adj
+planners	k1
+suggest	V
+building	k2
+more	adj
+bicycle	adj
+lanes	k2
+for	-
+safety	rt
+.	-
+
+# Sentence 6
+High	adj
+inflation	adj
+rates	k1
+are	-
+impacting	V
+consumer	adj
+spending	k2
+on	-
+luxury	adj
+items	k7
+.	-
+
+# Sentence 7
+Military	adj
+exercises	k1
+near	-
+the	-
+border	k7
+caused	V
+regional	adj
+diplomatic	adj
+concern	k2
+.	-
+
+# Sentence 8
+The	-
+film	adj
+festival	k1
+showcased	V
+independent	adj
+movies	k2
+from	-
+across	-
+Asia	k5
+.	-
+
+# Sentence 9
+Modern	adj
+medicine	k1
+can	-
+successfully	adv
+treat	V
+many	adj
+previously	adv
+fatal	adj
+conditions	k2
+.	-
+
+# Sentence 10
+Construction	adj
+activity	k1
+increased	V
+following	-
+the	-
+approval	rh
+of	-
+new	adj
+projects	r6
+.	-
+
+# Sentence 11
+Sustainable	adj
+fashion	adj
+brands	k1
+use	V
+recycled	adj
+materials	k2
+for	-
+their	r6
+clothing	rt
+.	-
+
+# Sentence 12
+A	-
+new	adj
+biography	k1
+details	V
+the	-
+secret	adj
+life	k2
+of	-
+the	-
+author	r6
+.	-
+
+# Sentence 13
+Thousands	k1
+gathered	V
+for	-
+the	-
+annual	adj
+pilgrimage	rt
+to	-
+the	-
+holy	adj
+site	k7
+.	-
+
+# Sentence 14
+The	-
+metro	adj
+train	adj
+service	k1
+was	-
+extended	V
+to	-
+the	-
+airport	k7
+.	-
+
+# Sentence 15
+Robots	k1
+are	-
+being	-
+deployed	V
+to	-
+clean	rt
+hazardous	adj
+waste	adj
+sites	k2
+.	-
+
+# Sentence 16
+The	-
+central	adj
+bank	k1
+keeps	V
+a	-
+close	adj
+watch	k2
+on	-
+inflation	rs
+.	-
+
+# Sentence 17
+Planting	k1
+trees	k2
+in	-
+cities	k7
+helps	V
+lower	rt
+the	-
+local	adj
+temperature	k2
+.	-
+
+# Sentence 18
+A	-
+major	adj
+software	adj
+update	k1
+improved	V
+the	-
+battery	adj
+life	k2
+of	-
+phones	r6
+.	-
+
+# Sentence 19
+Tensions	k1
+rise	V
+over	-
+disputed	adj
+territory	rs
+in	-
+the	-
+northern	adj
+region	k7
+.	-
+
+# Sentence 20
+Fresh	adj
+fruits	k1
+and	-
+vegetables	k1
+are	-
+sold	root
+at	-
+the	-
+local	adj
+market	k7
+.	-
+
+# Sentence 21
+Exploring	k1
+the	-
+ruins	k2
+provided	V
+clues	k2
+about	-
+the	-
+ancient	adj
+culture	rs
+.	PUNC
+
+# Sentence 22
+Consumer	adj
+prices	k1
+rose	V
+faster	adv
+than	-
+expected	k*u
+in	-
+the	-
+last	adj
+month	k7
+.	PUNC
+
+# Sentence 23
+Protecting	k1
+endangered	adj
+species	k2
+requires	V
+global	adj
+cooperation	k2
+and	-
+strong	adj
+laws	k2
+.	PUNC
+
+# Sentence 24
+The	-
+company	k1
+announced	V
+a	-
+new	adj
+line	k2
+of	-
+smart	adj
+home	adj
+devices	r6
+.	PUNC
+
+# Sentence 25
+Heavy	adj
+snowfall	k1
+blocked	V
+major	adj
+highways	k2
+in	-
+the	-
+mountain	adj
+pass	k7
+.	PUNC
+
+# Sentence 26
+The	-
+school	adj
+building	k1
+was	-
+repainted	V
+before	-
+the	-
+new	adj
+semester	k7
+started	relc
+.	PUNC
+
+# Sentence 27
+Learning	k1
+a	-
+new	adj
+language	k2
+improves	V
+memory	k2
+and	-
+cognitive	adj
+skills	k2
+.	PUNC
+
+# Sentence 28
+Economic	adj
+growth	k1
+slowed	V
+down	adv
+due	-
+to	-
+high	adj
+energy	adj
+costs	rh
+.	PUNC
+
+# Sentence 29
+Reducing	k1
+carbon	adj
+footprints	k2
+is	V
+essential	k*s
+for	-
+a	-
+sustainable	adj
+future	rt
+.	PUNC
+
+# Sentence 30
+The	-
+play	k1
+received	V
+glowing	adj
+reviews	k2
+from	-
+theater	adj
+critics	k5
+yesterday	k7
+.	PUNC
+
+# Sentence 31
+Refugees	k1
+received	V
+emergency	adj
+medical	adj
+care	k2
+at	-
+the	-
+border	adj
+camp	k7
+.	PUNC
+
+# Sentence 32
+Traffic	adj
+congestion	k1
+in	-
+the	-
+city	k7
+remains	V
+a	-
+major	adj
+problem	k*s
+.	PUNC
+
+# Sentence 33
+Modern	adj
+architects	k1
+focus	V
+on	-
+energy	adj
+efficiency	rs
+and	-
+natural	adj
+light	rs
+.	PUNC
+
+# Sentence 34
+The	-
+stock	adj
+market	k1
+reacted	V
+positively	adv
+to	-
+the	-
+merger	adj
+news	rs
+.	PUNC
+
+# Sentence 35
+Oceans	k1
+play	V
+a	-
+crucial	adj
+role	k2
+in	-
+regulating	rt
+the	-
+global	adj
+climate	k2
+.	PUNC
+
+# Sentence 36
+A	-
+new	adj
+smartphone	adj
+model	k1
+was	-
+launched	V
+with	-
+a	-
+better	adj
+camera	k3
+.	PUNC
+
+# Sentence 37
+Human	adj
+rights	adj
+groups	k1
+called	V
+for	-
+an	-
+independent	adj
+investigation	rs
+.	PUNC
+
+# Sentence 38
+Farmers	k1
+harvested	V
+the	-
+rice	adj
+crop	k2
+after	-
+the	-
+monsoon	k7
+ended	relc
+.	PUNC
+
+# Sentence 39
+Watching	k1
+the	-
+sunset	k2
+over	-
+the	-
+ocean	k7
+is	V
+a	-
+peaceful	adj
+experience	k*s
+.	PUNC
+
+# Sentence 40
+International	adj
+trade	k1
+decreased	V
+due	-
+to	-
+new	adj
+tariff	adj
+regulations	rh
+.	PUNC
+
+# Sentence 41
+Switching	k1
+to	-
+electric	adj
+cars	rs
+can	-
+help	V
+reduce	rt
+urban	adj
+air	adj
+pollution	k2
+.	PUNC
+
+# Sentence 42
+The	-
+museum	k1
+opened	V
+a	-
+new	adj
+wing	k2
+for	-
+contemporary	adj
+art	rt
+.	PUNC
+
+# Sentence 43
+Military	adj
+forces	k1
+were	-
+deployed	V
+to	-
+the	-
+flood-affected	adj
+areas	k7
+.	PUNC
+
+# Sentence 44
+Classical	adj
+music	adj
+concerts	k1
+are	-
+held	V
+every	adj
+weekend	k7
+in	-
+December	k7
+.	PUNC
+
+# Sentence 45
+Scientific	adj
+discoveries	k1
+often	adv
+lead	V
+to	-
+new	adj
+and	-
+better	adj
+technologies	k7
+.	PUNC
+
+# Sentence 46
+Unemployment	adj
+rates	k1
+dropped	V
+slightly	adv
+for	-
+the	-
+second	adj
+consecutive	adj
+month	k7
+.	PUNC
+
+# Sentence 47
+Healthy	adj
+eating	k1
+and	-
+regular	adj
+exercise	k1
+are	V
+key	k*s
+to	-
+longevity	rs
+.	PUNC
+
+# Sentence 48
+A	-
+major	adj
+earthquake	k1
+struck	V
+the	-
+northern	adj
+coast	k2
+this	-
+morning	k7
+.	PUNC
+
+# Sentence 49
+Negotiations	k1
+for	-
+a	-
+permanent	adj
+peace	adj
+treaty	rs
+will	-
+begin	V
+next	adj
+week	k7
+.	PUNC
+
+# Sentence 50
+The	-
+botanical	adj
+garden	k1
+features	V
+a	-
+wide	adj
+variety	k2
+of	-
+rare	adj
+plants	r6
+.	PUNC
