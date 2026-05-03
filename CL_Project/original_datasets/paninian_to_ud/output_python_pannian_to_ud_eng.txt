@@ -1,0 +1,2554 @@
+# The Hindu
+# The government announced new research grants for students.
+1	The	amod
+2	government	nsubj
+3	announced	V
+4	new	amod
+5	research	amod
+6	grants	dobj
+7	for	-
+8	students	iobj
+9	.	PUNC
+
+# BBC News
+# Global temperatures reached a record high last month.
+1	Global	amod
+2	temperatures	nsubj
+3	reached	V
+4	a	amod
+5	record	amod
+6	high	amod
+7	last	amod
+8	month	dobj
+9	.	PUNC
+
+# Reuters
+# Stock markets reacted sharply to the central bank decision.
+1	Stock	amod
+2	markets	nsubj
+3	reacted	V
+4	sharply	advmod
+5	to	-
+6	the	amod
+7	central	amod
+8	bank	amod
+9	decision	dobj
+10	.	PUNC
+
+# The Hindu
+# Scientists discovered a new species in the Western Ghats.
+1	Scientists	nsubj
+2	discovered	V
+3	a	amod
+4	new	amod
+5	species	dobj
+6	in	-
+7	the	amod
+8	Western	amod
+9	Ghats	dobj
+10	.	PUNC
+
+# BBC News
+# Space Exploration reaches a new milestone this week.
+1	Space	amod
+2	Exploration	amod
+3	reaches	nsubj
+4	a	amod
+5	new	amod
+6	milestone	nsubj
+7	this	amod
+8	week	nsubj
+9	.	PUNC
+
+# Reuters
+# The trade agreement aims to reduce export tariffs significantly.
+1	The	amod
+2	trade	amod
+3	agreement	amod
+4	aims	nsubj
+5	to	-
+6	reduce	iobj
+7	export	amod
+8	tariffs	nsubj
+9	significantly	advmod
+10	.	PUNC
+
+# The Hindu
+# Local communities are working to restore the ancient temple.
+1	Local	amod
+2	communities	nsubj
+3	are	V
+4	working	V
+5	to	-
+6	restore	iobj
+7	the	amod
+8	ancient	amod
+9	temple	dobj
+10	.	PUNC
+
+# BBC News
+# Technology firms are investing heavily in artificial intelligence.
+1	Technology	amod
+2	firms	nsubj
+3	are	V
+4	investing	V
+5	heavily	advmod
+6	in	-
+7	artificial	amod
+8	intelligence	dobj
+9	.	PUNC
+
+# Reuters
+# Oil prices stabilized after the recent production cut announcement.
+1	Oil	amod
+2	prices	nsubj
+3	stabilized	V
+4	after	-
+5	the	amod
+6	recent	nmod
+7	production	dobj
+8	cut	V
+9	announcement	dobj
+10	.	PUNC
+0
+# The Hindu
+# The university campus will host the national sports meet.
+1	The	amod
+2	university	amod
+3	campus	nsubj
+4	will	V
+5	host	nsubj
+6	the	amod
+7	national	amod
+8	sports	amod
+9	meet	nsubj
+10	.	PUNC
+1
+# BBC News
+# Renewable energy projects are expanding across the rural sector.
+1	Renewable	amod
+2	energy	amod
+3	projects	nsubj
+4	are	V
+5	expanding	V
+6	across	-
+7	the	amod
+8	rural	amod
+9	sector	dobj
+10	.	PUNC
+2
+# Reuters
+# Global supply chains are recovering from recent disruptions.
+1	Global	amod
+2	supply	advmod
+3	chains	nsubj
+4	are	V
+5	recovering	V
+6	from	-
+7	recent	nmod
+8	disruptions	dobj
+9	.	PUNC
+3
+# The Hindu
+# Urban planning must focus on sustainable public transport.
+1	Urban	nsubj
+2	planning	V
+3	must	V
+4	focus	dobj
+5	on	-
+6	sustainable	amod
+7	public	amod
+8	transport	dobj
+9	.	PUNC
+4
+# BBC News
+# Art exhibitions in the city are drawing large crowds.
+1	Art	amod
+2	exhibitions	nsubj
+3	in	-
+4	the	amod
+5	city	nmod
+6	are	V
+7	drawing	V
+8	large	amod
+9	crowds	dobj
+10	.	PUNC
+5
+# Reuters
+# The tech startup secured funding for its innovative platform.
+1	The	amod
+2	tech	amod
+3	startup	nsubj
+4	secured	V
+5	funding	V
+6	for	-
+7	its	iobj
+8	innovative	amod
+9	platform	dobj
+10	.	PUNC
+6
+# The Hindu
+# Monsoon rains reached the southern coast earlier than expected.
+1	Monsoon	amod
+2	rains	nsubj
+3	reached	V
+4	the	amod
+5	southern	amod
+6	coast	dobj
+7	earlier	amod
+8	than	dobj
+9	expected	V
+10	.	PUNC
+7
+# BBC News
+# Public health initiatives have reduced the spread of disease.
+1	Public	amod
+2	health	amod
+3	initiatives	nsubj
+4	have	V
+5	reduced	V
+6	the	amod
+7	spread	dobj
+8	of	-
+9	disease	dobj
+10	.	PUNC
+8
+# Reuters
+# E-commerce growth continues to transform the retail landscape.
+1	E-commerce	amod
+2	growth	amod
+3	continues	nsubj
+4	to	-
+5	transform	iobj
+6	the	amod
+7	retail	amod
+8	landscape	nsubj
+9	.	PUNC
+9
+# The Hindu
+# High court judges emphasized the importance of digital privacy.
+1	High	amod
+2	court	amod
+3	judges	nsubj
+4	emphasized	V
+5	the	amod
+6	importance	dobj
+7	of	-
+8	digital	amod
+9	privacy	dobj
+10	.	PUNC
+0
+# BBC News
+# Educational reforms are being implemented in several states.
+1	Educational	amod
+2	reforms	nsubj
+3	are	V
+4	being	V
+5	implemented	V
+6	in	-
+7	several	amod
+8	states	dobj
+9	.	PUNC
+1
+# Reuters
+# Manufacturing output increased for the third consecutive month.
+1	Manufacturing	V
+2	output	dobj
+3	increased	V
+4	for	-
+5	the	amod
+6	third	iobj
+7	consecutive	amod
+8	month	dobj
+9	.	PUNC
+2
+# The Hindu
+# Archaeological survey found evidence of an ancient civilization.
+1	Archaeological	amod
+2	survey	nsubj
+3	found	V
+4	evidence	dobj
+5	of	-
+6	an	amod
+7	ancient	amod
+8	civilization	dobj
+9	.	PUNC
+3
+# BBC News
+# Wildlife conservation efforts have helped save endangered tigers.
+1	Wildlife	amod
+2	conservation	amod
+3	efforts	nsubj
+4	have	V
+5	helped	V
+6	save	dobj
+7	endangered	V
+8	tigers	dobj
+9	.	PUNC
+4
+# Reuters
+# Airline industry expects a surge in summer holiday bookings.
+1	Airline	amod
+2	industry	amod
+3	expects	nsubj
+4	a	amod
+5	surge	nsubj
+6	in	-
+7	summer	amod
+8	holiday	amod
+9	bookings	nsubj
+10	.	PUNC
+5
+# The Hindu
+# New legislation aims to protect the rights of workers.
+1	New	amod
+2	legislation	amod
+3	aims	nsubj
+4	to	-
+5	protect	iobj
+6	the	amod
+7	rights	nsubj
+8	of	-
+9	workers	dobj
+10	.	PUNC
+6
+# BBC News
+# Remote work remains popular among several software development teams.
+1	Remote	amod
+2	work	amod
+3	remains	amod
+4	popular	nsubj
+5	among	-
+6	several	amod
+7	software	amod
+8	development	amod
+9	teams	nsubj
+10	.	PUNC
+7
+# Reuters
+# Interest rates might remain steady until the next quarter.
+1	Interest	amod
+2	rates	nsubj
+3	might	V
+4	remain	amod
+5	steady	amod
+6	until	nsubj
+7	the	amod
+8	next	amod
+9	quarter	amod
+10	.	PUNC
+8
+# The Hindu
+# The library expanded its digital collection for remote access.
+1	The	amod
+2	library	nsubj
+3	expanded	V
+4	its	dobj
+5	digital	amod
+6	collection	dobj
+7	for	-
+8	remote	iobj
+9	access	dobj
+10	.	PUNC
+9
+# BBC News
+# Sports fans celebrated the victory in the city center.
+1	Sports	amod
+2	fans	nsubj
+3	celebrated	V
+4	the	amod
+5	victory	dobj
+6	in	-
+7	the	amod
+8	city	nmod
+9	center	amod
+10	.	PUNC
+0
+# Reuters
+# Agriculture exports reached an all-time high this fiscal year.
+1	Agriculture	amod
+2	exports	nsubj
+3	reached	V
+4	an	amod
+5	all-time	dobj
+6	high	amod
+7	this	amod
+8	fiscal	amod
+9	year	dobj
+10	.	PUNC
+1
+# The Hindu
+# Solar power plants are being installed in desert regions.
+1	Solar	nsubj
+2	power	amod
+3	plants	nsubj
+4	are	V
+5	being	V
+6	installed	V
+7	in	-
+8	desert	nmod
+9	regions	dobj
+10	.	PUNC
+2
+# BBC News
+# Music festivals are returning after a two-year hiatus.
+1	Music	amod
+2	festivals	nsubj
+3	are	V
+4	returning	V
+5	after	-
+6	a	amod
+7	two-year	nmod
+8	hiatus	dobj
+9	.	PUNC
+3
+# Reuters
+# Luxury car sales have seen a significant increase recently.
+1	Luxury	amod
+2	car	amod
+3	sales	nsubj
+4	have	V
+5	seen	nsubj
+6	a	amod
+7	significant	amod
+8	increase	nsubj
+9	recently	advmod
+10	.	PUNC
+4
+# The Hindu
+# The state government launched a new health insurance scheme.
+1	The	amod
+2	state	amod
+3	government	nsubj
+4	launched	V
+5	a	amod
+6	new	amod
+7	health	amod
+8	insurance	amod
+9	scheme	dobj
+10	.	PUNC
+5
+# BBC News
+# Climate change is affecting the migration patterns of birds.
+1	Climate	amod
+2	change	nsubj
+3	is	V
+4	affecting	V
+5	the	amod
+6	migration	amod
+7	patterns	dobj
+8	of	-
+9	birds	dobj
+10	.	PUNC
+6
+# Reuters
+# Inflation data suggests a cooling trend in the economy.
+1	Inflation	amod
+2	data	amod
+3	suggests	nsubj
+4	a	amod
+5	cooling	V
+6	trend	dobj
+7	in	-
+8	the	amod
+9	economy	nmod
+10	.	PUNC
+7
+# The Hindu
+# Students participated in a large-scale tree planting drive.
+1	Students	nsubj
+2	participated	V
+3	in	-
+4	a	amod
+5	large-scale	nmod
+6	tree	dobj
+7	planting	V
+8	drive	amod
+9	.	PUNC
+8
+# BBC News
+# Digital banking has become the preferred choice for many.
+1	Digital	amod
+2	banking	V
+3	has	V
+4	become	dobj
+5	the	amod
+6	preferred	V
+7	choice	dobj
+8	for	-
+9	many	iobj
+10	.	PUNC
+9
+# Reuters
+# Regional tensions have impacted the local shipping routes.
+1	Regional	amod
+2	tensions	nsubj
+3	have	V
+4	impacted	V
+5	the	amod
+6	local	amod
+7	shipping	V
+8	routes	dobj
+9	.	PUNC
+0
+# The Hindu
+# The literary festival hosted authors from across the world.
+1	The	amod
+2	literary	nsubj
+3	festival	amod
+4	hosted	V
+5	authors	dobj
+6	from	-
+7	across	-
+8	the	amod
+9	world	nmod
+10	.	PUNC
+1
+# BBC News
+# Space telescopes have captured images of distant galaxies.
+1	Space	amod
+2	telescopes	nsubj
+3	have	V
+4	captured	V
+5	images	dobj
+6	of	-
+7	distant	amod
+8	galaxies	dobj
+9	.	PUNC
+2
+# Reuters
+# Foreign direct investment reached a new peak this month.
+1	Foreign	amod
+2	direct	amod
+3	investment	nsubj
+4	reached	V
+5	a	amod
+6	new	amod
+7	peak	dobj
+8	this	amod
+9	month	dobj
+10	.	PUNC
+3
+# The Hindu
+# The metro rail project is expected to finish soon.
+1	The	amod
+2	metro	amod
+3	rail	amod
+4	project	nsubj
+5	is	V
+6	expected	V
+7	to	-
+8	finish	iobj
+9	soon	dobj
+10	.	PUNC
+4
+# BBC News
+# Ocean conservation is vital for maintaining marine biodiversity.
+1	Ocean	amod
+2	conservation	nsubj
+3	is	V
+4	vital	amod
+5	for	-
+6	maintaining	V
+7	marine	amod
+8	biodiversity	dobj
+9	.	PUNC
+5
+# Reuters
+# The pharmaceutical company received approval for its new vaccine.
+1	The	amod
+2	pharmaceutical	amod
+3	company	nsubj
+4	received	V
+5	approval	amod
+6	for	-
+7	its	iobj
+8	new	amod
+9	vaccine	dobj
+10	.	PUNC
+6
+# The Hindu
+# Traditional crafts are being promoted through local cooperatives.
+1	Traditional	amod
+2	crafts	nsubj
+3	are	V
+4	being	V
+5	promoted	V
+6	through	-
+7	local	amod
+8	cooperatives	dobj
+9	.	PUNC
+7
+# BBC News
+# Virtual reality is being used for advanced medical training.
+1	Virtual	amod
+2	reality	nsubj
+3	is	V
+4	being	V
+5	used	V
+6	for	-
+7	advanced	V
+8	medical	amod
+9	training	V
+10	.	PUNC
+8
+# Reuters
+# Gold prices edged higher amid global economic uncertainty.
+1	Gold	amod
+2	prices	nsubj
+3	edged	V
+4	higher	amod
+5	amid	dobj
+6	global	amod
+7	economic	amod
+8	uncertainty	dobj
+9	.	PUNC
+9
+# The Hindu
+# The museum is hosting a special exhibit on coins.
+1	The	amod
+2	museum	nsubj
+3	is	V
+4	hosting	V
+5	a	amod
+6	special	amod
+7	exhibit	dobj
+8	on	-
+9	coins	nmod
+10	.	PUNC
+0
+# BBC News
+# New robotics technology is assisting in complex surgeries.
+1	New	amod
+2	robotics	amod
+3	technology	nsubj
+4	is	V
+5	assisting	V
+6	in	-
+7	complex	nmod
+8	surgeries	dobj
+9	.	PUNC
+1
+# Reuters
+# Corporate earnings reports exceeded analyst expectations this quarter.
+1	Corporate	amod
+2	earnings	amod
+3	reports	nsubj
+4	exceeded	V
+5	analyst	amod
+6	expectations	dobj
+7	this	amod
+8	quarter	amod
+9	.	PUNC
+2
+# The Hindu
+# Organic farming is gaining popularity among young entrepreneurs.
+1	Organic	nsubj
+2	farming	V
+3	is	V
+4	gaining	V
+5	popularity	dobj
+6	among	-
+7	young	amod
+8	entrepreneurs	dobj
+9	.	PUNC
+3
+# BBC News
+# The international film festival opened with a grand ceremony.
+1	The	amod
+2	international	amod
+3	film	nsubj
+4	festival	amod
+5	opened	V
+6	with	-
+7	a	amod
+8	grand	nmod
+9	ceremony	dobj
+10	.	PUNC
+4
+# Reuters
+# Trade deficit narrowed due to a rise in exports.
+1	Trade	amod
+2	deficit	nsubj
+3	narrowed	V
+4	due	dobj
+5	to	-
+6	a	amod
+7	rise	iobj
+8	in	-
+9	exports	nmod
+10	.	PUNC
+5
+# The Hindu
+# Traffic rules have been tightened to improve road safety.
+1	Traffic	amod
+2	rules	nsubj
+3	have	V
+4	been	V
+5	tightened	V
+6	to	-
+7	improve	iobj
+8	road	amod
+9	safety	dobj
+10	.	PUNC
+6
+# BBC News
+# Astronomers observed a rare comet passing near Earth.
+1	Astronomers	nsubj
+2	observed	V
+3	a	amod
+4	rare	amod
+5	comet	dobj
+6	passing	V
+7	near	amod
+8	Earth	dobj
+9	.	PUNC
+7
+# Reuters
+# Global logistics firms are adopting green energy solutions.
+1	Global	amod
+2	logistics	amod
+3	firms	nsubj
+4	are	V
+5	adopting	V
+6	green	amod
+7	energy	amod
+8	solutions	dobj
+9	.	PUNC
+8
+# The Hindu
+# The irrigation project will benefit thousands of farmers.
+1	The	amod
+2	irrigation	amod
+3	project	nsubj
+4	will	V
+5	benefit	amod
+6	thousands	nsubj
+7	of	-
+8	farmers	dobj
+9	.	PUNC
+9
+# BBC News
+# Mental health awareness is increasing in the workplace.
+1	Mental	amod
+2	health	amod
+3	awareness	nsubj
+4	is	V
+5	increasing	V
+6	in	-
+7	the	amod
+8	workplace	nmod
+9	.	PUNC
+0
+# Reuters
+# Small businesses are receiving support through government grants.
+1	Small	amod
+2	businesses	nsubj
+3	are	V
+4	receiving	V
+5	support	dobj
+6	through	-
+7	government	nmod
+8	grants	dobj
+9	.	PUNC
+1
+# The Hindu
+# The state library offers free internet access to students.
+1	The	amod
+2	state	amod
+3	library	amod
+4	offers	nsubj
+5	free	amod
+6	internet	amod
+7	access	nsubj
+8	to	-
+9	students	iobj
+10	.	PUNC
+2
+# BBC News
+# Urban vertical gardens are helping reduce city pollution.
+1	Urban	nsubj
+2	vertical	amod
+3	gardens	nsubj
+4	are	V
+5	helping	V
+6	reduce	amod
+7	city	amod
+8	pollution	dobj
+9	.	PUNC
+3
+# Reuters
+# The steel industry reported a surge in global demand.
+1	The	amod
+2	steel	amod
+3	industry	nsubj
+4	reported	V
+5	a	amod
+6	surge	dobj
+7	in	-
+8	global	amod
+9	demand	dobj
+10	.	PUNC
+4
+# The Hindu
+# Community kitchens provided meals to those in need.
+1	Community	amod
+2	kitchens	nsubj
+3	provided	V
+4	meals	dobj
+5	to	-
+6	those	amod
+7	in	-
+8	need	V
+9	.	PUNC
+5
+# BBC News
+# Scientists are studying the effects of microplastics on fish.
+1	Scientists	nsubj
+2	are	V
+3	studying	V
+4	the	amod
+5	effects	dobj
+6	of	-
+7	microplastics	dobj
+8	on	-
+9	fish	nmod
+10	.	PUNC
+6
+# Reuters
+# The semiconductor shortage is finally beginning to ease.
+1	The	amod
+2	semiconductor	amod
+3	shortage	nsubj
+4	is	V
+5	finally	advmod
+6	beginning	V
+7	to	-
+8	ease	iobj
+9	.	PUNC
+7
+# The Hindu
+# Coastal erosion is threatening several historic seaside villages.
+1	Coastal	amod
+2	erosion	nsubj
+3	is	V
+4	threatening	V
+5	several	amod
+6	historic	amod
+7	seaside	amod
+8	villages	dobj
+9	.	PUNC
+8
+# BBC News
+# New educational software helps children learn math easily.
+1	New	amod
+2	educational	amod
+3	software	amod
+4	helps	amod
+5	children	amod
+6	learn	amod
+7	math	nsubj
+8	easily	advmod
+9	.	PUNC
+9
+# Reuters
+# Consumer confidence hit a one-year high this month.
+1	Consumer	amod
+2	confidence	nsubj
+3	hit	V
+4	a	amod
+5	one-year	dobj
+6	high	amod
+7	this	amod
+8	month	dobj
+9	.	PUNC
+0
+# The Hindu
+# The national park reopened after successful habitat restoration.
+1	The	amod
+2	national	amod
+3	park	nsubj
+4	reopened	V
+5	after	-
+6	successful	amod
+7	habitat	amod
+8	restoration	dobj
+9	.	PUNC
+1
+# BBC News
+# Modern art galleries are focusing on interactive installations.
+1	Modern	amod
+2	art	amod
+3	galleries	nsubj
+4	are	V
+5	focusing	V
+6	on	-
+7	interactive	amod
+8	installations	dobj
+9	.	PUNC
+2
+# Reuters
+# Debt restructuring plans were approved by the creditors.
+1	Debt	nsubj
+2	restructuring	V
+3	plans	dobj
+4	were	V
+5	approved	V
+6	by	-
+7	the	amod
+8	creditors	nmod
+9	.	PUNC
+3
+# The Hindu
+# Farmers are adopting smart sensors for water management.
+1	Farmers	nsubj
+2	are	V
+3	adopting	V
+4	smart	amod
+5	sensors	dobj
+6	for	-
+7	water	amod
+8	management	dobj
+9	.	PUNC
+4
+# BBC News
+# Space debris is a growing concern for satellite safety.
+1	Space	amod
+2	debris	nsubj
+3	is	V
+4	a	amod
+5	growing	V
+6	concern	dobj
+7	for	-
+8	satellite	iobj
+9	safety	dobj
+10	.	PUNC
+5
+# Reuters
+# The hospitality sector is seeing a rapid recovery.
+1	The	amod
+2	hospitality	amod
+3	sector	nsubj
+4	is	V
+5	seeing	V
+6	a	amod
+7	rapid	amod
+8	recovery	dobj
+9	.	PUNC
+6
+# The Hindu
+# Local artisans are showcasing their work at the fair.
+1	Local	amod
+2	artisans	nsubj
+3	are	V
+4	showcasing	V
+5	their	amod
+6	work	dobj
+7	at	-
+8	the	amod
+9	fair	nmod
+10	.	PUNC
+7
+# BBC News
+# Genomic research is providing insights into rare diseases.
+1	Genomic	amod
+2	research	nsubj
+3	is	V
+4	providing	V
+5	insights	dobj
+6	into	-
+7	rare	nmod
+8	diseases	dobj
+9	.	PUNC
+8
+# Reuters
+# Commodity prices fluctuate due to changing global demand.
+1	Commodity	amod
+2	prices	amod
+3	fluctuate	amod
+4	due	nsubj
+5	to	-
+6	changing	V
+7	global	amod
+8	demand	dobj
+9	.	PUNC
+9
+# The Hindu
+# The city council approved the new waste management plan.
+1	The	amod
+2	city	amod
+3	council	nsubj
+4	approved	V
+5	the	amod
+6	new	amod
+7	waste	amod
+8	management	amod
+9	plan	dobj
+10	.	PUNC
+0
+# BBC News
+# Public libraries are evolving into modern community hubs.
+1	Public	amod
+2	libraries	nsubj
+3	are	V
+4	evolving	V
+5	into	-
+6	modern	nmod
+7	community	amod
+8	hubs	dobj
+9	.	PUNC
+1
+# Reuters
+# Foreign exchange reserves reached a comfortable level recently.
+1	Foreign	amod
+2	exchange	amod
+3	reserves	nsubj
+4	reached	V
+5	a	amod
+6	comfortable	amod
+7	level	dobj
+8	recently	advmod
+9	.	PUNC
+2
+# The Hindu
+# Youth volunteers are leading the urban cleanup drive.
+1	Youth	amod
+2	volunteers	nsubj
+3	are	V
+4	leading	V
+5	the	amod
+6	urban	amod
+7	cleanup	dobj
+8	drive	amod
+9	.	PUNC
+3
+# BBC News
+# Advancements in battery technology are aiding electric vehicles.
+1	Advancements	nsubj
+2	in	-
+3	battery	nmod
+4	technology	nsubj
+5	are	V
+6	aiding	V
+7	electric	amod
+8	vehicles	dobj
+9	.	PUNC
+4
+# Reuters
+# The automotive market is shifting toward sustainable models.
+1	The	amod
+2	automotive	amod
+3	market	nsubj
+4	is	V
+5	shifting	V
+6	toward	dobj
+7	sustainable	amod
+8	models	dobj
+9	.	PUNC
+5
+# The Hindu
+# The heritage walk covers ten historical monuments today.
+1	The	amod
+2	heritage	amod
+3	walk	amod
+4	covers	amod
+5	ten	nsubj
+6	historical	amod
+7	monuments	amod
+8	today	nsubj
+9	.	PUNC
+6
+# BBC News
+# High-speed trains are being tested on new routes.
+1	High-speed	V
+2	trains	dobj
+3	are	V
+4	being	V
+5	tested	V
+6	on	-
+7	new	amod
+8	routes	dobj
+9	.	PUNC
+7
+# Reuters
+# Tax revenue increased following the new policy changes.
+1	Tax	amod
+2	revenue	nsubj
+3	increased	V
+4	following	V
+5	the	amod
+6	new	amod
+7	policy	amod
+8	changes	dobj
+9	.	PUNC
+8
+# The Hindu
+# Rural schools received new computer labs this month.
+1	Rural	amod
+2	schools	nsubj
+3	received	V
+4	new	amod
+5	computer	amod
+6	labs	dobj
+7	this	amod
+8	month	dobj
+9	.	PUNC
+9
+# BBC News
+# Deep-sea exploration revealed amazing volcanic vent ecosystems.
+1	Deep-sea	amod
+2	exploration	nsubj
+3	revealed	V
+4	amazing	V
+5	volcanic	amod
+6	vent	amod
+7	ecosystems	dobj
+8	.	PUNC
+0
+# Reuters
+# Retail inflation dropped to a six-month low recently.
+1	Retail	amod
+2	inflation	nsubj
+3	dropped	V
+4	to	-
+5	a	amod
+6	six-month	iobj
+7	low	amod
+8	recently	advmod
+9	.	PUNC
+1
+# The Hindu
+# The food festival features cuisines from various states.
+1	The	amod
+2	food	nsubj
+3	festival	amod
+4	features	amod
+5	cuisines	nsubj
+6	from	-
+7	various	amod
+8	states	nsubj
+9	.	PUNC
+2
+# BBC News
+# Cybersecurity threats are becoming more sophisticated each year.
+1	Cybersecurity	amod
+2	threats	nsubj
+3	are	V
+4	becoming	V
+5	more	dobj
+6	sophisticated	V
+7	each	amod
+8	year	dobj
+9	.	PUNC
+3
+# Reuters
+# Commercial real estate demand is picking up slowly.
+1	Commercial	amod
+2	real	amod
+3	estate	amod
+4	demand	nsubj
+5	is	V
+6	picking	V
+7	up	dobj
+8	slowly	advmod
+9	.	PUNC
+4
+# The Hindu
+# Vocational training centers help youth find better jobs.
+1	Vocational	amod
+2	training	V
+3	centers	amod
+4	help	amod
+5	youth	amod
+6	find	dobj
+7	better	amod
+8	jobs	dobj
+9	.	PUNC
+5
+# BBC News
+# Scientists found a way to recycle plastic efficiently.
+1	Scientists	nsubj
+2	found	V
+3	a	amod
+4	way	dobj
+5	to	-
+6	recycle	iobj
+7	plastic	dobj
+8	efficiently	advmod
+9	.	PUNC
+6
+# Reuters
+# Major banks reported stable profits for the half-year.
+1	Major	amod
+2	banks	nsubj
+3	reported	V
+4	stable	amod
+5	profits	dobj
+6	for	-
+7	the	amod
+8	half-year	iobj
+9	.	PUNC
+7
+# The Hindu
+# The literary award went to a debut novelist.
+1	The	amod
+2	literary	amod
+3	award	nsubj
+4	went	V
+5	to	-
+6	a	amod
+7	debut	iobj
+8	novelist	dobj
+9	.	PUNC
+8
+# BBC News
+# New telescopes will help us understand black holes.
+1	New	amod
+2	telescopes	nsubj
+3	will	V
+4	help	amod
+5	us	amod
+6	understand	amod
+7	black	amod
+8	holes	nsubj
+9	.	PUNC
+9
+# Reuters
+# The construction sector is facing a labor shortage.
+1	The	amod
+2	construction	amod
+3	sector	nsubj
+4	is	V
+5	facing	V
+6	a	amod
+7	labor	amod
+8	shortage	dobj
+9	.	PUNC
+00
+# The Hindu
+# The flower show at the park was beautiful.
+1	The	amod
+2	flower	amod
+3	show	nsubj
+4	at	-
+5	the	amod
+6	park	nmod
+7	was	V
+8	beautiful	amod
+9	.	PUNC
+01
+# The Guardian
+# New research suggests that urban green spaces improve mental health.
+1	New	amod
+2	research	amod
+3	suggests	nsubj
+4	that	amod
+5	urban	amod
+6	green	amod
+7	spaces	amod
+8	improve	nsubj
+9	mental	amod
+10	health	nsubj
+11	.	PUNC
+02
+# The New York Times
+# The central bank raised interest rates to combat rising inflation.
+1	The	amod
+2	central	amod
+3	bank	nsubj
+4	raised	V
+5	interest	amod
+6	rates	dobj
+7	to	-
+8	combat	iobj
+9	rising	V
+10	inflation	dobj
+11	.	PUNC
+03
+# Al Jazeera
+# Peace talks between the two nations ended without an agreement.
+1	Peace	amod
+2	talks	nsubj
+3	between	-
+4	the	amod
+5	two	amod
+6	nations	nsubj
+7	ended	V
+8	without	-
+9	an	amod
+10	agreement	dobj
+11	.	PUNC
+04
+# The Hindu
+# The state government launched a program to clean local rivers.
+1	The	amod
+2	state	amod
+3	government	nsubj
+4	launched	V
+5	a	amod
+6	program	dobj
+7	to	-
+8	clean	iobj
+9	local	amod
+10	rivers	dobj
+11	.	PUNC
+05
+# BBC News
+# Archaeologists discovered ancient ruins near the coastal city.
+1	Archaeologists	nsubj
+2	discovered	V
+3	ancient	amod
+4	ruins	amod
+5	near	dobj
+6	the	amod
+7	coastal	amod
+8	city	dobj
+9	.	PUNC
+06
+# Reuters
+# Global markets stabilized after a week of intense volatility.
+1	Global	amod
+2	markets	nsubj
+3	stabilized	V
+4	after	-
+5	a	amod
+6	week	nmod
+7	of	-
+8	intense	amod
+9	volatility	dobj
+10	.	PUNC
+07
+# The Guardian
+# Scientists are tracking the migration patterns of arctic birds.
+1	Scientists	nsubj
+2	are	V
+3	tracking	V
+4	the	amod
+5	migration	amod
+6	patterns	dobj
+7	of	-
+8	arctic	amod
+9	birds	dobj
+10	.	PUNC
+08
+# The New York Times
+# Technology companies face new regulations regarding user data privacy.
+1	Technology	amod
+2	companies	amod
+3	face	nsubj
+4	new	amod
+5	regulations	nsubj
+6	regarding	V
+7	user	amod
+8	data	amod
+9	privacy	dobj
+10	.	PUNC
+09
+# Al Jazeera
+# Humanitarian aid reached the remote mountainous region today.
+1	Humanitarian	amod
+2	aid	nsubj
+3	reached	V
+4	the	amod
+5	remote	dobj
+6	mountainous	amod
+7	region	amod
+8	today	dobj
+9	.	PUNC
+10
+# The Hindu
+# Farmers are shifting toward organic fertilizers to improve soil.
+1	Farmers	nsubj
+2	are	V
+3	shifting	V
+4	toward	amod
+5	organic	amod
+6	fertilizers	dobj
+7	to	-
+8	improve	iobj
+9	soil	dobj
+10	.	PUNC
+11
+# BBC News
+# The international space station completed its latest orbital maneuver.
+1	The	amod
+2	international	amod
+3	space	amod
+4	station	nsubj
+5	completed	V
+6	its	dobj
+7	latest	amod
+8	orbital	amod
+9	maneuver	amod
+10	.	PUNC
+12
+# Reuters
+# Oil production increased slightly during the last quarter.
+1	Oil	amod
+2	production	nsubj
+3	increased	V
+4	slightly	advmod
+5	during	-
+6	the	amod
+7	last	amod
+8	quarter	amod
+9	.	PUNC
+13
+# The Guardian
+# Public transport usage in the city reached pre-pandemic levels.
+1	Public	amod
+2	transport	amod
+3	usage	nsubj
+4	in	-
+5	the	amod
+6	city	nmod
+7	reached	V
+8	pre-pandemic	amod
+9	levels	dobj
+10	.	PUNC
+14
+# The New York Times
+# A new art exhibit explores the history of digital expression.
+1	A	amod
+2	new	amod
+3	art	amod
+4	exhibit	amod
+5	explores	nsubj
+6	the	amod
+7	history	nsubj
+8	of	-
+9	digital	amod
+10	expression	nsubj
+11	.	PUNC
+15
+# Al Jazeera
+# The refugee crisis requires a coordinated global response.
+1	The	amod
+2	refugee	amod
+3	crisis	amod
+4	requires	nsubj
+5	a	amod
+6	coordinated	V
+7	global	amod
+8	response	dobj
+9	.	PUNC
+16
+# The Hindu
+# Local schools introduced coding classes for primary students.
+1	Local	amod
+2	schools	nsubj
+3	introduced	V
+4	coding	V
+5	classes	dobj
+6	for	-
+7	primary	iobj
+8	students	dobj
+9	.	PUNC
+17
+# BBC News
+# Renewable energy sources now provide half of the grid power.
+1	Renewable	amod
+2	energy	amod
+3	sources	amod
+4	now	amod
+5	provide	amod
+6	half	nsubj
+7	of	-
+8	the	amod
+9	grid	dobj
+10	power	amod
+11	.	PUNC
+18
+# Reuters
+# The manufacturing sector reported a growth in export orders.
+1	The	amod
+2	manufacturing	V
+3	sector	dobj
+4	reported	V
+5	a	amod
+6	growth	dobj
+7	in	-
+8	export	nmod
+9	orders	dobj
+10	.	PUNC
+19
+# The Guardian
+# Extreme weather events are becoming more frequent and severe.
+1	Extreme	nsubj
+2	weather	amod
+3	events	nsubj
+4	are	V
+5	becoming	V
+6	more	amod
+7	frequent	amod
+8	and	amod
+9	severe	dobj
+10	.	PUNC
+20
+# The New York Times
+# The supreme court issued a landmark ruling on voting rights.
+1	The	amod
+2	supreme	amod
+3	court	nsubj
+4	issued	V
+5	a	amod
+6	landmark	dobj
+7	ruling	V
+8	on	-
+9	voting	V
+10	rights	dobj
+11	.	PUNC
+21
+# Al Jazeera
+# Regional leaders met to discuss a new trade partnership.
+1	Regional	amod
+2	leaders	nsubj
+3	met	V
+4	to	-
+5	discuss	iobj
+6	a	amod
+7	new	amod
+8	trade	amod
+9	partnership	dobj
+10	.	PUNC
+22
+# The Hindu
+# Wildlife officials spotted a rare leopard in the national park.
+1	Wildlife	amod
+2	officials	nsubj
+3	spotted	V
+4	a	amod
+5	rare	amod
+6	leopard	dobj
+7	in	-
+8	the	amod
+9	national	amod
+10	park	dobj
+11	.	PUNC
+23
+# BBC News
+# Cybersecurity experts warn of a new phishing campaign.
+1	Cybersecurity	amod
+2	experts	amod
+3	warn	nsubj
+4	of	-
+5	a	amod
+6	new	amod
+7	phishing	V
+8	campaign	dobj
+9	.	PUNC
+24
+# Reuters
+# Retail sales rose during the annual holiday shopping season.
+1	Retail	amod
+2	sales	amod
+3	rose	nsubj
+4	during	-
+5	the	amod
+6	annual	amod
+7	holiday	nsubj
+8	shopping	V
+9	season	dobj
+10	.	PUNC
+25
+# The Guardian
+# Medical researchers developed a more efficient diagnostic test.
+1	Medical	amod
+2	researchers	nsubj
+3	developed	V
+4	a	amod
+5	more	amod
+6	efficient	amod
+7	diagnostic	dobj
+8	test	amod
+9	.	PUNC
+26
+# The New York Times
+# Small businesses struggle with rising costs of raw materials.
+1	Small	amod
+2	businesses	amod
+3	struggle	nsubj
+4	with	-
+5	rising	V
+6	costs	dobj
+7	of	-
+8	raw	amod
+9	materials	dobj
+10	.	PUNC
+27
+# Al Jazeera
+# Protests broke out in the capital over high fuel prices.
+1	Protests	amod
+2	broke	amod
+3	out	nsubj
+4	in	-
+5	the	amod
+6	capital	amod
+7	over	-
+8	high	amod
+9	fuel	amod
+10	prices	nsubj
+11	.	PUNC
+28
+# The Hindu
+# The city library added thousands of e-books to its collection.
+1	The	amod
+2	city	amod
+3	library	nsubj
+4	added	V
+5	thousands	dobj
+6	of	-
+7	e-books	dobj
+8	to	-
+9	its	iobj
+10	collection	dobj
+11	.	PUNC
+29
+# BBC News
+# Exploring the deep ocean reveals unique and bioluminescent creatures.
+1	Exploring	V
+2	the	amod
+3	deep	amod
+4	ocean	amod
+5	reveals	amod
+6	unique	amod
+7	and	amod
+8	bioluminescent	amod
+9	creatures	dobj
+10	.	PUNC
+30
+# Reuters
+# The central bank kept the interest rates unchanged this month.
+1	The	amod
+2	central	amod
+3	bank	nsubj
+4	kept	V
+5	the	amod
+6	interest	amod
+7	rates	dobj
+8	unchanged	V
+9	this	amod
+10	month	dobj
+11	.	PUNC
+31
+# The Guardian
+# Educators emphasize the importance of critical thinking in schools.
+1	Educators	amod
+2	emphasize	nsubj
+3	the	amod
+4	importance	nsubj
+5	of	-
+6	critical	amod
+7	thinking	V
+8	in	-
+9	schools	nmod
+10	.	PUNC
+32
+# The New York Times
+# Silicon Valley startups are pivoting toward sustainable energy solutions.
+1	Silicon	amod
+2	Valley	amod
+3	startups	nsubj
+4	are	V
+5	pivoting	V
+6	toward	dobj
+7	sustainable	amod
+8	energy	amod
+9	solutions	dobj
+10	.	PUNC
+33
+# Al Jazeera
+# Food shortages continue to affect millions in the conflict zone.
+1	Food	amod
+2	shortages	amod
+3	continue	nsubj
+4	to	-
+5	affect	iobj
+6	millions	nsubj
+7	in	-
+8	the	amod
+9	conflict	nmod
+10	zone	nsubj
+11	.	PUNC
+34
+# The Hindu
+# Yoga festivals attract thousands of participants to the river bank.
+1	Yoga	amod
+2	festivals	amod
+3	attract	amod
+4	thousands	nsubj
+5	of	-
+6	participants	dobj
+7	to	-
+8	the	amod
+9	river	amod
+10	bank	nsubj
+11	.	PUNC
+35
+# BBC News
+# New laws aim to reduce plastic waste in the ocean.
+1	New	amod
+2	laws	amod
+3	aim	nsubj
+4	to	-
+5	reduce	iobj
+6	plastic	amod
+7	waste	nsubj
+8	in	-
+9	the	amod
+10	ocean	nmod
+11	.	PUNC
+36
+# Reuters
+# Global logistics chains are slowly returning to normal operation.
+1	Global	amod
+2	logistics	amod
+3	chains	nsubj
+4	are	V
+5	slowly	advmod
+6	returning	V
+7	to	-
+8	normal	amod
+9	operation	dobj
+10	.	PUNC
+37
+# The Guardian
+# Solar power installation costs have dropped by forty percent.
+1	Solar	nsubj
+2	power	amod
+3	installation	amod
+4	costs	nsubj
+5	have	V
+6	dropped	V
+7	by	-
+8	forty	nmod
+9	percent	dobj
+10	.	PUNC
+38
+# The New York Times
+# Broadway theaters reported record-breaking attendance numbers this summer.
+1	Broadway	amod
+2	theaters	nsubj
+3	reported	V
+4	record-breaking	V
+5	attendance	amod
+6	numbers	dobj
+7	this	amod
+8	summer	amod
+9	.	PUNC
+39
+# Al Jazeera
+# Diplomatic efforts intensified to prevent further military escalation.
+1	Diplomatic	amod
+2	efforts	nsubj
+3	intensified	V
+4	to	-
+5	prevent	iobj
+6	further	amod
+7	military	amod
+8	escalation	dobj
+9	.	PUNC
+40
+# The Hindu
+# The heritage building underwent extensive restoration work last year.
+1	The	amod
+2	heritage	nsubj
+3	building	V
+4	underwent	dobj
+5	extensive	amod
+6	restoration	amod
+7	work	dobj
+8	last	amod
+9	year	dobj
+10	.	PUNC
+41
+# BBC News
+# Artificial intelligence can now generate realistic human speech.
+1	Artificial	amod
+2	intelligence	nsubj
+3	can	V
+4	now	amod
+5	generate	amod
+6	realistic	nsubj
+7	human	amod
+8	speech	nsubj
+9	.	PUNC
+42
+# Reuters
+# Economic indicators point toward a steady recovery this year.
+1	Economic	amod
+2	indicators	amod
+3	point	amod
+4	toward	nsubj
+5	a	amod
+6	steady	amod
+7	recovery	nsubj
+8	this	amod
+9	year	nsubj
+10	.	PUNC
+43
+# The Guardian
+# Biodiversity loss remains a significant threat to global ecosystems.
+1	Biodiversity	amod
+2	loss	amod
+3	remains	nsubj
+4	a	amod
+5	significant	amod
+6	threat	nsubj
+7	to	-
+8	global	amod
+9	ecosystems	nsubj
+10	.	PUNC
+44
+# The New York Times
+# NASA launched a mission to explore an icy moon.
+1	NASA	nsubj
+2	launched	V
+3	a	amod
+4	mission	dobj
+5	to	-
+6	explore	iobj
+7	an	amod
+8	icy	amod
+9	moon	dobj
+10	.	PUNC
+45
+# Al Jazeera
+# International observers arrived to monitor the national elections.
+1	International	amod
+2	observers	nsubj
+3	arrived	V
+4	to	-
+5	monitor	iobj
+6	the	amod
+7	national	amod
+8	elections	dobj
+9	.	PUNC
+46
+# The Hindu
+# Traditional weavers are using social media to sell products.
+1	Traditional	amod
+2	weavers	nsubj
+3	are	V
+4	using	V
+5	social	amod
+6	media	dobj
+7	to	-
+8	sell	iobj
+9	products	dobj
+10	.	PUNC
+47
+# BBC News
+# Virtual reality headsets are becoming lighter and more affordable.
+1	Virtual	amod
+2	reality	amod
+3	headsets	nsubj
+4	are	V
+5	becoming	V
+6	lighter	amod
+7	and	amod
+8	more	dobj
+9	affordable	amod
+10	.	PUNC
+48
+# Reuters
+# Gold prices hit a record high amid economic uncertainty.
+1	Gold	amod
+2	prices	nsubj
+3	hit	V
+4	a	amod
+5	record	amod
+6	high	amod
+7	amid	amod
+8	economic	amod
+9	uncertainty	dobj
+10	.	PUNC
+49
+# The Guardian
+# Carbon emissions must drop significantly to reach climate goals.
+1	Carbon	amod
+2	emissions	nsubj
+3	must	V
+4	drop	nsubj
+5	significantly	advmod
+6	to	-
+7	reach	iobj
+8	climate	amod
+9	goals	nsubj
+10	.	PUNC
+50
+# The New York Times
+# Streaming platforms are investing more in original international content.
+1	Streaming	V
+2	platforms	dobj
+3	are	V
+4	investing	V
+5	more	dobj
+6	in	-
+7	original	amod
+8	international	amod
+9	content	dobj
+10	.	PUNC
+51
+# Al Jazeera
+# The ceasefire agreement brought temporary peace to the region.
+1	The	amod
+2	ceasefire	amod
+3	agreement	nsubj
+4	brought	V
+5	temporary	amod
+6	peace	dobj
+7	to	-
+8	the	amod
+9	region	iobj
+10	.	PUNC
+52
+# The Hindu
+# Public parks are being renovated to include more playgrounds.
+1	The	amod
+2	Hindu	nsubj
+3	Public	amod
+4	parks	nsubj
+5	are	V
+6	being	V
+7	renovated	V
+8	to	-
+9	include	iobj
+10	more	amod
+11	playgrounds	dobj
+12	.	PUNC
+53
+# BBC News
+# Electric scooters are changing how people navigate urban centers.
+1	Electric	amod
+2	scooters	nsubj
+3	are	V
+4	changing	V
+5	how	amod
+6	people	amod
+7	navigate	amod
+8	urban	amod
+9	centers	dobj
+10	.	PUNC
+54
+# Reuters
+# The trade deficit narrowed as electronics exports increased sharply.
+1	The	amod
+2	trade	amod
+3	deficit	nsubj
+4	narrowed	V
+5	as	amod
+6	electronics	amod
+7	exports	dobj
+8	increased	V
+9	sharply	advmod
+10	.	PUNC
+55
+# The Guardian
+# Urban planners suggest building more bicycle lanes for safety.
+1	Urban	amod
+2	planners	nsubj
+3	suggest	amod
+4	building	V
+5	more	amod
+6	bicycle	amod
+7	lanes	dobj
+8	for	-
+9	safety	iobj
+10	.	PUNC
+56
+# The New York Times
+# High inflation rates are impacting consumer spending on luxury items.
+1	High	amod
+2	inflation	amod
+3	rates	nsubj
+4	are	V
+5	impacting	V
+6	consumer	amod
+7	spending	V
+8	on	-
+9	luxury	nmod
+10	items	dobj
+11	.	PUNC
+57
+# Al Jazeera
+# Military exercises near the border caused regional diplomatic concern.
+1	Military	amod
+2	exercises	amod
+3	near	nsubj
+4	the	amod
+5	border	amod
+6	caused	V
+7	regional	amod
+8	diplomatic	amod
+9	concern	dobj
+10	.	PUNC
+58
+# The Hindu
+# The film festival showcased independent movies from across Asia.
+1	The	amod
+2	film	nsubj
+3	festival	amod
+4	showcased	V
+5	independent	amod
+6	movies	dobj
+7	from	-
+8	across	-
+9	Asia	nmod
+10	.	PUNC
+59
+# BBC News
+# Modern medicine can successfully treat many previously fatal conditions.
+1	Modern	amod
+2	medicine	nsubj
+3	can	V
+4	successfully	advmod
+5	treat	amod
+6	many	nsubj
+7	previously	advmod
+8	fatal	amod
+9	conditions	nsubj
+10	.	PUNC
+60
+# Reuters
+# Construction activity increased following the approval of new projects.
+1	Construction	amod
+2	activity	nsubj
+3	increased	V
+4	following	V
+5	the	amod
+6	approval	amod
+7	of	-
+8	new	amod
+9	projects	dobj
+10	.	PUNC
+61
+# The Guardian
+# Sustainable fashion brands use recycled materials for their clothing.
+1	Sustainable	amod
+2	fashion	amod
+3	brands	amod
+4	use	nsubj
+5	recycled	V
+6	materials	dobj
+7	for	-
+8	their	iobj
+9	clothing	V
+10	.	PUNC
+62
+# The New York Times
+# A new biography details the secret life of the author.
+1	A	amod
+2	new	amod
+3	biography	amod
+4	details	nsubj
+5	the	amod
+6	secret	amod
+7	life	nsubj
+8	of	-
+9	the	amod
+10	author	dobj
+11	.	PUNC
+63
+# Al Jazeera
+# Thousands gathered for the annual pilgrimage to the holy site.
+1	Thousands	nsubj
+2	gathered	V
+3	for	-
+4	the	amod
+5	annual	amod
+6	pilgrimage	dobj
+7	to	-
+8	the	amod
+9	holy	advmod
+10	site	dobj
+11	.	PUNC
+64
+# The Hindu
+# The metro train service was extended to the airport.
+1	The	amod
+2	metro	amod
+3	train	amod
+4	service	nsubj
+5	was	V
+6	extended	V
+7	to	-
+8	the	amod
+9	airport	iobj
+10	.	PUNC
+65
+# BBC News
+# Robots are being deployed to clean hazardous waste sites.
+1	Robots	nsubj
+2	are	V
+3	being	V
+4	deployed	V
+5	to	-
+6	clean	iobj
+7	hazardous	amod
+8	waste	amod
+9	sites	dobj
+10	.	PUNC
+66
+# Reuters
+# The central bank keeps a close watch on inflation.
+1	The	amod
+2	central	amod
+3	bank	amod
+4	keeps	nsubj
+5	a	amod
+6	close	amod
+7	watch	nsubj
+8	on	-
+9	inflation	nmod
+10	.	PUNC
+67
+# The Guardian
+# Planting trees in cities helps lower the local temperature.
+1	Planting	V
+2	trees	dobj
+3	in	-
+4	cities	nmod
+5	helps	dobj
+6	lower	amod
+7	the	amod
+8	local	amod
+9	temperature	dobj
+10	.	PUNC
+68
+# The New York Times
+# A major software update improved the battery life of phones.
+1	A	amod
+2	major	amod
+3	software	amod
+4	update	nsubj
+5	improved	V
+6	the	amod
+7	battery	amod
+8	life	dobj
+9	of	-
+10	phones	dobj
+11	.	PUNC
+69
+# Al Jazeera
+# Tensions rise over disputed territory in the northern region.
+1	Tensions	amod
+2	rise	nsubj
+3	over	-
+4	disputed	V
+5	territory	dobj
+6	in	-
+7	the	amod
+8	northern	amod
+9	region	dobj
+10	.	PUNC
+70
+# The Hindu
+# Fresh fruits and vegetables are sold at the local market.
+1	Fresh	amod
+2	fruits	amod
+3	and	amod
+4	vegetables	nsubj
+5	are	V
+6	sold	nsubj
+7	at	-
+8	the	amod
+9	local	amod
+10	market	nsubj
+11	.	PUNC
+71
+# BBC News
+# Exploring the ruins provided clues about the ancient culture.
+1	Exploring	V
+2	the	amod
+3	ruins	dobj
+4	provided	V
+5	clues	dobj
+6	about	-
+7	the	amod
+8	ancient	amod
+9	culture	dobj
+10	.	PUNC
+72
+# Reuters
+# Consumer prices rose faster than expected in the last month.
+1	Consumer	amod
+2	prices	amod
+3	rose	nsubj
+4	faster	amod
+5	than	nsubj
+6	expected	V
+7	in	-
+8	the	amod
+9	last	amod
+10	month	dobj
+11	.	PUNC
+73
+# The Guardian
+# Protecting endangered species requires global cooperation and strong laws.
+1	Protecting	V
+2	endangered	V
+3	species	amod
+4	requires	dobj
+5	global	amod
+6	cooperation	amod
+7	and	dobj
+8	strong	amod
+9	laws	dobj
+10	.	PUNC
+74
+# The New York Times
+# The company announced a new line of smart home devices.
+1	The	amod
+2	company	nsubj
+3	announced	V
+4	a	amod
+5	new	amod
+6	line	dobj
+7	of	-
+8	smart	amod
+9	home	amod
+10	devices	dobj
+11	.	PUNC
+75
+# Al Jazeera
+# Heavy snowfall blocked major highways in the mountain pass.
+1	Heavy	amod
+2	snowfall	nsubj
+3	blocked	V
+4	major	amod
+5	highways	dobj
+6	in	-
+7	the	amod
+8	mountain	nmod
+9	pass	dobj
+10	.	PUNC
+76
+# The Hindu
+# The school building was repainted before the new semester started.
+1	The	amod
+2	school	nsubj
+3	building	V
+4	was	V
+5	repainted	V
+6	before	-
+7	the	amod
+8	new	amod
+9	semester	amod
+10	started	V
+11	.	PUNC
+77
+# BBC News
+# Learning a new language improves memory and cognitive skills.
+1	Learning	V
+2	a	amod
+3	new	amod
+4	language	amod
+5	improves	amod
+6	memory	amod
+7	and	dobj
+8	cognitive	amod
+9	skills	dobj
+10	.	PUNC
+78
+# Reuters
+# Economic growth slowed down due to high energy costs.
+1	Economic	amod
+2	growth	nsubj
+3	slowed	V
+4	down	amod
+5	due	dobj
+6	to	-
+7	high	amod
+8	energy	amod
+9	costs	dobj
+10	.	PUNC
+79
+# The Guardian
+# Reducing carbon footprints is essential for a sustainable future.
+1	Reducing	V
+2	carbon	amod
+3	footprints	dobj
+4	is	V
+5	essential	amod
+6	for	-
+7	a	amod
+8	sustainable	amod
+9	future	dobj
+10	.	PUNC
+80
+# The New York Times
+# The play received glowing reviews from theater critics yesterday.
+1	The	amod
+2	play	nsubj
+3	received	V
+4	glowing	V
+5	reviews	dobj
+6	from	-
+7	theater	amod
+8	critics	amod
+9	yesterday	dobj
+10	.	PUNC
+81
+# Al Jazeera
+# Refugees received emergency medical care at the border camp.
+1	Refugees	nsubj
+2	received	V
+3	emergency	dobj
+4	medical	amod
+5	care	dobj
+6	at	-
+7	the	amod
+8	border	amod
+9	camp	dobj
+10	.	PUNC
+82
+# The Hindu
+# Traffic congestion in the city remains a major problem.
+1	Traffic	amod
+2	congestion	nsubj
+3	in	-
+4	the	amod
+5	city	nmod
+6	remains	nsubj
+7	a	amod
+8	major	amod
+9	problem	nsubj
+10	.	PUNC
+83
+# BBC News
+# Modern architects focus on energy efficiency and natural light.
+1	Modern	amod
+2	architects	amod
+3	focus	nsubj
+4	on	-
+5	energy	nmod
+6	efficiency	amod
+7	and	nsubj
+8	natural	amod
+9	light	nsubj
+10	.	PUNC
+84
+# Reuters
+# The stock market reacted positively to the merger news.
+1	The	amod
+2	stock	amod
+3	market	nsubj
+4	reacted	V
+5	positively	advmod
+6	to	-
+7	the	amod
+8	merger	amod
+9	news	dobj
+10	.	PUNC
+85
+# The Guardian
+# Oceans play a crucial role in regulating the global climate.
+1	Oceans	amod
+2	play	nsubj
+3	a	amod
+4	crucial	amod
+5	role	nsubj
+6	in	-
+7	regulating	V
+8	the	amod
+9	global	amod
+10	climate	dobj
+11	.	PUNC
+86
+# The New York Times
+# A new smartphone model was launched with a better camera.
+1	A	amod
+2	new	amod
+3	smartphone	amod
+4	model	nsubj
+5	was	V
+6	launched	V
+7	with	-
+8	a	amod
+9	better	amod
+10	camera	dobj
+11	.	PUNC
+87
+# Al Jazeera
+# Human rights groups called for an independent investigation.
+1	Human	amod
+2	rights	amod
+3	groups	nsubj
+4	called	V
+5	for	-
+6	an	amod
+7	independent	iobj
+8	investigation	dobj
+9	.	PUNC
+88
+# The Hindu
+# Farmers harvested the rice crop after the monsoon ended.
+1	Farmers	nsubj
+2	harvested	V
+3	the	amod
+4	rice	amod
+5	crop	dobj
+6	after	-
+7	the	amod
+8	monsoon	nmod
+9	ended	V
+10	.	PUNC
+89
+# BBC News
+# Watching the sunset over the ocean is a peaceful experience.
+1	Watching	V
+2	the	amod
+3	sunset	dobj
+4	over	-
+5	the	amod
+6	ocean	nmod
+7	is	V
+8	a	amod
+9	peaceful	amod
+10	experience	dobj
+11	.	PUNC
+90
+# Reuters
+# International trade decreased due to new tariff regulations.
+1	International	amod
+2	trade	nsubj
+3	decreased	V
+4	due	dobj
+5	to	-
+6	new	amod
+7	tariff	amod
+8	regulations	dobj
+9	.	PUNC
+91
+# The Guardian
+# Switching to electric cars can help reduce urban air pollution.
+1	Switching	V
+2	to	-
+3	electric	iobj
+4	cars	dobj
+5	can	V
+6	help	amod
+7	reduce	amod
+8	urban	amod
+9	air	amod
+10	pollution	dobj
+11	.	PUNC
+92
+# The New York Times
+# The museum opened a new wing for contemporary art.
+1	The	amod
+2	museum	nsubj
+3	opened	V
+4	a	amod
+5	new	amod
+6	wing	V
+7	for	-
+8	contemporary	iobj
+9	art	dobj
+10	.	PUNC
+93
+# Al Jazeera
+# Military forces were deployed to the flood-affected areas.
+1	Military	amod
+2	forces	nsubj
+3	were	V
+4	deployed	V
+5	to	-
+6	the	amod
+7	flood-affected	V
+8	areas	dobj
+9	.	PUNC
+94
+# The Hindu
+# Classical music concerts are held every weekend in December.
+1	Classical	amod
+2	music	amod
+3	concerts	nsubj
+4	are	V
+5	held	V
+6	every	amod
+7	weekend	dobj
+8	in	-
+9	December	amod
+10	.	PUNC
+95
+# BBC News
+# Scientific discoveries often lead to new and better technologies.
+1	Scientific	amod
+2	discoveries	nsubj
+3	often	advmod
+4	lead	nsubj
+5	to	-
+6	new	amod
+7	and	nsubj
+8	better	amod
+9	technologies	nsubj
+10	.	PUNC
+96
+# Reuters
+# Unemployment rates dropped slightly for the second consecutive month.
+1	Unemployment	amod
+2	rates	nsubj
+3	dropped	V
+4	slightly	advmod
+5	for	-
+6	the	amod
+7	second	iobj
+8	consecutive	amod
+9	month	dobj
+10	.	PUNC
+97
+# The Guardian
+# Healthy eating and regular exercise are key to longevity.
+1	Healthy	nsubj
+2	eating	V
+3	and	amod
+4	regular	amod
+5	exercise	dobj
+6	are	V
+7	key	amod
+8	to	-
+9	longevity	iobj
+10	.	PUNC
+98
+# The New York Times
+# A major earthquake struck the northern coast this morning.
+1	A	amod
+2	major	amod
+3	earthquake	amod
+4	struck	nsubj
+5	the	amod
+6	northern	amod
+7	coast	nsubj
+8	this	amod
+9	morning	V
+10	.	PUNC
+99
+# Al Jazeera
+# Negotiations for a permanent peace treaty will begin next week.
+1	Negotiations	nsubj
+2	for	-
+3	a	amod
+4	permanent	iobj
+5	peace	amod
+6	treaty	nsubj
+7	will	V
+8	begin	nsubj
+9	next	amod
+10	week	nsubj
+11	.	PUNC
+00
+# The Hindu
+# The botanical garden features a wide variety of rare plants.
+1	The	amod
+2	botanical	amod
+3	garden	amod
+4	features	nsubj
+5	a	amod
+6	wide	amod
+7	variety	nsubj
+8	of	-
+9	rare	amod
+10	plants	nsubj
+11	.	PUNC
