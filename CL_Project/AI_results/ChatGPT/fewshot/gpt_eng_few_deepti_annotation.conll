@@ -1,0 +1,602 @@
+# Sentence 1
+New	adj
+research	k1
+suggests	V
+that	-
+urban	adj
+green	adj
+spaces	k4
+improve	V
+mental	adj
+health	k2
+.	PUNC
+
+# Sentence 2
+The	adj
+central	adj
+bank	k1
+raised	V
+interest	adj
+rates	k2
+to	rt
+combat	V
+rising	adj
+inflation	k2
+.	PUNC
+
+# Sentence 3
+Peace	adj
+talks	k1
+between	-
+the	adj
+two	adj
+nations	k4
+ended	V
+without	-
+an	adj
+agreement	k2
+.	PUNC
+
+# Sentence 4
+The	adj
+state	adj
+government	k1
+launched	V
+a	adj
+program	k2
+to	rt
+clean	V
+local	adj
+rivers	k4
+.	PUNC
+
+# Sentence 5
+Archaeologists	k1
+discovered	V
+ancient	adj
+ruins	k2
+near	-
+the	adj
+coastal	adj
+city	k7
+.	PUNC
+
+# Sentence 6
+Global	adj
+markets	k1
+stabilized	V
+after	-
+a	adj
+week	k7
+of	-
+intense	adj
+volatility	r6
+.	PUNC
+
+# Sentence 7
+Scientists	k1
+are	V
+tracking	V
+the	adj
+migration	adj
+patterns	k2
+of	-
+arctic	adj
+birds	r6
+.	PUNC
+
+# Sentence 8
+Technology	adj
+companies	k1
+face	V
+new	adj
+regulations	k2
+regarding	-
+user	adj
+data	adj
+privacy	r6
+.	PUNC
+
+# Sentence 9
+Humanitarian	adj
+aid	k1
+reached	V
+the	adj
+remote	adj
+mountainous	adj
+region	k2
+today	k7
+.	PUNC
+
+# Sentence 10
+Farmers	k1
+are	V
+shifting	V
+toward	-
+organic	adj
+fertilizers	k2
+to	rt
+improve	V
+soil	k4
+.	PUNC
+
+# Sentence 11
+The	adj
+international	adj
+space	adj
+station	k1
+completed	V
+its	adj
+latest	adj
+orbital	adj
+maneuver	k2
+.	PUNC
+
+# Sentence 12
+Oil	adj
+production	k1
+increased	V
+slightly	adv
+during	-
+the	adj
+last	adj
+quarter	k7
+.	PUNC
+
+# Sentence 13
+Public	adj
+transport	adj
+usage	k1
+in	-
+the	adj
+city	k7
+reached	V
+pre-pandemic	adj
+levels	k2
+.	PUNC
+
+# Sentence 14
+A	adj
+new	adj
+art	adj
+exhibit	k1
+explores	V
+the	adj
+history	k2
+of	-
+digital	adj
+expression	r6
+.	PUNC
+
+# Sentence 15
+The	adj
+refugee	adj
+crisis	k1
+requires	V
+a	adj
+coordinated	adj
+global	adj
+response	k2
+.	PUNC
+
+# Sentence 16
+Local	adj
+schools	k1
+introduced	V
+coding	adj
+classes	k2
+for	-
+primary	adj
+students	k4
+.	PUNC
+
+# Sentence 17
+Renewable	adj
+energy	adj
+sources	k1
+now	adv
+provide	V
+half	k2
+of	-
+the	adj
+grid	adj
+power	r6
+.	PUNC
+
+# Sentence 18
+The	adj
+manufacturing	adj
+sector	k1
+reported	V
+a	adj
+growth	k2
+in	-
+export	adj
+orders	r6
+.	PUNC
+
+# Sentence 19
+Extreme	adj
+weather	adj
+events	k1
+are	V
+becoming	V
+more	adv
+frequent	adj
+and	-
+severe	adj
+.	PUNC
+
+# Sentence 20
+The	adj
+supreme	adj
+court	k1
+issued	V
+a	adj
+landmark	adj
+ruling	k2
+on	-
+voting	adj
+rights	r6
+.	PUNC
+
+# Sentence 21
+Regional	adj
+leaders	k1
+met	V
+to	rt
+discuss	V
+a	adj
+new	adj
+trade	adj
+partnership	k2
+.	PUNC
+
+# Sentence 22
+Wildlife	adj
+officials	k1
+spotted	V
+a	adj
+rare	adj
+leopard	k2
+in	-
+the	adj
+national	adj
+park	k7
+.	PUNC
+
+# Sentence 23
+Cybersecurity	adj
+experts	k1
+warn	V
+of	-
+a	adj
+new	adj
+phishing	adj
+campaign	r6
+.	PUNC
+
+# Sentence 24
+Retail	adj
+sales	k1
+rose	V
+during	-
+the	adj
+annual	adj
+holiday	adj
+shopping	adj
+season	k7
+.	PUNC
+
+# Sentence 25
+Medical	adj
+researchers	k1
+developed	V
+a	adj
+more	adv
+efficient	adj
+diagnostic	adj
+test	k2
+.	PUNC
+
+# Sentence 26
+Small	adj
+businesses	k1
+struggle	V
+with	-
+rising	adj
+costs	k2
+of	-
+raw	adj
+materials	r6
+.	PUNC
+
+# Sentence 27
+Protests	k1
+broke	V
+out	-
+in	-
+the	adj
+capital	k7
+over	-
+high	adj
+fuel	adj
+prices	k2
+.	PUNC
+
+# Sentence 28
+The	adj
+city	adj
+library	k1
+added	V
+thousands	k2
+of	-
+e-books	r6
+to	rt
+its	adj
+collection	k4
+.	PUNC
+
+# Sentence 29
+Exploring	V
+the	adj
+deep	adj
+ocean	k1
+reveals	V
+unique	adj
+and	-
+bioluminescent	adj
+creatures	k2
+.	PUNC
+
+# Sentence 30
+The	adj
+central	adj
+bank	k1
+kept	V
+the	adj
+interest	adj
+rates	k2
+unchanged	adj
+this	adj
+month	k7
+.	PUNC
+
+# Sentence 31
+Educators	k1
+emphasize	V
+the	adj
+importance	k2
+of	-
+critical	adj
+thinking	r6
+in	-
+schools	k7
+.	PUNC
+
+# Sentence 32
+Silicon	adj
+Valley	adj
+startups	k1
+are	V
+pivoting	V
+toward	-
+sustainable	adj
+energy	adj
+solutions	k2
+.	PUNC
+
+# Sentence 33
+Food	adj
+shortages	k1
+continue	V
+to	rt
+affect	V
+millions	k2
+in	-
+the	adj
+conflict	adj
+zone	k7
+.	PUNC
+
+# Sentence 34
+Yoga	adj
+festivals	k1
+attract	V
+thousands	k2
+of	-
+participants	r6
+to	rt
+the	adj
+river	adj
+bank	k7
+.	PUNC
+
+# Sentence 35
+New	adj
+laws	k1
+aim	V
+to	rt
+reduce	V
+plastic	adj
+waste	k2
+in	-
+the	adj
+ocean	k7
+.	PUNC
+
+# Sentence 36
+Global	adj
+logistics	adj
+chains	k1
+are	V
+slowly	adv
+returning	V
+to	rt
+normal	adj
+operation	k2
+.	PUNC
+
+# Sentence 37
+Solar	adj
+power	adj
+installation	adj
+costs	k1
+have	V
+dropped	V
+by	-
+forty	adj
+percent	k2
+.	PUNC
+
+# Sentence 38
+Broadway	adj
+theaters	k1
+reported	V
+record-breaking	adj
+attendance	adj
+numbers	k2
+this	adj
+summer	k7
+.	PUNC
+
+# Sentence 39
+Diplomatic	adj
+efforts	k1
+intensified	V
+to	rt
+prevent	V
+further	adj
+military	adj
+escalation	k2
+.	PUNC
+
+# Sentence 40
+The	adj
+heritage	adj
+building	k1
+underwent	V
+extensive	adj
+restoration	adj
+work	k2
+last	adj
+year	k7
+.	PUNC
+
+# Sentence 41
+Artificial	adj
+intelligence	k1
+can	V
+now	adv
+generate	V
+realistic	adj
+human	adj
+speech	k2
+.	PUNC
+
+# Sentence 42
+Economic	adj
+indicators	k1
+point	V
+toward	-
+a	adj
+steady	adj
+recovery	k2
+this	adj
+year	k7
+.	PUNC
+
+# Sentence 43
+Biodiversity	adj
+loss	k1
+remains	V
+a	adj
+significant	adj
+threat	k2
+to	rt
+global	adj
+ecosystems	k4
+.	PUNC
+
+# Sentence 44
+NASA	k1
+launched	V
+a	adj
+mission	k2
+to	rt
+explore	V
+an	adj
+icy	adj
+moon	k4
+.	PUNC
+
+# Sentence 45
+International	adj
+observers	k1
+arrived	V
+to	rt
+monitor	V
+the	adj
+national	adj
+elections	k2
+.	PUNC
+
+# Sentence 46
+Traditional	adj
+weavers	k1
+are	V
+using	V
+social	adj
+media	k2
+to	rt
+sell	V
+products	k4
+.	PUNC
+
+# Sentence 47
+Virtual	adj
+reality	adj
+headsets	k1
+are	V
+becoming	V
+lighter	adj
+and	-
+more	adv
+affordable	adj
+.	PUNC
+
+# Sentence 48
+Gold	adj
+prices	k1
+hit	V
+a	adj
+record	adj
+high	k2
+amid	-
+economic	adj
+uncertainty	k7
+.	PUNC
+
+# Sentence 49
+Carbon	adj
+emissions	k1
+must	V
+drop	V
+significantly	adv
+to	rt
+reach	V
+climate	adj
+goals	k2
+.	PUNC
+
+# Sentence 50
+Streaming	adj
+platforms	k1
+are	V
+investing	V
+more	adv
+in	-
+original	adj
+international	adj
+content	k2
+.	PUNC

@@ -1,0 +1,612 @@
+# Sentence 1
+The	adj
+ceasefire	k2
+agreement	k2
+brought	k2
+temporary	k2
+peace	k2
+to	k4
+the	adj
+region	k2
+.	k2
+
+# Sentence 2
+The	adj
+Hindu	k2
+Public	k2
+parks	k2
+are	k*s
+being	k2
+renovated	k2
+to	k4
+include	k2
+more	k2
+playgrounds	k2
+.	k2
+
+# Sentence 3
+Electric	k2
+scooters	k2
+are	k*s
+changing	k2
+how	k2
+people	k2
+navigate	k2
+urban	k2
+centers	k2
+.	k2
+
+# Sentence 4
+The	adj
+trade	k2
+deficit	k2
+narrowed	k2
+as	k*u
+electronics	k2
+exports	k2
+increased	k2
+sharply	adv
+.	k2
+
+# Sentence 5
+Urban	k2
+planners	k2
+suggest	k2
+building	k2
+more	k2
+bicycle	k2
+lanes	k2
+for	k4
+safety	k2
+.	k2
+
+# Sentence 6
+High	k2
+inflation	k2
+rates	k2
+are	k*s
+impacting	k2
+consumer	k2
+spending	k2
+on	k7
+luxury	k2
+items	k2
+.	k2
+
+# Sentence 7
+Military	k2
+exercises	k2
+near	k2
+the	adj
+border	k2
+caused	k2
+regional	k2
+diplomatic	k2
+concern	k2
+.	k2
+
+# Sentence 8
+The	adj
+film	k2
+festival	k2
+showcased	k2
+independent	k2
+movies	k2
+from	k5
+across	k2
+Asia	k2
+.	k2
+
+# Sentence 9
+Modern	k2
+medicine	k2
+can	k2
+successfully	adv
+treat	k2
+many	k2
+previously	adv
+fatal	k2
+conditions	k2
+.	k2
+
+# Sentence 10
+Construction	k2
+activity	k2
+increased	k2
+following	k2
+the	adj
+approval	k2
+of	r6
+new	k2
+projects	k2
+.	k2
+
+# Sentence 11
+Sustainable	k2
+fashion	k2
+brands	k2
+use	k2
+recycled	k2
+materials	k2
+for	k4
+their	k2
+clothing	k2
+.	k2
+
+# Sentence 12
+A	adj
+new	k2
+biography	k2
+details	k2
+the	adj
+secret	k2
+life	k2
+of	r6
+the	adj
+author	k2
+.	k2
+
+# Sentence 13
+Thousands	k2
+gathered	k2
+for	k4
+the	adj
+annual	k2
+pilgrimage	k2
+to	k4
+the	adj
+holy	adv
+site	k2
+.	k2
+
+# Sentence 14
+The	adj
+metro	k2
+train	k2
+service	k2
+was	k*s
+extended	k2
+to	k4
+the	adj
+airport	k2
+.	k2
+
+# Sentence 15
+Robots	k2
+are	k*s
+being	k2
+deployed	k2
+to	k4
+clean	k2
+hazardous	k2
+waste	k2
+sites	k2
+.	k2
+
+# Sentence 16
+The	adj
+central	k2
+bank	k2
+keeps	k2
+a	adj
+close	k2
+watch	k2
+on	k7
+inflation	k2
+.	k2
+
+# Sentence 17
+Planting	k2
+trees	k2
+in	k7
+cities	k2
+helps	k2
+lower	k2
+the	adj
+local	k2
+temperature	k2
+.	k2
+
+# Sentence 18
+A	adj
+major	k2
+software	k2
+update	k2
+improved	k2
+the	adj
+battery	k2
+life	k2
+of	r6
+phones	k2
+.	k2
+
+# Sentence 19
+Tensions	k2
+rise	k2
+over	k2
+disputed	k2
+territory	k2
+in	k7
+the	adj
+northern	k2
+region	k2
+.	k2
+
+# Sentence 20
+Fresh	k2
+fruits	k2
+and	ras
+vegetables	k2
+are	k*s
+sold	k2
+at	k7
+the	adj
+local	k2
+market	k2
+.	k2
+
+# Sentence 21
+Exploring	k2
+the	adj
+ruins	k2
+provided	k2
+clues	k2
+about	rs
+the	adj
+ancient	k2
+culture	k2
+.	k2
+
+# Sentence 22
+Consumer	k2
+prices	k2
+rose	k2
+faster	k2
+than	k*u
+expected	k2
+in	k7
+the	adj
+last	k2
+month	k2
+.	k2
+
+# Sentence 23
+Protecting	k2
+endangered	k2
+species	k2
+requires	k2
+global	k2
+cooperation	k2
+and	ras
+strong	k2
+laws	k2
+.	k2
+
+# Sentence 24
+The	adj
+company	k2
+announced	k2
+a	adj
+new	k2
+line	k2
+of	r6
+smart	k2
+home	k2
+devices	k2
+.	k2
+
+# Sentence 25
+Heavy	k2
+snowfall	k2
+blocked	k2
+major	k2
+highways	k2
+in	k7
+the	adj
+mountain	k2
+pass	k2
+.	k2
+
+# Sentence 26
+The	adj
+school	k2
+building	k2
+was	k*s
+repainted	k2
+before	k7
+the	adj
+new	k2
+semester	k2
+started	k2
+.	k2
+
+# Sentence 27
+Learning	k2
+a	adj
+new	k2
+language	k2
+improves	k2
+memory	k2
+and	ras
+cognitive	k2
+skills	k2
+.	k2
+
+# Sentence 28
+Economic	k2
+growth	k2
+slowed	k2
+down	k2
+due	k2
+to	k4
+high	k2
+energy	k2
+costs	k2
+.	k2
+
+# Sentence 29
+Reducing	k2
+carbon	k2
+footprints	k2
+is	k*s
+essential	k2
+for	k4
+a	adj
+sustainable	k2
+future	k2
+.	k2
+
+# Sentence 30
+The	adj
+play	k2
+received	k2
+glowing	k2
+reviews	k2
+from	k5
+theater	k2
+critics	k2
+yesterday	k2
+.	k2
+
+# Sentence 31
+Refugees	k2
+received	k2
+emergency	k2
+medical	k2
+care	k2
+at	k7
+the	adj
+border	k2
+camp	k2
+.	k2
+
+# Sentence 32
+Traffic	k2
+congestion	k2
+in	k7
+the	adj
+city	k2
+remains	k2
+a	adj
+major	k2
+problem	k2
+.	k2
+
+# Sentence 33
+Modern	k2
+architects	k2
+focus	k2
+on	k7
+energy	k2
+efficiency	k2
+and	ras
+natural	k2
+light	k2
+.	k2
+
+# Sentence 34
+The	adj
+stock	k2
+market	k2
+reacted	k2
+positively	adv
+to	k4
+the	adj
+merger	k2
+news	k2
+.	k2
+
+# Sentence 35
+Oceans	k2
+play	k2
+a	adj
+crucial	k2
+role	k2
+in	k7
+regulating	k2
+the	adj
+global	k2
+climate	k2
+.	k2
+
+# Sentence 36
+A	adj
+new	k2
+smartphone	k2
+model	k2
+was	k*s
+launched	k2
+with	k3
+a	adj
+better	k2
+camera	k2
+.	k2
+
+# Sentence 37
+Human	k2
+rights	k2
+groups	k2
+called	k2
+for	k4
+an	adj
+independent	k2
+investigation	k2
+.	k2
+
+# Sentence 38
+Farmers	k2
+harvested	k2
+the	adj
+rice	k2
+crop	k2
+after	k7
+the	adj
+monsoon	k2
+ended	k2
+.	k2
+
+# Sentence 39
+Watching	k2
+the	adj
+sunset	k2
+over	k2
+the	adj
+ocean	k2
+is	k*s
+a	adj
+peaceful	k2
+experience	k2
+.	k2
+
+# Sentence 40
+International	k2
+trade	k2
+decreased	k2
+due	k2
+to	k4
+new	k2
+tariff	k2
+regulations	k2
+.	k2
+
+# Sentence 41
+Switching	k2
+to	k4
+electric	k2
+cars	k2
+can	k2
+help	k2
+reduce	k2
+urban	k2
+air	k2
+pollution	k2
+.	k2
+
+# Sentence 42
+The	adj
+museum	k2
+opened	k2
+a	adj
+new	k2
+wing	k2
+for	k4
+contemporary	k2
+art	k2
+.	k2
+
+# Sentence 43
+Military	k2
+forces	k2
+were	k*s
+deployed	k2
+to	k4
+the	adj
+flood-affected	k2
+areas	k2
+.	k2
+
+# Sentence 44
+Classical	k2
+music	k2
+concerts	k2
+are	k*s
+held	k2
+every	k2
+weekend	k2
+in	k7
+December	k2
+.	k2
+
+# Sentence 45
+Scientific	k2
+discoveries	k2
+often	k2
+lead	k2
+to	k4
+new	k2
+and	ras
+better	k2
+technologies	k2
+.	k2
+
+# Sentence 46
+Unemployment	k2
+rates	k2
+dropped	k2
+slightly	adv
+for	k4
+the	adj
+second	k2
+consecutive	k2
+month	k2
+.	k2
+
+# Sentence 47
+Healthy	k2
+eating	k2
+and	ras
+regular	k2
+exercise	k2
+are	k*s
+key	k2
+to	k4
+longevity	k2
+.	k2
+
+# Sentence 48
+A	adj
+major	k2
+earthquake	k2
+struck	k2
+the	adj
+northern	k2
+coast	k2
+this	k2
+morning	k2
+.	k2
+
+# Sentence 49
+Negotiations	k2
+for	k4
+a	adj
+permanent	k2
+peace	k2
+treaty	k2
+will	k2
+begin	k2
+next	k2
+week	k2
+.	k2
+
+# Sentence 50
+The	adj
+botanical	k2
+garden	k2
+features	k2
+a	adj
+wide	k2
+variety	k2
+of	r6
+rare	k2
+plants	k2
+.	k2

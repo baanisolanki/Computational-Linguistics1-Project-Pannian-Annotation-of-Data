@@ -1,0 +1,558 @@
+# Sentence 1
+Corporate	k1
+earnings	k2
+reports	k2
+exceeded	rt
+analyst	k2
+expectations	k2
+this	k2
+quarter	k2
+.	k2
+
+# Sentence 2
+Organic	k1
+farming	rt
+is	k2
+gaining	k2
+popularity	k2
+among	k2
+young	k2
+entrepreneurs	k2
+.	k2
+
+# Sentence 3
+The	k1
+international	k2
+film	k2
+festival	k2
+opened	rt
+with	k2
+a	k2
+grand	k2
+ceremony	k2
+.	k2
+
+# Sentence 4
+Trade	k1
+deficit	k2
+narrowed	rt
+due	k2
+to	k2
+a	k2
+rise	k2
+in	k2
+exports	k2
+.	k2
+
+# Sentence 5
+Traffic	k1
+rules	k2
+have	k2
+been	rt
+tightened	k2
+to	k2
+improve	k2
+road	k2
+safety	k2
+.	k2
+
+# Sentence 6
+Astronomers	k1
+observed	rt
+a	k2
+rare	k2
+comet	k2
+passing	k2
+near	k2
+Earth	k2
+.	k2
+
+# Sentence 7
+Global	k1
+logistics	k2
+firms	k2
+are	rt
+adopting	k2
+green	k2
+energy	k2
+solutions	k2
+.	k2
+
+# Sentence 8
+The	k1
+irrigation	k2
+project	k2
+will	k2
+benefit	k2
+thousands	k2
+of	k2
+farmers	k2
+.	k2
+
+# Sentence 9
+Mental	k1
+health	k2
+awareness	k2
+is	rt
+increasing	k2
+in	k2
+the	k2
+workplace	k2
+.	k2
+
+# Sentence 10
+Small	k1
+businesses	k2
+are	rt
+receiving	k2
+support	k2
+through	k2
+government	k2
+grants	k2
+.	k2
+
+# Sentence 11
+The	k1
+state	k2
+library	k2
+offers	k2
+free	k2
+internet	k2
+access	k2
+to	k2
+students	k2
+.	k2
+
+# Sentence 12
+Urban	k1
+vertical	k2
+gardens	k2
+are	rt
+helping	k2
+reduce	k2
+city	k2
+pollution	k2
+.	k2
+
+# Sentence 13
+The	k1
+steel	k2
+industry	k2
+reported	rt
+a	k2
+surge	k2
+in	k2
+global	k2
+demand	k2
+.	k2
+
+# Sentence 14
+Community	k1
+kitchens	k2
+provided	rt
+meals	k2
+to	k2
+those	k2
+in	k2
+need	k2
+.	k2
+
+# Sentence 15
+Scientists	k1
+are	rt
+studying	k2
+the	k2
+effects	k2
+of	k2
+microplastics	k2
+on	k2
+fish	k2
+.	k2
+
+# Sentence 16
+The	k1
+semiconductor	k2
+shortage	k2
+is	rt
+finally	k2
+beginning	k2
+to	k2
+ease	k2
+.	k2
+
+# Sentence 17
+Coastal	k1
+erosion	k2
+is	rt
+threatening	k2
+several	k2
+historic	k2
+seaside	k2
+villages	k2
+.	k2
+
+# Sentence 18
+New	k1
+educational	k2
+software	k2
+helps	k2
+children	k2
+learn	k2
+math	k2
+easily	k2
+.	k2
+
+# Sentence 19
+Consumer	k1
+confidence	k2
+hit	k2
+a	k2
+one-year	k2
+high	k2
+this	k2
+month	k2
+.	k2
+
+# Sentence 20
+The	k1
+national	k2
+park	k2
+reopened	rt
+after	k2
+successful	k2
+habitat	k2
+restoration	k2
+.	k2
+
+# Sentence 21
+Modern	k1
+art	k2
+galleries	k2
+are	rt
+focusing	k2
+on	k2
+interactive	k2
+installations	k2
+.	k2
+
+# Sentence 22
+Debt	k1
+restructuring	rt
+plans	k2
+were	k2
+approved	k2
+by	k2
+the	k2
+creditors	k2
+.	k2
+
+# Sentence 23
+Farmers	k1
+are	rt
+adopting	k2
+smart	k2
+sensors	k2
+for	k2
+water	k2
+management	k2
+.	k2
+
+# Sentence 24
+Space	k1
+debris	k2
+is	rt
+a	k2
+growing	k2
+concern	k2
+for	k2
+satellite	k2
+safety	k2
+.	k2
+
+# Sentence 25
+The	k1
+hospitality	k2
+sector	k2
+is	rt
+seeing	k2
+a	k2
+rapid	k2
+recovery	k2
+.	k2
+
+# Sentence 26
+Local	k1
+artisans	k2
+are	rt
+showcasing	k2
+their	k2
+work	k2
+at	k2
+the	k2
+fair	k2
+.	k2
+
+# Sentence 27
+Genomic	k1
+research	k2
+is	rt
+providing	k2
+insights	k2
+into	k2
+rare	k2
+diseases	k2
+.	k2
+
+# Sentence 28
+Commodity	k1
+prices	k2
+fluctuate	k2
+due	k2
+to	k2
+changing	rt
+global	k2
+demand	k2
+.	k2
+
+# Sentence 29
+The	k1
+city	k2
+council	k2
+approved	rt
+the	k2
+new	k2
+waste	k2
+management	k2
+plan	k2
+.	k2
+
+# Sentence 30
+Public	k1
+libraries	k2
+are	rt
+evolving	k2
+into	k2
+modern	k2
+community	k2
+hubs	k2
+.	k2
+
+# Sentence 31
+Foreign	k1
+exchange	k2
+reserves	k2
+reached	rt
+a	k2
+comfortable	k2
+level	k2
+recently	k2
+.	k2
+
+# Sentence 32
+Youth	k1
+volunteers	k2
+are	rt
+leading	k2
+the	k2
+urban	k2
+cleanup	k2
+drive	k2
+.	k2
+
+# Sentence 33
+Advancements	k1
+in	k2
+battery	k2
+technology	k2
+are	rt
+aiding	k2
+electric	k2
+vehicles	k2
+.	k2
+
+# Sentence 34
+The	k1
+automotive	k2
+market	k2
+is	rt
+shifting	k2
+toward	k2
+sustainable	k2
+models	k2
+.	k2
+
+# Sentence 35
+The	k1
+heritage	k2
+walk	k2
+covers	k2
+ten	k2
+historical	k2
+monuments	k2
+today	k2
+.	k2
+
+# Sentence 36
+High-speed	k1
+trains	k2
+are	k2
+being	k2
+tested	k2
+on	k2
+new	k2
+routes	k2
+.	k2
+
+# Sentence 37
+Tax	k1
+revenue	k2
+increased	rt
+following	k2
+the	k2
+new	k2
+policy	k2
+changes	k2
+.	k2
+
+# Sentence 38
+Rural	k1
+schools	k2
+received	rt
+new	k2
+computer	k2
+labs	k2
+this	k2
+month	k2
+.	k2
+
+# Sentence 39
+Deep-sea	k1
+exploration	k2
+revealed	rt
+amazing	k2
+volcanic	k2
+vent	k2
+ecosystems	k2
+.	k2
+
+# Sentence 40
+Retail	k1
+inflation	k2
+dropped	rt
+to	k2
+a	k2
+six-month	k2
+low	k2
+recently	k2
+.	k2
+
+# Sentence 41
+The	k1
+food	k2
+festival	k2
+features	k2
+cuisines	k2
+from	k2
+various	k2
+states	k2
+.	k2
+
+# Sentence 42
+Cybersecurity	k1
+threats	k2
+are	rt
+becoming	k2
+more	k2
+sophisticated	k2
+each	k2
+year	k2
+.	k2
+
+# Sentence 43
+Commercial	k1
+real	k2
+estate	k2
+demand	k2
+is	rt
+picking	k2
+up	k2
+slowly	k2
+.	k2
+
+# Sentence 44
+Vocational	k1
+training	rt
+centers	k2
+help	k2
+youth	k2
+find	k2
+better	k2
+jobs	k2
+.	k2
+
+# Sentence 45
+Scientists	k1
+found	k2
+a	k2
+way	k2
+to	k2
+recycle	k2
+plastic	k2
+efficiently	k2
+.	k2
+
+# Sentence 46
+Major	k1
+banks	k2
+reported	rt
+stable	k2
+profits	k2
+for	k2
+the	k2
+half-year	k2
+.	k2
+
+# Sentence 47
+The	k1
+literary	k2
+award	k2
+went	k2
+to	k2
+a	k2
+debut	k2
+novelist	k2
+.	k2
+
+# Sentence 48
+New	k1
+telescopes	k2
+will	k2
+help	k2
+us	k2
+understand	k2
+black	k2
+holes	k2
+.	k2
+
+# Sentence 49
+The	k1
+construction	k2
+sector	k2
+is	rt
+facing	k2
+a	k2
+labor	k2
+shortage	k2
+.	k2
+
+# Sentence 50
+The	k1
+flower	k2
+show	k2
+at	k2
+the	k2
+park	k2
+was	rt
+beautiful	k2
+.	k2
+
