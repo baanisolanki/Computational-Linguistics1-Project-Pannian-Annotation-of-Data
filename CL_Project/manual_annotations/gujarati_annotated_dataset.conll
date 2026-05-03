@@ -1,0 +1,800 @@
+# Gujarat Samachar
+# Ahmedabadma varshadni dhabakedar saruaat thai che.
+1	Ahmedabadma	k7
+2	varshadni	JJ
+3	dhabakedar	k2
+4	saruaat	k2
+5	thai	V
+6	che	VAUX
+7	.	PUNC
+
+# Sandesh
+# Bharat ane Pakistan vache yuddhani sthiti sarjai.
+1	Bharat	k2
+2	ane	CC
+3	Pakistan	k2
+4	vache	PSP
+5	yuddhani	JJ
+6	sthiti	k2
+7	sarjai	V
+8	.	PUNC
+
+# Divya Bhaskar
+# Rajkotma nava airportnu lokarpan PM Modi karshe.
+1	Rajkotma	k7
+2	nava	JJ
+3	airportnu	JJ
+4	lokarpan	k2
+5	PM	k2
+6	Modi	k2
+7	karshe	V
+8	.	PUNC
+
+# Gujarat Samachar
+# Suratna hirabaajarma mandi no mahol jovai rahyo che.
+1	Suratna	JJ
+2	hirabaajarma	k7
+3	mandi	k2
+4	no	PSP
+5	mahol	k2
+6	jovai	V
+7	rahyo	VAUX
+8	che	VAUX
+9	.	PUNC
+
+# Sandesh
+# Gandhinagarma nava sachivalayanu kaam jhadapthi chale che.
+1	Gandhinagarma	k7
+2	nava	JJ
+3	sachivalayanu	JJ
+4	kaam	k2
+5	jhadapthi	RB
+6	chale	V
+7	che	VAUX
+8	.	PUNC
+
+# Divya Bhaskar
+# Vadodarama bhari varshadne karane nukshaan thayu.
+1	Vadodarama	k7
+2	bhari	JJ
+3	varshadne	k3
+4	karane	PSP
+5	nukshaan	k2
+6	thayu	V
+7	.	PUNC
+
+# Gujarat Samachar
+# IPL 2026 ma Gujarat Titans ni sharuat kharab rahi.
+1	IPL	k2
+2	2026	SYM
+3	ma	PSP
+4	Gujarat	k2
+5	Titans	k2
+6	ni	PSP
+7	sharuat	k2
+8	kharab	JJ
+9	rahi	V
+10	.	PUNC
+
+# Sandesh
+# Petrol ane dieselna bhavma vadhari thayo.
+1	Petrol	k2
+2	ane	CC
+3	dieselna	JJ
+4	bhavma	k7
+5	vadhari	k2
+6	thayo	V
+7	.	PUNC
+
+# Divya Bhaskar
+# Kutchma bhookampna aanchka anubhavaya.
+1	Kutchma	k7
+2	bhookampna	JJ
+3	aanchka	k2
+4	anubhavaya	V
+5	.	PUNC
+
+# Gujarat Samachar
+# Boardni parikshana parinaam jaher thaya.
+1	Boardni	JJ
+2	parikshana	JJ
+3	parinaam	k2
+4	jaher	k2
+5	thaya	V
+6	.	PUNC
+
+# Sandesh
+# Navratri mate khelaiyao taiyari kari rahya che.
+1	Navratri	k2
+2	mate	k2
+3	khelaiyao	k2
+4	taiyari	k2
+5	kari	V
+6	rahya	VAUX
+7	che	VAUX
+8	.	PUNC
+
+# Divya Bhaskar
+# Girna jangalma sinhni sankhya vadhi che.
+1	Girna	JJ
+2	jangalma	k7
+3	sinhni	JJ
+4	sankhya	k2
+5	vadhi	V
+6	che	VAUX
+7	.	PUNC
+
+# Gujarat Samachar
+# Amarnath yatrama bhari bhid jovai rahi che.
+1	Amarnath	k2
+2	yatrama	k7
+3	bhari	JJ
+4	bhid	k2
+5	jovai	V
+6	rahi	V
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Somnath mandirma maha aartinu aayojan thayu.
+1	Somnath	k2
+2	mandirma	k7
+3	maha	k2
+4	aartinu	JJ
+5	aayojan	k2
+6	thayu	V
+7	.	PUNC
+
+# Divya Bhaskar
+# Gujaratma kheti mate narmada nahar upyogi che.
+1	Gujaratma	k7
+2	kheti	k2
+3	mate	k2
+4	narmada	k2
+5	nahar	k2
+6	upyogi	k2
+7	che	VAUX
+8	.	PUNC
+
+# Gujarat Samachar
+# Share bazaar ma motu ghabrakat jovayu.
+1	Share	k2
+2	bazaar	k2
+3	ma	PSP
+4	motu	k2
+5	ghabrakat	k2
+6	jovayu	k2
+7	.	PUNC
+
+# Sandesh
+# Mobile na bhavma thodo ghatado thayo che.
+1	Mobile	k2
+2	na	JJ
+3	bhavma	k7
+4	thodo	k2
+5	ghatado	k2
+6	thayo	V
+7	che	VAUX
+8	.	PUNC
+
+# Divya Bhaskar
+# Ahmedabad metro train ni sevao vistari rahi che.
+1	Ahmedabad	k2
+2	metro	k2
+3	train	k2
+4	ni	PSP
+5	sevao	k2
+6	vistari	k2
+7	rahi	V
+8	che	VAUX
+9	.	PUNC
+
+# Gujarat Samachar
+# Vihar dharatmate kheduto khush jovai rahya che.
+1	Vihar	k2
+2	dharatmate	k2
+3	kheduto	k2
+4	khush	k2
+5	jovai	V
+6	rahya	VAUX
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Bhavnagarma nava rasta banavvanu kaam sharu thayu.
+1	Bhavnagarma	k7
+2	nava	JJ
+3	rasta	k2
+4	banavvanu	JJ
+5	kaam	k2
+6	sharu	k2
+7	thayu	V
+8	.	PUNC
+
+# Divya Bhaskar
+# Digital Bharat mission hethal gaamda o online thaya.
+1	Digital	k2
+2	Bharat	k2
+3	mission	k2
+4	hethal	k2
+5	gaamda	k2
+6	o	k2
+7	online	k3
+8	thaya	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Sabarmati riverfront par nava akarshanomathi ek fountain che.
+1	Sabarmati	k2
+2	riverfront	k2
+3	par	k2
+4	nava	JJ
+5	akarshanomathi	RB
+6	ek	k2
+7	fountain	k2
+8	che	VAUX
+9	.	PUNC
+
+# Sandesh
+# Khel Mahakumbhma Gujaratna yuva khelaiyao bhag lai rahya che.
+1	Khel	k2
+2	Mahakumbhma	k7
+3	Gujaratna	JJ
+4	yuva	k2
+5	khelaiyao	k2
+6	bhag	k2
+7	lai	k2
+8	rahya	VAUX
+9	che	VAUX
+10	.	PUNC
+
+# Divya Bhaskar
+# Jamnagar na bandar par bhari taukane asar jovai.
+1	Jamnagar	k2
+2	na	JJ
+3	bandar	k2
+4	par	k2
+5	bhari	JJ
+6	taukane	k3
+7	asar	k2
+8	jovai	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Shalao ma unalu rati sharu thayu che.
+1	Shalao	k2
+2	ma	PSP
+3	unalu	k2
+4	rati	k2
+5	sharu	k2
+6	thayu	V
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Amul milkna bhavma rupiya be no vadhari thayo.
+1	Amul	k2
+2	milkna	JJ
+3	bhavma	k7
+4	rupiya	k2
+5	be	k2
+6	no	PSP
+7	vadhari	k2
+8	thayo	V
+9	.	PUNC
+
+# Divya Bhaskar
+# Junagadhna uparkot killa nu navinikaran thayu.
+1	Junagadhna	JJ
+2	uparkot	k2
+3	killa	k2
+4	nu	JJ
+5	navinikaran	k2
+6	thayu	V
+7	.	PUNC
+
+# Gujarat Samachar
+# Dakshin Gujaratma bhari varshadni aagahi karai che.
+1	Dakshin	k2
+2	Gujaratma	k7
+3	bhari	JJ
+4	varshadni	JJ
+5	aagahi	k2
+6	karai	k2
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Dwarkama nava bridge nu kaam poornu thayu.
+1	Dwarkama	k7
+2	nava	JJ
+3	bridge	k2
+4	nu	JJ
+5	kaam	k2
+6	poornu	JJ
+7	thayu	V
+8	.	PUNC
+
+# Divya Bhaskar
+# Gujarat sarakare navi shikshan niti amali banavi.
+1	Gujarat	k2
+2	sarakare	k2
+3	navi	k2
+4	shikshan	k2
+5	niti	k2
+6	amali	k2
+7	banavi	k2
+8	.	PUNC
+
+# Gujarat Samachar
+# Porbandarna dariyakinare nava akarshano thaya che.
+1	Porbandarna	JJ
+2	dariyakinare	k2
+3	nava	JJ
+4	akarshano	k2
+5	thaya	V
+6	che	VAUX
+7	.	PUNC
+
+# Sandesh
+# Morbi ma pool durghatana pachi satarkata vadhi.
+1	Morbi	k2
+2	ma	PSP
+3	pool	k2
+4	durghatana	JJ
+5	pachi	k2
+6	satarkata	k2
+7	vadhi	V
+8	.	PUNC
+
+# Divya Bhaskar
+# Bharuchna dabhai ma navi factory sharu thai.
+1	Bharuchna	JJ
+2	dabhai	k2
+3	ma	PSP
+4	navi	k2
+5	factory	k2
+6	sharu	k2
+7	thai	V
+8	.	PUNC
+
+# Gujarat Samachar
+# Gujaratma kela no pak saro thayo che.
+1	Gujaratma	k7
+2	kela	k2
+3	no	PSP
+4	pak	k2
+5	saro	k2
+6	thayo	V
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Valsadma valsad railve station nu navinikaran sharu che.
+1	Valsadma	k7
+2	valsad	k2
+3	railve	k2
+4	station	k2
+5	nu	JJ
+6	navinikaran	k2
+7	sharu	k2
+8	che	VAUX
+9	.	PUNC
+
+# Divya Bhaskar
+# Patanna patola ni mang vishvabhar ma vadhi rahi che.
+1	Patanna	JJ
+2	patola	k2
+3	ni	PSP
+4	mang	k2
+5	vishvabhar	k2
+6	ma	PSP
+7	vadhi	V
+8	rahi	V
+9	che	VAUX
+10	.	PUNC
+
+# Gujarat Samachar
+# Gujaratma solar energy nu praman vadhayu che.
+1	Gujaratma	k7
+2	solar	k2
+3	energy	k2
+4	nu	JJ
+5	praman	k2
+6	vadhayu	k2
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Anandma Amul dairyna nava plant nu udghatan thayu.
+1	Anandma	k7
+2	Amul	k2
+3	dairyna	JJ
+4	nava	JJ
+5	plant	k2
+6	nu	JJ
+7	udghatan	k2
+8	thayu	V
+9	.	PUNC
+
+# Divya Bhaskar
+# Banaskantha ma bataka no pak saro jovayo che.
+1	Banaskantha	k2
+2	ma	PSP
+3	bataka	k2
+4	no	PSP
+5	pak	k2
+6	saro	k2
+7	jovayo	k2
+8	che	VAUX
+9	.	PUNC
+
+# Gujarat Samachar
+# Dahodma tribal university ni sthapana thai rahi che.
+1	Dahodma	k7
+2	tribal	k2
+3	university	k2
+4	ni	PSP
+5	sthapana	JJ
+6	thai	V
+7	rahi	V
+8	che	VAUX
+9	.	PUNC
+
+# Sandesh
+# Mehsana ma dudhsagar dairy na bhavma vadharo thayo.
+1	Mehsana	JJ
+2	ma	PSP
+3	dudhsagar	k2
+4	dairy	k2
+5	na	JJ
+6	bhavma	k7
+7	vadharo	k2
+8	thayo	V
+9	.	PUNC
+
+# Divya Bhaskar
+# Surendranagarma nava udyogo sharu thaya che.
+1	Surendranagarma	k7
+2	nava	JJ
+3	udyogo	k2
+4	sharu	k2
+5	thaya	V
+6	che	VAUX
+7	.	PUNC
+
+# Gujarat Samachar
+# Botadma sarangpur hanuman mandirma bhid jovai.
+1	Botadma	k7
+2	sarangpur	k2
+3	hanuman	k2
+4	mandirma	k7
+5	bhid	k2
+6	jovai	V
+7	.	PUNC
+
+# Sandesh
+# Tapi jillama varshadne karane nadiyo ma puur vachyu.
+1	Tapi	k2
+2	jillama	k7
+3	varshadne	k3
+4	karane	PSP
+5	nadiyo	k2
+6	ma	PSP
+7	puur	k2
+8	vachyu	k2
+9	.	PUNC
+
+# Divya Bhaskar
+# Dangma monsoon tourism vadhyu che.
+1	Dangma	k7
+2	monsoon	k2
+3	tourism	k2
+4	vadhyu	k2
+5	che	VAUX
+6	.	PUNC
+
+# Gujarat Samachar
+# Narmadama statue of unity par paryatakoni bhid jovai rahi che.
+1	Narmadama	k7
+2	statue	k2
+3	of	k2
+4	unity	k2
+5	par	k2
+6	paryatakoni	JJ
+7	bhid	k2
+8	jovai	V
+9	rahi	V
+10	che	VAUX
+11	.	PUNC
+
+# Sandesh
+# Navsarima chikoo no pak saro thayo che.
+1	Navsarima	k7
+2	chikoo	k2
+3	no	PSP
+4	pak	k2
+5	saro	k2
+6	thayo	V
+7	che	VAUX
+8	.	PUNC
+
+# Divya Bhaskar
+# Amrelima sinhna halla thi lokoma bhay jovai rahyo che.
+1	Amrelima	k7
+2	sinhna	JJ
+3	halla	k2
+4	thi	RB
+5	lokoma	k7
+6	bhay	k2
+7	jovai	V
+8	rahyo	VAUX
+9	che	VAUX
+10	.	PUNC
+
+# Gujarat Samachar
+# Gujarat sarakare nava smart city mission ni jaherat kari che.
+1	Gujarat	k2
+2	sarakare	k2
+3	nava	JJ
+4	smart	k2
+5	city	k2
+6	mission	k2
+7	ni	PSP
+8	jaherat	k2
+9	kari	V
+10	che	VAUX
+11	.	PUNC
+
+# Sandesh
+# Kheda jillama tambaku no pak vadhyo che.
+1	Kheda	k2
+2	jillama	k7
+3	tambaku	k2
+4	no	PSP
+5	pak	k2
+6	vadhyo	k2
+7	che	VAUX
+8	.	PUNC
+
+# Divya Bhaskar
+# Arvalli ma nava bridge nu lokarpan thayu.
+1	Arvalli	k2
+2	ma	PSP
+3	nava	JJ
+4	bridge	k2
+5	nu	JJ
+6	lokarpan	k2
+7	thayu	V
+8	.	PUNC
+
+# Gujarat Samachar
+# Mahisagarma kadana dam ma pani ni avak vadhi che.
+1	Mahisagarma	k7
+2	kadana	JJ
+3	dam	k2
+4	ma	PSP
+5	pani	JJ
+6	ni	PSP
+7	avak	k2
+8	vadhi	V
+9	che	VAUX
+10	.	PUNC
+
+# Sandesh
+# Panchmahal ma champaner malkat nu navinikaran sharu che.
+1	Panchmahal	k2
+2	ma	PSP
+3	champaner	k2
+4	malkat	k2
+5	nu	JJ
+6	navinikaran	k2
+7	sharu	k2
+8	che	VAUX
+9	.	PUNC
+
+# Divya Bhaskar
+# Chhota Udepur ma tribal art nu pradarshan thayu.
+1	Chhota	k2
+2	Udepur	k2
+3	ma	PSP
+4	tribal	k2
+5	art	k2
+6	nu	JJ
+7	pradarshan	k2
+8	thayu	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Gir Somnath ma dariyakinare nava akarshano jovaya.
+1	Gir	k2
+2	Somnath	k2
+3	ma	PSP
+4	dariyakinare	k2
+5	nava	JJ
+6	akarshano	k2
+7	jovaya	k2
+8	.	PUNC
+
+# Sandesh
+# Devbhoomi Dwarka ma bhakthonu motu jhund jovayu che.
+1	Devbhoomi	k2
+2	Dwarka	k2
+3	ma	PSP
+4	bhakthonu	JJ
+5	motu	k2
+6	jhund	k2
+7	jovayu	k2
+8	che	VAUX
+9	.	PUNC
+
+# Divya Bhaskar
+# Porbandarma nava cruise ship ni sevao sharu thai.
+1	Porbandarma	k7
+2	nava	JJ
+3	cruise	k2
+4	ship	k2
+5	ni	PSP
+6	sevao	k2
+7	sharu	k2
+8	thai	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Gandhinagarma G20 sammelan nu aayojan thayu che.
+1	Gandhinagarma	k7
+2	G20	k2
+3	sammelan	k2
+4	nu	JJ
+5	aayojan	k2
+6	thayu	V
+7	che	VAUX
+8	.	PUNC
+
+# Sandesh
+# Ahmedabadma nava flyover bridge nu lokarpan thayu.
+1	Ahmedabadma	k7
+2	nava	JJ
+3	flyover	k2
+4	bridge	k2
+5	nu	JJ
+6	lokarpan	k2
+7	thayu	V
+8	.	PUNC
+
+# Divya Bhaskar
+# Suratna diamond bourse ma nava udyogo sharu thaya.
+1	Suratna	JJ
+2	diamond	k2
+3	bourse	k2
+4	ma	PSP
+5	nava	JJ
+6	udyogo	k2
+7	sharu	k2
+8	thaya	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Rajkotma cricket stadium par Bharat ane England vache match thai.
+1	Rajkotma	k7
+2	cricket	k2
+3	stadium	k2
+4	par	k2
+5	Bharat	k2
+6	ane	CC
+7	England	k2
+8	vache	PSP
+9	match	k2
+10	thai	V
+11	.	PUNC
+
+# Sandesh
+# Vadodarama MS University na parinaam jaher thaya che.
+1	Vadodarama	k7
+2	MS	k2
+3	University	k2
+4	na	JJ
+5	parinaam	k2
+6	jaher	k2
+7	thaya	V
+8	che	VAUX
+9	.	PUNC
+
+# Divya Bhaskar
+# Gujaratma digital literacy vadharava mate navo karyakram sharu thayo.
+1	Gujaratma	k7
+2	digital	k2
+3	literacy	k2
+4	vadharava	k2
+5	mate	k2
+6	navo	k2
+7	karyakram	k2
+8	sharu	k2
+9	thayo	V
+10	.	PUNC
+
+# Gujarat Samachar
+# Ahmedabadma nava gardens nu kaam sharu thayu che.
+1	Ahmedabadma	k7
+2	nava	JJ
+3	gardens	k2
+4	nu	JJ
+5	kaam	k2
+6	sharu	k2
+7	thayu	V
+8	che	VAUX
+9	.	PUNC
+
+# Sandesh
+# Suratna tapi nadi par nava bridge nu aayojan thayu che.
+1	Suratna	JJ
+2	tapi	k2
+3	nadi	k2
+4	par	k2
+5	nava	JJ
+6	bridge	k2
+7	nu	JJ
+8	aayojan	k2
+9	thayu	V
+10	che	VAUX
+11	.	PUNC
+
+# Divya Bhaskar
+# Gujaratma nava udyogo mate sarakare sahayni jaherat kari.
+1	Gujaratma	k7
+2	nava	JJ
+3	udyogo	k2
+4	mate	k2
+5	sarakare	k2
+6	sahayni	JJ
+7	jaherat	k2
+8	kari	V
+9	.	PUNC
+
+# Gujarat Samachar
+# Ahmedabad metro na bija tabakkanu kaam jhadapthi chale che.
+1	Ahmedabad	k2
+2	metro	k2
+3	na	JJ
+4	bija	k2
+5	tabakkanu	JJ
+6	kaam	k2
+7	jhadapthi	RB
+8	chale	V
+9	che	VAUX
+10	.	PUNC
+
+# Sandesh
+# Kutchma ranotsav ni taiyario sharu thai gai che.
+1	Kutchma	k7
+2	ranotsav	k2
+3	ni	PSP
+4	taiyario	k2
+5	sharu	k2
+6	thai	V
+7	gai	k2
+8	che	VAUX
+9	.	PUNC
+
+# Divya Bhaskar
+# Dwarkama nava mandir nu navinikaran poornu thayu che.
+1	Dwarkama	k7
+2	nava	JJ
+3	mandir	k2
+4	nu	JJ
+5	navinikaran	k2
+6	poornu	JJ
+7	thayu	V
+8	che	VAUX
+9	.	PUNC
+
+# Gujarat Samachar
+# Gujaratma unalu pak nu vavetar vadhyu che.
+1	Gujaratma	k7
+2	unalu	k2
+3	pak	k2
+4	nu	JJ
+5	vavetar	k2
+6	vadhyu	k2
+7	che	VAUX
+8	.	PUNC
