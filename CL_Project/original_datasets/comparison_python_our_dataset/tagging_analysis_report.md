@@ -26,4 +26,3 @@ Below is the detailed breakdown of Precision, Recall, and F1-Score calculated ac
 | accuracy     |        0.77 |     0.77 |       0.77 |      0.77 |
 | weighted avg |        0.77 |     0.77 |       0.77 |    481    |
 
-!
