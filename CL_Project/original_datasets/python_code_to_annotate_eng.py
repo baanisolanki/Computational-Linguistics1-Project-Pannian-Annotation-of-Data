@@ -243,6 +243,6 @@ def process_file(input_path, output_path):
 
 # run 
 process_file(
-    "/Users/baanisolanki/Documents/CL1_Sem2/CL1_PROJECT/Computational-Linguistics1-Project-Pannian-Annotation-of-Data/CL_Project/original_datasets/english_dataset.conll",
-    "output.conll"
+    "english_dataset.conll",
+    "output_eng_by_python_code.conll"
 )

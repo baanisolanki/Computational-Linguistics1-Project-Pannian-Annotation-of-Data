@@ -103,9 +103,9 @@ def compare(conll_path, gold_path, output_path, max_sentences=50):
 
 # run 
 if __name__ == "__main__":
-    CONLL = "/mnt/user-data/uploads/output_eng_by_python_code.conll"
-    GOLD = "/mnt/user-data/uploads/eng_data_first50_deepti_tagset.txt"
-    OUTPUT = "/mnt/user-data/outputs/discrepancy_report.conll"
+    CONLL = "output_eng_by_python_code.conll"
+    GOLD = "eng_data_first50_deepti_tagset.txt"
+    OUTPUT = "discrepancy_report.conll"
 
     import os
     os.makedirs("/mnt/user-data/outputs", exist_ok=True)
